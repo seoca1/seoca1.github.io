@@ -1,0 +1,18 @@
+# Hugo
+public/
+resources/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+*.swp
+*.swo
+
+# Build artifacts
+.hugo_build.lock
+
+# Local config
+.env
+.env.local

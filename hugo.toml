@@ -1,0 +1,73 @@
+baseURL = "https://spanish-seoca.github.io/"
+locale = "en-US"
+defaultContentLanguage = "en"
+title = "Spanish Daily Blog"
+theme = "ananke"
+
+# Pagination
+paginate = 10
+
+# Ananke theme params
+[params]
+  mainSections = ["posts", "concepts", "lessons", "culture"]
+  description = "Spanish language learning resources - grammar, vocabulary, and culture"
+  featured_image = "/images/og-default.png"
+  recent_posts_number = 5
+
+# Multilingual
+[languages]
+  [languages.en]
+    weight = 1
+    label = "English"
+    title = "Spanish Daily Blog"
+    [languages.en.params]
+      description = "Spanish grammar, vocabulary, and culture for English-speaking learners"
+  [languages.ko]
+    weight = 2
+    label = "한국어"
+    title = "스페인어 일일 블로그"
+    [languages.ko.params]
+      description = "한국어 화자를 위한 스페인어 문법, 어휘, 문화 콘텐츠"
+
+# Menu (top nav)
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Grammar"
+  url = "/categories/grammar/"
+  weight = 2
+
+[[menu.main]]
+  name = "Lessons"
+  url = "/categories/lessons/"
+  weight = 3
+
+[[menu.main]]
+  name = "Culture"
+  url = "/categories/culture/"
+  weight = 4
+
+[[menu.main]]
+  name = "Vocabulary"
+  url = "/categories/vocabulary/"
+  weight = 5
+
+# Markup - goldmark (default) with table support
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Allow raw HTML in markdown (for callouts, etc.)
+
+[markup.tableOfContents]
+  endLevel = 3
+  ordered = false
+  startLevel = 2
+
+# Taxonomies
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
