@@ -22,7 +22,7 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/concepts/spanish/Imperfect
 - "I used to eat" (habitual)
 - "I would eat" (repeated in the past)
 
-It does **not** describe a completed event — that's [[Past_Tense_Spanish|Pretérito Indefinido]].
+It does **not** describe a completed event — that's [Pretérito Indefinido](/concepts/preterite-tense/).
 
 ### When to use it
 
@@ -233,10 +233,10 @@ Use *ser*, *ir*, *ver* in Imperfecto in 10 conversational sentences.
 
 ## Related Concepts
 
-- [[Past_Tense_Spanish]] — Pretérito Indefinido (completed past)
-- [[Present_Tense_Spanish]] — Tense foundation
-- [[Reflexive_Verbs]] — Reflexive Imperfecto (me levantaba, te dormías)
-- [[Gustar_Verb]] — Works in Imperfecto too: *Me gustaba la paella.*
+- [Past Tense Spanish](/concepts/preterite-tense/) — Pretérito Indefinido (completed past)
+- [Present Tense Spanish](/concepts/present-tense/) — Tense foundation
+- [Reflexive Verbs](/concepts/reflexive-verbs/) — Reflexive Imperfecto (me levantaba, te dormías)
+- [Gustar Verb](/concepts/gustar-verb/) — Works in Imperfecto too: *Me gustaba la paella.*
 
 ---
 

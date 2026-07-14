@@ -229,11 +229,11 @@ Write 5–10 sentences describing your day, using only reflexive verbs.
 
 ## Related Concepts
 
-- [[Gustar_Verb]] — Gustar also uses an "indirect object + verb" construction
-- [[Prepositions_Spanish]] — Prepositions used in phrasal reflexives (*de*, *con*)
-- [[Present_Tense_Spanish]] — Base tense for most reflexive practice
-- [[Daily_Routine]] — Primary practical application
-- [[Travel_Directions]] — Some reflexive verbs in transit contexts
+- [Gustar Verb](/concepts/gustar-verb/) — Gustar also uses an "indirect object + verb" construction
+- [Prepositions Spanish](/concepts/spanish-prepositions/) — Prepositions used in phrasal reflexives (*de*, *con*)
+- [Present Tense Spanish](/concepts/present-tense/) — Base tense for most reflexive practice
+- [Daily Routine](/lessons/daily-routine/) — Primary practical application
+- [Travel Directions](/lessons/travel-directions/) — Some reflexive verbs in transit contexts
 
 ---
 

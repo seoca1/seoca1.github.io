@@ -348,10 +348,10 @@ These two verbs are typically used in the **3rd person singular** (only "it" rai
 
 ## Related Lessons
 
-- [[Daily_Routine]] — Daily routines affected by weather
-- [[Travel_Directions]] — Weather affects travel plans
-- [[Restaurant_Ordering]] — Indoor vs. outdoor dining
-- [[Tango_Culture]] — Argentinian seasonal context
+- [Daily Routine](/lessons/daily-routine/) — Daily routines affected by weather
+- [Travel Directions](/lessons/travel-directions/) — Weather affects travel plans
+- [Restaurant Ordering](/lessons/restaurant-ordering/) — Indoor vs. outdoor dining
+- [Tango Culture](/culture/argentine-tango/) — Argentinian seasonal context
 
 ---
 

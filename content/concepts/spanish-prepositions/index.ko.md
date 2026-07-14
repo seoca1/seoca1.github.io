@@ -15,7 +15,7 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/concepts/spanish/Prepositi
 - **기본 4개:** **a** (방향/목적지), **de** (출처/소유/재료), **en** (위치/수단), **con** (함께) — 문장 90% 가 이 4개로 굴러감
 - **por vs para:** 가장 헷갈리는 쌍. **por** = 이유/통과/대리/시간, **para** = 목적/목표/수신자/기한
 - **방향 표현:** a la izquierda / a la derecha / al lado de / entre / en frente de
-- **활용:** [[Travel_Directions]] 레슨의 핵심 문법
+- **활용:** [Travel Directions](/ko/lessons/travel-directions/) 레슨의 핵심 문법
 - **한국어 학습자 주의:** 한국어 조사는 위치 자유. 스페인어 전치사는 위치 고정.
 
 ---
@@ -202,10 +202,10 @@ Only `a` and `de` contract with the masculine singular article **el**.
 
 ## Related Concepts
 
-- [[Gustar_Verb]] — The **a** before clarifying pronouns in gustar sentences
-- [[Reflexive_Verbs]] — Some reflexive phrases use prepositions (acordarse **de**)
-- [[Travel_Directions]] — Primary practical application
-- [[Daily_Routine]] — Time expressions (a las, antes de, después de)
+- [Gustar Verb](/ko/concepts/gustar-verb/) — The **a** before clarifying pronouns in gustar sentences
+- [Reflexive Verbs](/ko/concepts/reflexive-verbs/) — Some reflexive phrases use prepositions (acordarse **de**)
+- [Travel Directions](/ko/lessons/travel-directions/) — Primary practical application
+- [Daily Routine](/ko/lessons/daily-routine/) — Time expressions (a las, antes de, después de)
 
 ---
 

@@ -34,7 +34,7 @@ This lesson teaches how to ask for and give directions in Spanish-speaking count
 
 ## Core Grammar 1: Essential Prepositions
 
-Quick recap of the most-used prepositions. Full breakdown in [[Prepositions_Spanish]].
+Quick recap of the most-used prepositions. Full breakdown in [Prepositions Spanish](/concepts/spanish-prepositions/).
 
 | Spanish | English | Example |
 |:---|:---|:---|
@@ -298,10 +298,10 @@ When giving directions to strangers, use the **formal (Ud.) command form**. The 
 
 ## Related Lessons
 
-- [[Prepositions_Spanish]] — Full preposition breakdown
-- [[Daily_Routine]] — Daily life vocabulary
-- [[Weather_and_Seasons]] — Useful for outdoor navigation
-- [[Restaurant_Ordering]] — Once you've found your destination
+- [Prepositions Spanish](/concepts/spanish-prepositions/) — Full preposition breakdown
+- [Daily Routine](/lessons/daily-routine/) — Daily life vocabulary
+- [Weather and Seasons](/lessons/weather-and-seasons/) — Useful for outdoor navigation
+- [Restaurant Ordering](/lessons/restaurant-ordering/) — Once you've found your destination
 
 ---
 

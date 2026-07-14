@@ -366,11 +366,11 @@ These are the IDs used by the daily Spanish card news (slot [2]) in `_exposure_l
 
 ## Related Resources
 
-- [[Daily_Routine]] — Practical application of category 1 verbs
-- [[Travel_Directions]] — Application of categories 2, 3, 4
-- [[Restaurant_Ordering]] — Application of category 9
-- [[Weather_and_Seasons]] — Application of category 6 (time)
-- [[Tango_Culture]] — Application of category 11 (culture)
+- [Daily Routine](/lessons/daily-routine/) — Practical application of category 1 verbs
+- [Travel Directions](/lessons/travel-directions/) — Application of categories 2, 3, 4
+- [Restaurant Ordering](/lessons/restaurant-ordering/) — Application of category 9
+- [Weather and Seasons](/lessons/weather-and-seasons/) — Application of category 6 (time)
+- [Tango Culture](/culture/argentine-tango/) — Application of category 11 (culture)
 
 ---
 

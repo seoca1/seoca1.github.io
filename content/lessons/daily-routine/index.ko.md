@@ -11,12 +11,12 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Daily_Rout
 
 ## 📌 한국어 학습자를 위한 요약
 
-- **핵심 문법:** 반사 동사 (levantarse, ducharse, vestirse) — [[Reflexive_Verbs]] 의 실전 응용
+- **핵심 문법:** 반사 동사 (levantarse, ducharse, vestirse) — [Reflexive Verbs](/ko/concepts/reflexive-verbs/) 의 실전 응용
 - **시간 표현:** a las + 시각, por la mañana/tarde/noche
 - **주요 어휘:** 9개 일상 동작 동사 + 시간 부사어
 - **목표:** 자신의 하루 일과를 스페인어로 5-10문장 묘사 가능
 - **한국어 학습자 주의:** 한국어에 없는 반사 동사 개념 + 시제 변화 (현재형 6인칭)
-- **다음 단계:** [[Travel_Directions]] — 일상 외 장소/방향 표현
+- **다음 단계:** [Travel Directions](/ko/lessons/travel-directions/) — 일상 외 장소/방향 표현
 
 ---
 
@@ -50,7 +50,7 @@ By the end of this lesson, you will be able to:
 
 **Reflexive verbs** describe actions a subject performs **on themselves**. They are essential for daily routines because most routine actions (waking up, showering, dressing) are self-directed.
 
-For the full grammatical breakdown, see [[Reflexive_Verbs]]. Quick recap:
+For the full grammatical breakdown, see [Reflexive Verbs](/ko/concepts/reflexive-verbs/). Quick recap:
 
 ```
 reflexive pronoun + conjugated verb (-se)
@@ -290,11 +290,11 @@ In connected speech, reflexive pronouns often blend with the following verb:
 
 ## Related Lessons
 
-- [[Reflexive_Verbs]] — Full grammatical breakdown of reflexive verbs
-- [[Present_Tense_Spanish]] — Base tense used throughout this lesson
-- [[Gustar_Verb]] — Useful for expressing preferences about routine
-- [[Travel_Directions]] — Next lesson (places and directions)
-- [[Restaurant_Ordering]] — Practice ordering meals with time context
+- [Reflexive Verbs](/ko/concepts/reflexive-verbs/) — Full grammatical breakdown of reflexive verbs
+- [Present Tense Spanish](/ko/concepts/present-tense/) — Base tense used throughout this lesson
+- [Gustar Verb](/ko/concepts/gustar-verb/) — Useful for expressing preferences about routine
+- [Travel Directions](/ko/lessons/travel-directions/) — Next lesson (places and directions)
+- [Restaurant Ordering](/ko/lessons/restaurant-ordering/) — Practice ordering meals with time context
 
 ---
 

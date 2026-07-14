@@ -12,7 +12,7 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/concepts/spanish/Imperfect
 ## 📌 한국어 학습자를 위한 요약
 
 - **핵심:** 불완료 과거 시제. 과거에 **진행 중이던** 동작, **반복되던 습관**, **배경 묘사** 에 사용. 영어 "I was eating / I used to eat / I would eat" 에 해당.
-- **vs 완료 과거:** Pretérito Indefinido (끝남) ↔ Pretérito Imperfecto (진행/반복). 비교는 [[Past_Tense_Spanish]] 참조.
+- **vs 완료 과거:** Pretérito Indefinido (끝남) ↔ Pretérito Imperfecto (진행/반복). 비교는 [Past Tense Spanish](/ko/concepts/preterite-tense/) 참조.
 - **3그룹 동사 변화:** `-AR` (hablar) / `-ER` (comer) / `-IR` (vivir) — `-ER`와 `-IR` 변형 동일
 - **불규칙 동사 3개:** ser / ir / ver — 거의 외우기만 하면 됨
 - **활용:** 옛날 이야기, 습관 묘사, 시간/장소 배경
@@ -34,7 +34,7 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/concepts/spanish/Imperfect
 - "I used to eat" (habitual)
 - "I would eat" (repeated in the past)
 
-It does **not** describe a completed event — that's [[Past_Tense_Spanish|Pretérito Indefinido]].
+It does **not** describe a completed event — that's [Pretérito Indefinido](/ko/concepts/preterite-tense/).
 
 ### When to use it
 
@@ -245,10 +245,10 @@ Use *ser*, *ir*, *ver* in Imperfecto in 10 conversational sentences.
 
 ## Related Concepts
 
-- [[Past_Tense_Spanish]] — Pretérito Indefinido (completed past)
-- [[Present_Tense_Spanish]] — Tense foundation
-- [[Reflexive_Verbs]] — Reflexive Imperfecto (me levantaba, te dormías)
-- [[Gustar_Verb]] — Works in Imperfecto too: *Me gustaba la paella.*
+- [Past Tense Spanish](/ko/concepts/preterite-tense/) — Pretérito Indefinido (completed past)
+- [Present Tense Spanish](/ko/concepts/present-tense/) — Tense foundation
+- [Reflexive Verbs](/ko/concepts/reflexive-verbs/) — Reflexive Imperfecto (me levantaba, te dormías)
+- [Gustar Verb](/ko/concepts/gustar-verb/) — Works in Imperfecto too: *Me gustaba la paella.*
 
 ---
 

@@ -269,10 +269,10 @@ Pick one of these topics and find one fact in Spanish:
 
 ## Related Content
 
-- [[Restaurant_Ordering]] — Argentinian meal times (cena 21–23)
-- [[Mexican_Street_Food]] — Other Latin American culture
-- [[Gustar_Verb]] — Useful for tango preferences
-- [[Prepositions_Spanish]] — For direction conversations at milongas
+- [Restaurant Ordering](/ko/lessons/restaurant-ordering/) — Argentinian meal times (cena 21–23)
+- [Mexican Street Food](/ko/culture/mexican-street-food/) — Other Latin American culture
+- [Gustar Verb](/ko/concepts/gustar-verb/) — Useful for tango preferences
+- [Prepositions Spanish](/ko/concepts/spanish-prepositions/) — For direction conversations at milongas
 
 ---
 

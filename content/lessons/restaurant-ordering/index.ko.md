@@ -11,7 +11,7 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Restaurant
 
 ## 📌 한국어 학습자를 위한 요약
 
-- **핵심 문법:** Gustar 동사 ([[Gustar_Verb]]), quisiera (정중한 요청), 인칭대명사 (me/te/le)
+- **핵심 문법:** Gustar 동사 ([Gustar Verb](/ko/concepts/gustar-verb/)), quisiera (정중한 요청), 인칭대명사 (me/te/le)
 - **주요 어휘:** 식당/음식/음료 명사 20개 + 4개 식당 동사
 - **목표:** 레스토랑에서 음식 주문, 메뉴 이해, 계산 요청
 - **핵심 표현:** Quisiera… / La cuenta, por favor / Para mí…
@@ -47,7 +47,7 @@ This lesson teaches how to navigate a restaurant in Spanish — from seating to 
 
 ## Core Grammar 1: The Gustar Construction
 
-**Gustar** means "to please" rather than "to like" — Spanish reverses the structure compared to English. Full breakdown in [[Gustar_Verb]].
+**Gustar** means "to please" rather than "to like" — Spanish reverses the structure compared to English. Full breakdown in [Gustar Verb](/ko/concepts/gustar-verb/).
 
 ```
 indirect object pronoun + gusta/gustan + subject
@@ -342,11 +342,11 @@ indirect object pronoun + gusta/gustan + subject
 
 ## Related Lessons
 
-- [[Gustar_Verb]] — Full grammatical breakdown
-- [[Daily_Routine]] — Daily vocabulary
-- [[Travel_Directions]] — How to get to the restaurant
-- [[Tango_Culture]] — Argentinian cultural context
-- [[Mexican_Street_Food]] — Mexican dining style
+- [Gustar Verb](/ko/concepts/gustar-verb/) — Full grammatical breakdown
+- [Daily Routine](/ko/lessons/daily-routine/) — Daily vocabulary
+- [Travel Directions](/ko/lessons/travel-directions/) — How to get to the restaurant
+- [Tango Culture](/ko/culture/argentine-tango/) — Argentinian cultural context
+- [Mexican Street Food](/ko/culture/mexican-street-food/) — Mexican dining style
 
 ---
 

@@ -35,7 +35,7 @@ This lesson teaches how to navigate a restaurant in Spanish — from seating to 
 
 ## Core Grammar 1: The Gustar Construction
 
-**Gustar** means "to please" rather than "to like" — Spanish reverses the structure compared to English. Full breakdown in [[Gustar_Verb]].
+**Gustar** means "to please" rather than "to like" — Spanish reverses the structure compared to English. Full breakdown in [Gustar Verb](/concepts/gustar-verb/).
 
 ```
 indirect object pronoun + gusta/gustan + subject
@@ -330,11 +330,11 @@ indirect object pronoun + gusta/gustan + subject
 
 ## Related Lessons
 
-- [[Gustar_Verb]] — Full grammatical breakdown
-- [[Daily_Routine]] — Daily vocabulary
-- [[Travel_Directions]] — How to get to the restaurant
-- [[Tango_Culture]] — Argentinian cultural context
-- [[Mexican_Street_Food]] — Mexican dining style
+- [Gustar Verb](/concepts/gustar-verb/) — Full grammatical breakdown
+- [Daily Routine](/lessons/daily-routine/) — Daily vocabulary
+- [Travel Directions](/lessons/travel-directions/) — How to get to the restaurant
+- [Tango Culture](/culture/argentine-tango/) — Argentinian cultural context
+- [Mexican Street Food](/culture/mexican-street-food/) — Mexican dining style
 
 ---
 

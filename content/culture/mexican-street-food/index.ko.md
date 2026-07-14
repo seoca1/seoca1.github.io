@@ -294,10 +294,10 @@ Role play with a friend: one is the taquero, the other is the customer ordering 
 
 ## Related Content
 
-- [[Restaurant_Ordering]] — Full restaurant vocabulary (formal)
-- [[Tango_Culture]] — Argentinian culture comparison
-- [[Gustar_Verb]] — Expressing food preferences
-- [[Imperfect_Tense_Spanish]] — Talking about past food experiences
+- [Restaurant Ordering](/ko/lessons/restaurant-ordering/) — Full restaurant vocabulary (formal)
+- [Tango Culture](/ko/culture/argentine-tango/) — Argentinian culture comparison
+- [Gustar Verb](/ko/concepts/gustar-verb/) — Expressing food preferences
+- [Imperfect Tense Spanish](/ko/concepts/imperfect-tense/) — Talking about past food experiences
 
 ---
 

@@ -151,11 +151,11 @@ Many Spanish verbs use this "pleasing" construction. They all describe *things a
 
 ## Related Concepts
 
-- [[Reflexive_Verbs]] — Same pronoun structure but for self-action
-- [[Prepositions_Spanish]] — The **a** before the clarifying pronoun
-- [[Restaurant_Ordering]] — Practical application in ordering
-- [[Present_Tense_Spanish]] — Tense used with gustar
-- [[Daily_Routine]] — Daily preferences and routines
+- [Reflexive Verbs](/concepts/reflexive-verbs/) — Same pronoun structure but for self-action
+- [Prepositions Spanish](/concepts/spanish-prepositions/) — The **a** before the clarifying pronoun
+- [Restaurant Ordering](/lessons/restaurant-ordering/) — Practical application in ordering
+- [Present Tense Spanish](/concepts/present-tense/) — Tense used with gustar
+- [Daily Routine](/lessons/daily-routine/) — Daily preferences and routines
 
 ---
 

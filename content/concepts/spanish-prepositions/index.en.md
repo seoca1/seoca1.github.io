@@ -190,10 +190,10 @@ Only `a` and `de` contract with the masculine singular article **el**.
 
 ## Related Concepts
 
-- [[Gustar_Verb]] — The **a** before clarifying pronouns in gustar sentences
-- [[Reflexive_Verbs]] — Some reflexive phrases use prepositions (acordarse **de**)
-- [[Travel_Directions]] — Primary practical application
-- [[Daily_Routine]] — Time expressions (a las, antes de, después de)
+- [Gustar Verb](/concepts/gustar-verb/) — The **a** before clarifying pronouns in gustar sentences
+- [Reflexive Verbs](/concepts/reflexive-verbs/) — Some reflexive phrases use prepositions (acordarse **de**)
+- [Travel Directions](/lessons/travel-directions/) — Primary practical application
+- [Daily Routine](/lessons/daily-routine/) — Time expressions (a las, antes de, después de)
 
 ---
 

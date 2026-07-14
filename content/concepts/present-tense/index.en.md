@@ -161,11 +161,11 @@ Some verbs change the stem vowel in stressed syllables:
 
 ## Related Concepts
 
-- [[Reflexive_Verbs]] — Add reflexive pronouns to present-tense verbs
-- [[Gustar_Verb]] — Inverted construction with present tense
-- [[Past_Tense_Spanish]] — Pretérito Indefinido (completed past)
-- [[Imperfect_Tense_Spanish]] — Pretérito Imperfecto (ongoing past)
-- [[Daily_Routine]] — Daily routine lesson built on present tense
+- [Reflexive Verbs](/concepts/reflexive-verbs/) — Add reflexive pronouns to present-tense verbs
+- [Gustar Verb](/concepts/gustar-verb/) — Inverted construction with present tense
+- [Past Tense Spanish](/concepts/preterite-tense/) — Pretérito Indefinido (completed past)
+- [Imperfect Tense Spanish](/concepts/imperfect-tense/) — Pretérito Imperfecto (ongoing past)
+- [Daily Routine](/lessons/daily-routine/) — Daily routine lesson built on present tense
 
 ---
 

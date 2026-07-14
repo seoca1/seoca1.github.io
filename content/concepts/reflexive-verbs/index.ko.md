@@ -15,7 +15,7 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/concepts/spanish/Reflexive
 - **반사 대명사 6인칭:** me / te / se / nos / os / se — 동사 **앞** 에 위치 (영어의 "-self" 와 다름).
 - **활용 시점:** 일상 루틴, 감정 표현, 신체 동작. **20선 필수 동사** (levantarse, ducharse, vestirse, acostarse 등).
 - **한국어 학습자 주의:** 한국어에 없는 개념. "Me levanto" = "나는 [나를] 일으킨다" 로 생각.
-- **관련 레슨:** [[Daily_Routine]] — 이 문법의 주 활용처.
+- **관련 레슨:** [Daily Routine](/ko/lessons/daily-routine/) — 이 문법의 주 활용처.
 
 ---
 
@@ -240,11 +240,11 @@ Write 5–10 sentences describing your day, using only reflexive verbs.
 
 ## Related Concepts
 
-- [[Gustar_Verb]] — Gustar also uses an "indirect object + verb" construction
-- [[Prepositions_Spanish]] — Prepositions used in phrasal reflexives (*de*, *con*)
-- [[Present_Tense_Spanish]] — Base tense for most reflexive practice
-- [[Daily_Routine]] — Primary practical application
-- [[Travel_Directions]] — Some reflexive verbs in transit contexts
+- [Gustar Verb](/ko/concepts/gustar-verb/) — Gustar also uses an "indirect object + verb" construction
+- [Prepositions Spanish](/ko/concepts/spanish-prepositions/) — Prepositions used in phrasal reflexives (*de*, *con*)
+- [Present Tense Spanish](/ko/concepts/present-tense/) — Base tense for most reflexive practice
+- [Daily Routine](/ko/lessons/daily-routine/) — Primary practical application
+- [Travel Directions](/ko/lessons/travel-directions/) — Some reflexive verbs in transit contexts
 
 ---
 

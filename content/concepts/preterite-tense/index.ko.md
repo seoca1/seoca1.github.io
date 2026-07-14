@@ -12,11 +12,11 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/concepts/spanish/Past_Tens
 ## 📌 한국어 학습자를 위한 요약
 
 - **핵심:** 완료 과거 시제. 과거에 **끝난** 사건/동작을 묘사. 영어 "I ate / I did / I went" 에 해당.
-- **vs 불완료 과거:** Pretérito Indefinido (끝남) ↔ Pretérito Imperfecto (진행 중/반복) — 자세한 비교는 [[Imperfect_Tense_Spanish]] 참조
+- **vs 불완료 과거:** Pretérito Indefinido (끝남) ↔ Pretérito Imperfecto (진행 중/반복) — 자세한 비교는 [Imperfect Tense Spanish](/ko/concepts/imperfect-tense/) 참조
 - **3그룹 동사 변화:** `-AR` (hablar) / `-ER` (comer) / `-IR` (vivir) — 각 6인칭
 - **활용:** 일기, 에피소드, 일어난 일 묘사. 한국어 "~했다" 에 가장 가까운 시제
 - **한국어 학습자 주의:** 한국어는 과거 시제 어미 변화 약함 ("~었다/았다"). 스페인어는 인칭별 어미 모두 다름.
-- **다음 단계:** [[Imperfect_Tense_Spanish]] — 불완료 과거
+- **다음 단계:** [Imperfect Tense Spanish](/ko/concepts/imperfect-tense/) — 불완료 과거
 
 ---
 
@@ -31,7 +31,7 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/concepts/spanish/Past_Tens
 Spanish has **two main past tenses**, and choosing between them is essential for fluent storytelling:
 
 1. **Pretérito Indefinido** (this lesson) — completed actions in the past
-2. **Pretérito Imperfecto** — ongoing or habitual past (see [[Imperfect_Tense_Spanish]])
+2. **Pretérito Imperfecto** — ongoing or habitual past (see [Imperfect Tense Spanish](/ko/concepts/imperfect-tense/))
 
 **Pretérito Indefinido** describes actions that happened **once, at a specific moment**, and are now **finished**. It corresponds to English simple past: "I ate," "I did," "I went."
 
@@ -232,11 +232,11 @@ Combine preterite with imperfecto: *Estudiaba cuando me llamaste.* (I was studyi
 
 ## Related Concepts
 
-- [[Imperfect_Tense_Spanish]] — The other Spanish past tense (ongoing/habitual)
-- [[Present_Tense_Spanish]] — Tense foundation
-- [[Reflexive_Verbs]] — Reflexive preterite (me levanté, te dormiste)
-- [[Gustar_Verb]] — Works with preterite too: *Me gustó la película.*
-- [[Daily_Routine]] — Practice describing your day in past tense
+- [Imperfect Tense Spanish](/ko/concepts/imperfect-tense/) — The other Spanish past tense (ongoing/habitual)
+- [Present Tense Spanish](/ko/concepts/present-tense/) — Tense foundation
+- [Reflexive Verbs](/ko/concepts/reflexive-verbs/) — Reflexive preterite (me levanté, te dormiste)
+- [Gustar Verb](/ko/concepts/gustar-verb/) — Works with preterite too: *Me gustó la película.*
+- [Daily Routine](/ko/lessons/daily-routine/) — Practice describing your day in past tense
 
 ---
 

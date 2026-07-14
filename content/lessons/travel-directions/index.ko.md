@@ -11,7 +11,7 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Travel_Dir
 
 ## 📌 한국어 학습자를 위한 요약
 
-- **핵심 문법:** 전치사 (a, de, en, hasta) + 방향 표현 + 명령형 (Ud.) — [[Prepositions_Spanish]] 의 실전 응용
+- **핵심 문법:** 전치사 (a, de, en, hasta) + 방향 표현 + 명령형 (Ud.) — [Prepositions Spanish](/ko/concepts/spanish-prepositions/) 의 실전 응용
 - **주요 어휘:** 교통수단 6개 + 장소 7개 + 방향 표현 8개
 - **목표:** 낯선 곳에서 길 묻기 / 답하기, 교통수단 이용 안내
 - **회화 패턴:** ¿Cómo llego a…? / Gire a la derecha / Siga todo recto
@@ -46,7 +46,7 @@ This lesson teaches how to ask for and give directions in Spanish-speaking count
 
 ## Core Grammar 1: Essential Prepositions
 
-Quick recap of the most-used prepositions. Full breakdown in [[Prepositions_Spanish]].
+Quick recap of the most-used prepositions. Full breakdown in [Prepositions Spanish](/ko/concepts/spanish-prepositions/).
 
 | Spanish | English | Example |
 |:---|:---|:---|
@@ -310,10 +310,10 @@ When giving directions to strangers, use the **formal (Ud.) command form**. The 
 
 ## Related Lessons
 
-- [[Prepositions_Spanish]] — Full preposition breakdown
-- [[Daily_Routine]] — Daily life vocabulary
-- [[Weather_and_Seasons]] — Useful for outdoor navigation
-- [[Restaurant_Ordering]] — Once you've found your destination
+- [Prepositions Spanish](/ko/concepts/spanish-prepositions/) — Full preposition breakdown
+- [Daily Routine](/ko/lessons/daily-routine/) — Daily life vocabulary
+- [Weather and Seasons](/ko/lessons/weather-and-seasons/) — Useful for outdoor navigation
+- [Restaurant Ordering](/ko/lessons/restaurant-ordering/) — Once you've found your destination
 
 ---
 

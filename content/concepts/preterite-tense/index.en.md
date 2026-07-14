@@ -19,7 +19,7 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/concepts/spanish/Past_Tens
 Spanish has **two main past tenses**, and choosing between them is essential for fluent storytelling:
 
 1. **Pretérito Indefinido** (this lesson) — completed actions in the past
-2. **Pretérito Imperfecto** — ongoing or habitual past (see [[Imperfect_Tense_Spanish]])
+2. **Pretérito Imperfecto** — ongoing or habitual past (see [Imperfect Tense Spanish](/concepts/imperfect-tense/))
 
 **Pretérito Indefinido** describes actions that happened **once, at a specific moment**, and are now **finished**. It corresponds to English simple past: "I ate," "I did," "I went."
 
@@ -220,11 +220,11 @@ Combine preterite with imperfecto: *Estudiaba cuando me llamaste.* (I was studyi
 
 ## Related Concepts
 
-- [[Imperfect_Tense_Spanish]] — The other Spanish past tense (ongoing/habitual)
-- [[Present_Tense_Spanish]] — Tense foundation
-- [[Reflexive_Verbs]] — Reflexive preterite (me levanté, te dormiste)
-- [[Gustar_Verb]] — Works with preterite too: *Me gustó la película.*
-- [[Daily_Routine]] — Practice describing your day in past tense
+- [Imperfect Tense Spanish](/concepts/imperfect-tense/) — The other Spanish past tense (ongoing/habitual)
+- [Present Tense Spanish](/concepts/present-tense/) — Tense foundation
+- [Reflexive Verbs](/concepts/reflexive-verbs/) — Reflexive preterite (me levanté, te dormiste)
+- [Gustar Verb](/concepts/gustar-verb/) — Works with preterite too: *Me gustó la película.*
+- [Daily Routine](/lessons/daily-routine/) — Practice describing your day in past tense
 
 ---
 

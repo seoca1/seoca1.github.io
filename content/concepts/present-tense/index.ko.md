@@ -15,7 +15,7 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/concepts/spanish/Present_T
 - **3그룹 동사 변화:** `-AR` (hablar) / `-ER` (comer) / `-IR` (vivir) — 각 6인칭 변화.
 - **불규칙 동사:** yo 형 변형 (tengo, vengo, hago), 3인칭 변형, 완전 불규칙 (ser, estar, ir).
 - **한국어 학습자 주의:** 한국어 현재형은 시제 변화 없음. 스페인어는 인칭/인수에 따라 어미 변경 필수.
-- **관련:** [[Reflexive_Verbs]] — 반사 동사도 현재 시제 기반 / [[Past_Tense_Spanish]] — 과거 시제.
+- **관련:** [Reflexive Verbs](/ko/concepts/reflexive-verbs/) — 반사 동사도 현재 시제 기반 / [Past Tense Spanish](/ko/concepts/preterite-tense/) — 과거 시제.
 
 ---
 
@@ -172,11 +172,11 @@ Some verbs change the stem vowel in stressed syllables:
 
 ## Related Concepts
 
-- [[Reflexive_Verbs]] — Add reflexive pronouns to present-tense verbs
-- [[Gustar_Verb]] — Inverted construction with present tense
-- [[Past_Tense_Spanish]] — Pretérito Indefinido (completed past)
-- [[Imperfect_Tense_Spanish]] — Pretérito Imperfecto (ongoing past)
-- [[Daily_Routine]] — Daily routine lesson built on present tense
+- [Reflexive Verbs](/ko/concepts/reflexive-verbs/) — Add reflexive pronouns to present-tense verbs
+- [Gustar Verb](/ko/concepts/gustar-verb/) — Inverted construction with present tense
+- [Past Tense Spanish](/ko/concepts/preterite-tense/) — Pretérito Indefinido (completed past)
+- [Imperfect Tense Spanish](/ko/concepts/imperfect-tense/) — Pretérito Imperfecto (ongoing past)
+- [Daily Routine](/ko/lessons/daily-routine/) — Daily routine lesson built on present tense
 
 ---
 

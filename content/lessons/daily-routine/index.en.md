@@ -38,7 +38,7 @@ By the end of this lesson, you will be able to:
 
 **Reflexive verbs** describe actions a subject performs **on themselves**. They are essential for daily routines because most routine actions (waking up, showering, dressing) are self-directed.
 
-For the full grammatical breakdown, see [[Reflexive_Verbs]]. Quick recap:
+For the full grammatical breakdown, see [Reflexive Verbs](/concepts/reflexive-verbs/). Quick recap:
 
 ```
 reflexive pronoun + conjugated verb (-se)
@@ -278,11 +278,11 @@ In connected speech, reflexive pronouns often blend with the following verb:
 
 ## Related Lessons
 
-- [[Reflexive_Verbs]] — Full grammatical breakdown of reflexive verbs
-- [[Present_Tense_Spanish]] — Base tense used throughout this lesson
-- [[Gustar_Verb]] — Useful for expressing preferences about routine
-- [[Travel_Directions]] — Next lesson (places and directions)
-- [[Restaurant_Ordering]] — Practice ordering meals with time context
+- [Reflexive Verbs](/concepts/reflexive-verbs/) — Full grammatical breakdown of reflexive verbs
+- [Present Tense Spanish](/concepts/present-tense/) — Base tense used throughout this lesson
+- [Gustar Verb](/concepts/gustar-verb/) — Useful for expressing preferences about routine
+- [Travel Directions](/lessons/travel-directions/) — Next lesson (places and directions)
+- [Restaurant Ordering](/lessons/restaurant-ordering/) — Practice ordering meals with time context
 
 ---
 
