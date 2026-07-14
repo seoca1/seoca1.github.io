@@ -12,6 +12,15 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/concepts/spanish/Present_T
 
 # Present Tense (Presente)
 
+> 🇰🇷 **한국어 요약 (Korean Summary)**
+> - **핵심:** Presente는 현재·습관·일반 진리·현재 상태 모두 표현 — 영어 "I speak/I am speaking/I do speak" 통합
+> - **한국어 학습자 팁:** 한국어 시제("-는다/-았-")와 달리 스페인어 현재형 하나가 영어의 단순/진행/습관형을 모두 포괄. 진행형(estar + -ando/-iendo)은 강조 시에만
+> - **구조:** 3정규 패턴 -AR(hablar→hablo, hablas, habla…), -ER(comer→como, comes, come…), -IR(vivir→vivo, vives, vive…). 6인칭 × 3규칙 = 18정규 변화형
+> - **발음:** "-AR" 1인칭 단수 "-o" [o] / "-ER/-IR" 1인칭 단수 "-o" [o] — 동일 발음, 다른 어미
+> - **다음 단계:** [Reflexive Verbs](/concepts/reflexive-verbs/) — 현재형 + 재귀대명사 / [Daily Routine](/lessons/daily-routine/) — 실전 활용
+
+## What Is the Spanish Present Tense?
+
 
 
 ## What Is the Spanish Present Tense?

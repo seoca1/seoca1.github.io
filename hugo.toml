@@ -60,6 +60,16 @@ paginate = 10
   url = "/russian/"
   weight = 6
 
+[[menu.main]]
+  name = "🇯🇵 Japanese"
+  url = "/japanese/"
+  weight = 7
+
+[[menu.main]]
+  name = "🇨🇳 Chinese"
+  url = "/chinese/"
+  weight = 8
+
 # Markup - goldmark (default) with table support
 [markup]
   [markup.goldmark]

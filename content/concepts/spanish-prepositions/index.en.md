@@ -12,6 +12,15 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/concepts/spanish/Prepositi
 
 # Spanish Prepositions (Preposiciones)
 
+> 🇰🇷 **한국어 요약 (Korean Summary)**
+> - **핵심:** 스페인어 전치사는 a(방향/목적지), de(출처/소유), en(장소), por/para(이유/목적/수단) — 4개로 90% 커버
+> - **한국어 학습자 팁:** 한국어 조사 "을/를/에/에서/으로" 와 역할 유사하지만 매핑 단순하지 않음. por vs para가 가장 큰 함정(영어 for/by 둘 다 매핑). a+el=al, de+el=del 필수 축약
+> - **구조:** 전치사 + 명사(또는 동사원형) — 동사 직접 목적어로 a 사용(a Juan, al médico), 방향 표현(ir a, venir de), 시간 표현(en 2025, a las tres)
+> - **발음:** "a" [a] / "de" [de] / "en" [en] — 모두 짧은 강세 없는 음절 / 축약형 "al" [al], "del" [del]
+> - **다음 단계:** [Travel & Directions](/lessons/travel-directions/) — 전치사 실전 (방향/위치) / [Restaurant Ordering](/lessons/restaurant-ordering/) — 전치사 + 음식 표현
+
+## What Are Prepositions?
+
 
 
 ## What Are Prepositions?

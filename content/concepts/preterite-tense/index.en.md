@@ -12,6 +12,15 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/concepts/spanish/Past_Tens
 
 # Preterite Tense (Pretérito Indefinido)
 
+> 🇰🇷 **한국어 요약 (Korean Summary)**
+> - **핵심:** Pretérito Indefinido는 과거의 **단발성·완료된** 사건 — 시작/끝이 명확한 동작 ("했다", "갔다")
+> - **한국어 학습자 팁:** 한국어 "-았다" 와 가장 가까운 대응이지만, 스페인어는 동사 종류·인칭별 어미가 매우 복잡. 특히 3인칭 불규칙(Yo→hizo 형태) 숙지 필수. 회화에서 가장 빈도 높은 과거형
+> - **구조:** -AR(hablar→hablé, hablaste, habló…), -ER/-IR(comer→comí, comiste, comió…). 불규칙 약 15개(tener→tuve, estar→estuve, ir/ser→fui 동형)
+> - **발음:** "-é" [e] (강모음, 성조 강조) / "-ó" [o] (성조) / "-í" [i] — 과거 1/3인칭 단수 모음 모두 강세 위치
+> - **다음 단계:** [Imperfect Tense](/concepts/imperfect-tense/) — 두 과거 시제 대조 (완료 vs 배경)
+
+## What Is the Preterite Tense?
+
 
 
 ## What Is the Preterite Tense?

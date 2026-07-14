@@ -12,6 +12,15 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/culture/Mexican_St
 
 # Mexican Street Food (Comida Callejera Mexicana)
 
+> 🇰🇷 **한국어 요약 (Korean Summary)**
+> - **핵심:** 멕시코 길거리 음식 문화 — tacos, burritos, salsa — 1억 3천만 스페인어 사용 국가의 일상 어휘원
+> - **한국어 학습자 팁:** 한국어에도 "타코"가 보편화. 멕시코 본토 어휘는 풍부(quesadilla, elote, tamal, pozole). "taquería" 표지판만 봐도 어휘 습득 가능
+> - **구조:** 어휘 4단계 — (1) 기본 음식명 (taco, tortilla, salsa) (2) 토핑/소스(cilantro, limón, cebolla) (3) 주문 동사(pedir, llevar) (4) 식문화(¡buen provecho! 인사)
+> - **발음:** 멕시코 스페인어 — "x" 보통 [x]/[s] (멕시코, xolo) / "tl" [tɬ] (tortilla, tlacoyo) — 나후아틀 어원. 유럽 스페인어와 다른 음운
+> - **다음 단계:** [Restaurant Ordering](/lessons/restaurant-ordering/) — 식당 주문 어휘 / [Weather and Seasons](/lessons/weather-and-seasons/) — 계절 음식(멕시코)
+
+## Why Mexico in Your Spanish Studies?
+
 
 
 ## Why Mexico in Your Spanish Studies?
