@@ -55,6 +55,11 @@ paginate = 10
   url = "/categories/vocabulary/"
   weight = 5
 
+[[menu.main]]
+  name = "🇷🇺 Russian"
+  url = "/categories/russian/"
+  weight = 6
+
 # Markup - goldmark (default) with table support
 [markup]
   [markup.goldmark]
