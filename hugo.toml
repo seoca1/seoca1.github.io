@@ -1,7 +1,7 @@
 baseURL = "https://seoca1.github.io/"
 locale = "en-US"
 defaultContentLanguage = "en"
-title = "Spanish Daily Blog"
+title = "🌍 Multilingual Daily Blog"
 theme = "ananke"
 
 # Pagination
@@ -19,15 +19,15 @@ paginate = 10
   [languages.en]
     weight = 1
     label = "English"
-    title = "Spanish Daily Blog"
+    title = "🌍 Multilingual Daily Blog"
     [languages.en.params]
-      description = "Spanish grammar, vocabulary, and culture for English-speaking learners"
+      description = "Multilingual grammar, vocabulary, and culture for English-speaking learners (Spanish, Japanese, Chinese, Russian)"
   [languages.ko]
     weight = 2
     label = "한국어"
-    title = "스페인어 일일 블로그"
+    title = "🌏 다국어 일일 블로그"
     [languages.ko.params]
-      description = "한국어 화자를 위한 스페인어 문법, 어휘, 문화 콘텐츠"
+      description = "한국어 화자를 위한 스페인어/일본어/중국어/러시아어 문법, 어휘, 문화 콘텐츠"
 
 # Menu (top nav)
 [[menu.main]]
@@ -57,7 +57,7 @@ paginate = 10
 
 [[menu.main]]
   name = "🇷🇺 Russian"
-  url = "/categories/russian/"
+  url = "/russian/"
   weight = 6
 
 # Markup - goldmark (default) with table support

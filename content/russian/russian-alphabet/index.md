@@ -195,7 +195,7 @@ Comparing Russian Cyrillic sounds to **Korean Hanja readings (음독)**:
 
 ## Related Lessons
 
-- [Russian Pronunciation](../russian-pronunciation/) — pronunciation rules
-- [Russian Greetings](../russian-greetings/) — greetings
-- [Russian Basic Phrases](../russian-basic-phrases/) — basic vocabulary
-- [Russian Nouns Cases](../russian-nouns-cases/) — noun cases
+- [Russian Pronunciation](./russian-pronunciation/) — pronunciation rules
+- [Russian Greetings](./russian-greetings/) — greetings
+- [Russian Basic Phrases](./russian-basic-phrases/) — basic vocabulary
+- [Russian Nouns Cases](./russian-nouns-cases/) — noun cases
