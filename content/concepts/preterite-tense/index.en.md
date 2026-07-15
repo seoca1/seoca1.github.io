@@ -12,15 +12,6 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/concepts/spanish/Past_Tens
 
 # Preterite Tense (Pretérito Indefinido)
 
-> 🇰🇷 **한국어 요약 (Korean Summary)**
-> - **핵심:** Pretérito Indefinido는 과거의 **단발성·완료된** 사건 — 시작/끝이 명확한 동작 ("했다", "갔다")
-> - **한국어 학습자 팁:** 한국어 "-았다" 와 가장 가까운 대응이지만, 스페인어는 동사 종류·인칭별 어미가 매우 복잡. 특히 3인칭 불규칙(Yo→hizo 형태) 숙지 필수. 회화에서 가장 빈도 높은 과거형
-> - **구조:** -AR(hablar→hablé, hablaste, habló…), -ER/-IR(comer→comí, comiste, comió…). 불규칙 약 15개(tener→tuve, estar→estuve, ir/ser→fui 동형)
-> - **발음:** "-é" [e] (강모음, 성조 강조) / "-ó" [o] (성조) / "-í" [i] — 과거 1/3인칭 단수 모음 모두 강세 위치
-> - **다음 단계:** [Imperfect Tense](/concepts/imperfect-tense/) — 두 과거 시제 대조 (완료 vs 배경)
-
-## What Is the Preterite Tense?
-
 
 
 ## What Is the Preterite Tense?
@@ -28,7 +19,7 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/concepts/spanish/Past_Tens
 Spanish has **two main past tenses**, and choosing between them is essential for fluent storytelling:
 
 1. **Pretérito Indefinido** (this lesson) — completed actions in the past
-2. **Pretérito Imperfecto** — ongoing or habitual past (see [Imperfect Tense Spanish](/concepts/imperfect-tense/))
+2. **Pretérito Imperfecto** — ongoing or habitual past (see [[Imperfect_Tense_Spanish]])
 
 **Pretérito Indefinido** describes actions that happened **once, at a specific moment**, and are now **finished**. It corresponds to English simple past: "I ate," "I did," "I went."
 
@@ -229,11 +220,11 @@ Combine preterite with imperfecto: *Estudiaba cuando me llamaste.* (I was studyi
 
 ## Related Concepts
 
-- [Imperfect Tense Spanish](/concepts/imperfect-tense/) — The other Spanish past tense (ongoing/habitual)
-- [Present Tense Spanish](/concepts/present-tense/) — Tense foundation
-- [Reflexive Verbs](/concepts/reflexive-verbs/) — Reflexive preterite (me levanté, te dormiste)
-- [Gustar Verb](/concepts/gustar-verb/) — Works with preterite too: *Me gustó la película.*
-- [Daily Routine](/lessons/daily-routine/) — Practice describing your day in past tense
+- [[Imperfect_Tense_Spanish]] — The other Spanish past tense (ongoing/habitual)
+- [[Present_Tense_Spanish]] — Tense foundation
+- [[Reflexive_Verbs]] — Reflexive preterite (me levanté, te dormiste)
+- [[Gustar_Verb]] — Works with preterite too: *Me gustó la película.*
+- [[Daily_Routine]] — Practice describing your day in past tense
 
 ---
 

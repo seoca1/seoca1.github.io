@@ -12,15 +12,6 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Restaurant
 
 # Restaurant Ordering (Pedir Comida)
 
-> 🇰🇷 **한국어 요약 (Korean Summary)**
-> - **핵심:** 식당 주문 완전 가이드 — 좌석 안내부터 계산 요청까지. gustar 구문(선호 표현) + quisiera(공손 요청형) 2개 문법 축
-> - **한국어 학습자 팁:** 한국어 식당 문화와 차이 큼 — "Mesero/Por favor"로 직원 부름. "La cuenta, por favor" 가 필수 표현. 알레르기/식이 제한 표현 5개 숙지 시 실제 식당 적응 가능
-> - **구조:** Lesson 6단계 — 인사와 좌석(Mesero, Una mesa para dos) → 메뉴(Menú, Carta) 주문(Quisiera…, Para mí…) → gustar 선호 표현(Me gusta/No me gusta) → 요청(La cuenta, Más agua, Sin gluten) → 식후 인사(¡Buen provecho!)
-> - **발음:** "quisiera" [kiˈsjeɾa] — quisiera는 conditional 형, 부드러운 공손 톤 / "cuenta" [ˈkwenta] — 강모음 [e]
-> - **다음 단계:** [Daily Routine](/lessons/daily-routine/) — 일상 어휘 확장 / [Gustar Verb](/concepts/gustar-verb/) — 선호 표현 심화
-
-## Lesson Overview
-
 
 
 ## Lesson Overview
@@ -44,7 +35,7 @@ This lesson teaches how to navigate a restaurant in Spanish — from seating to 
 
 ## Core Grammar 1: The Gustar Construction
 
-**Gustar** means "to please" rather than "to like" — Spanish reverses the structure compared to English. Full breakdown in [Gustar Verb](/concepts/gustar-verb/).
+**Gustar** means "to please" rather than "to like" — Spanish reverses the structure compared to English. Full breakdown in [[Gustar_Verb]].
 
 ```
 indirect object pronoun + gusta/gustan + subject
@@ -339,11 +330,11 @@ indirect object pronoun + gusta/gustan + subject
 
 ## Related Lessons
 
-- [Gustar Verb](/concepts/gustar-verb/) — Full grammatical breakdown
-- [Daily Routine](/lessons/daily-routine/) — Daily vocabulary
-- [Travel Directions](/lessons/travel-directions/) — How to get to the restaurant
-- [Tango Culture](/culture/argentine-tango/) — Argentinian cultural context
-- [Mexican Street Food](/culture/mexican-street-food/) — Mexican dining style
+- [[Gustar_Verb]] — Full grammatical breakdown
+- [[Daily_Routine]] — Daily vocabulary
+- [[Travel_Directions]] — How to get to the restaurant
+- [[Tango_Culture]] — Argentinian cultural context
+- [[Mexican_Street_Food]] — Mexican dining style
 
 ---
 

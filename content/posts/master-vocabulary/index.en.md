@@ -12,15 +12,6 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/vocabulary/Master_
 
 # Spanish Master Vocabulary List (Vocabulario Español)
 
-> 🇰🇷 **한국어 요약 (Korean Summary)**
-> - **핵심:** 11카테고리 × 600+ 어휘 마스터 리스트 — 카테고리 1~6이 일상 회화 80% 커버(동사·명사·형용사·식사·교통·날씨)
-> - **한국어 학습자 팁:** 한국어 학습자용 우선순위 — (1) 동사 카테고리 (2) 음식 (3) 숫자·시간 (4) 교통·방향. 매일 1카테고리 × 1번들 회전. 한달 30개 어휘 = 6개월 180개로 일상 회화 진입
-> - **구조:** 11카테고리 — 동사(50+)·명사(40+)·형용사(30+)·식사(40+)·가족(25)·숫자(30)·색깔·날씨·교통·집·문화(20). 각 항목: 스페인어 + 음성 + 성별 + 한국어 + 예문
-> - **발음:** 음성 표기 IPA 포함 — 강모음(a/e/o) 강조 위치 표시. "lluvia" [ˈʎuβja]/[ˈʒuβja], "caña" [ˈkaɲa] — 지역 변이 음운 병기
-> - **다음 단계:** [Daily Routine](/lessons/daily-routine/) — 동사 카테고리 적용 / [Restaurant Ordering](/lessons/restaurant-ordering/) — 음식 카테고리 적용
-
-## How to Use This List
-
 
 
 ## How to Use This List
@@ -375,11 +366,11 @@ These are the IDs used by the daily Spanish card news (slot [2]) in `_exposure_l
 
 ## Related Resources
 
-- [Daily Routine](/lessons/daily-routine/) — Practical application of category 1 verbs
-- [Travel Directions](/lessons/travel-directions/) — Application of categories 2, 3, 4
-- [Restaurant Ordering](/lessons/restaurant-ordering/) — Application of category 9
-- [Weather and Seasons](/lessons/weather-and-seasons/) — Application of category 6 (time)
-- [Tango Culture](/culture/argentine-tango/) — Application of category 11 (culture)
+- [[Daily_Routine]] — Practical application of category 1 verbs
+- [[Travel_Directions]] — Application of categories 2, 3, 4
+- [[Restaurant_Ordering]] — Application of category 9
+- [[Weather_and_Seasons]] — Application of category 6 (time)
+- [[Tango_Culture]] — Application of category 11 (culture)
 
 ---
 

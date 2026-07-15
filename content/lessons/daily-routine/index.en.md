@@ -12,15 +12,6 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Daily_Rout
 
 # Daily Routine (Rutina Diaria)
 
-> 🇰🇷 **한국어 요약 (Korean Summary)**
-> - **핵심:** 일상 루틴 묘사 — 재귀동사(reflexive verbs) + 현재형이 문법적 핵심. 아침/낮/저녁 5~10문장 작성이 목표
-> - **한국어 학습자 팁:** 한국어 "-한다/-했다" 처럼 단순하지 않음. 재귀동사 12~15개 동사 어휘 + 시제 1개(현재) 동시 습득. 매일 1동사씩 외우면 2주 내 마스터
-> - **구조:** Lesson 5단계 — 재귀대명사 표(6인칭) → 재귀동사 12개 어휘(levantarse, ducharse…) → 시간 표현(a las siete, por la mañana) → 접속사(luego, después, mientras) → 실전 5문장 작성
-> - **발음:** 재귀동사 "-se" 끝음절 [se] (스페인) / [se] (멕시코, 라틴아메리카 대부분) — 끝음절 s 약화 없음. "levantarse" [leβanˈtaɾse]
-> - **다음 단계:** [Reflexive Verbs](/concepts/reflexive-verbs/) — 재귀동사 문법 깊이 / [Present Tense](/concepts/present-tense/) — 현재형 변화
-
-## Lesson Overview
-
 
 
 ## Lesson Overview
@@ -47,7 +38,7 @@ By the end of this lesson, you will be able to:
 
 **Reflexive verbs** describe actions a subject performs **on themselves**. They are essential for daily routines because most routine actions (waking up, showering, dressing) are self-directed.
 
-For the full grammatical breakdown, see [Reflexive Verbs](/concepts/reflexive-verbs/). Quick recap:
+For the full grammatical breakdown, see [[Reflexive_Verbs]]. Quick recap:
 
 ```
 reflexive pronoun + conjugated verb (-se)
@@ -287,11 +278,11 @@ In connected speech, reflexive pronouns often blend with the following verb:
 
 ## Related Lessons
 
-- [Reflexive Verbs](/concepts/reflexive-verbs/) — Full grammatical breakdown of reflexive verbs
-- [Present Tense Spanish](/concepts/present-tense/) — Base tense used throughout this lesson
-- [Gustar Verb](/concepts/gustar-verb/) — Useful for expressing preferences about routine
-- [Travel Directions](/lessons/travel-directions/) — Next lesson (places and directions)
-- [Restaurant Ordering](/lessons/restaurant-ordering/) — Practice ordering meals with time context
+- [[Reflexive_Verbs]] — Full grammatical breakdown of reflexive verbs
+- [[Present_Tense_Spanish]] — Base tense used throughout this lesson
+- [[Gustar_Verb]] — Useful for expressing preferences about routine
+- [[Travel_Directions]] — Next lesson (places and directions)
+- [[Restaurant_Ordering]] — Practice ordering meals with time context
 
 ---
 

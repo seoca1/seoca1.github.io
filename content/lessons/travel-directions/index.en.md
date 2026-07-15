@@ -12,15 +12,6 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Travel_Dir
 
 # Travel & Directions (Viajes y Direcciones)
 
-> 🇰🇷 **한국어 요약 (Korean Summary)**
-> - **핵심:** 스페인어권 도시 네비게이션 — 전치사(방향/위치) + 교통 어휘 + 공손 명령형(usted) 3축 문법
-> - **한국어 학습자 팁:** 한국어와 달리 스페인어는 상대방에게 명령할 때 2인칭 친근형(tú) 대신 공손 usted 사용 빈도 높음. "¿Dónde está…?" 가 핵심 질문. 직진/좌회전 표현은 4단어 패턴
-> - **구조:** Lesson 7단계 — 전치사(a, de, en, hasta) → 위치/방향 부사(aquí, allí, derecha, izquierda, recto) → 교통 수단(autobús, metro, taxi) → usted 명령형(Doble a la derecha, Siga recto) → 필수 문장 15개
-> - **발음:** "derecha" [deˈɾetʃa] — 강모음 e 강조 / "izquierda" [iθˈkjeɾða] (스페인 [θ]) / [iskjeɾda] (라틴아메리카)
-> - **다음 단계:** [Spanish Prepositions](/concepts/spanish-prepositions/) — 전치사 문법 정리 / [Daily Routine](/lessons/daily-routine/) — 일상 어휘
-
-## Lesson Overview
-
 
 
 ## Lesson Overview
@@ -43,7 +34,7 @@ This lesson teaches how to ask for and give directions in Spanish-speaking count
 
 ## Core Grammar 1: Essential Prepositions
 
-Quick recap of the most-used prepositions. Full breakdown in [Prepositions Spanish](/concepts/spanish-prepositions/).
+Quick recap of the most-used prepositions. Full breakdown in [[Prepositions_Spanish]].
 
 | Spanish | English | Example |
 |:---|:---|:---|
@@ -307,10 +298,10 @@ When giving directions to strangers, use the **formal (Ud.) command form**. The 
 
 ## Related Lessons
 
-- [Prepositions Spanish](/concepts/spanish-prepositions/) — Full preposition breakdown
-- [Daily Routine](/lessons/daily-routine/) — Daily life vocabulary
-- [Weather and Seasons](/lessons/weather-and-seasons/) — Useful for outdoor navigation
-- [Restaurant Ordering](/lessons/restaurant-ordering/) — Once you've found your destination
+- [[Prepositions_Spanish]] — Full preposition breakdown
+- [[Daily_Routine]] — Daily life vocabulary
+- [[Weather_and_Seasons]] — Useful for outdoor navigation
+- [[Restaurant_Ordering]] — Once you've found your destination
 
 ---
 

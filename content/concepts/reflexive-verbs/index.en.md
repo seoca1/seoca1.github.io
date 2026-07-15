@@ -12,15 +12,6 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/concepts/spanish/Reflexive
 
 # Reflexive Verbs (Verbos Reflexivos)
 
-> 🇰🇷 **한국어 요약 (Korean Summary)**
-> - **핵심:** 재귀동사는 **주어가 자기 자신에게 하는 동작** — 원형 끝이 "-se", 재귀대명사가 동사 앞에 위치
-> - **한국어 학습자 팁:** 한국어에 없는 문법이지만 "자다/깨다/씻다/입다" 처럼 일상동작 다수. 재귀동사 여부는 사전에 "-se" 표기 확인 필수. 재귀대명사(me/te/se/nos/os/se)는 인칭별로 고정
-> - **구조:** 재귀대명사(인칭 일치) + 현재형 동사 — despertar**se** → me despierto, te despiertas, se despierta… 일상 루틴·감정·신체 동작의 핵심 문법
-> - **발음:** "despertarse" [despeɾˈtaɾse] — r은 단타 [ɾ], "se"는 [se] (스페인) / [ʃe] (라틴아메리카)
-> - **다음 단계:** [Daily Routine](/lessons/daily-routine/) — 재귀동사 실전 응용 / [Present Tense](/concepts/present-tense/) — 재귀동사 현재 변화
-
-## What Are Reflexive Verbs?
-
 
 
 ## What Are Reflexive Verbs?
@@ -238,11 +229,11 @@ Write 5–10 sentences describing your day, using only reflexive verbs.
 
 ## Related Concepts
 
-- [Gustar Verb](/concepts/gustar-verb/) — Gustar also uses an "indirect object + verb" construction
-- [Prepositions Spanish](/concepts/spanish-prepositions/) — Prepositions used in phrasal reflexives (*de*, *con*)
-- [Present Tense Spanish](/concepts/present-tense/) — Base tense for most reflexive practice
-- [Daily Routine](/lessons/daily-routine/) — Primary practical application
-- [Travel Directions](/lessons/travel-directions/) — Some reflexive verbs in transit contexts
+- [[Gustar_Verb]] — Gustar also uses an "indirect object + verb" construction
+- [[Prepositions_Spanish]] — Prepositions used in phrasal reflexives (*de*, *con*)
+- [[Present_Tense_Spanish]] — Base tense for most reflexive practice
+- [[Daily_Routine]] — Primary practical application
+- [[Travel_Directions]] — Some reflexive verbs in transit contexts
 
 ---
 

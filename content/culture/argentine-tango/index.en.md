@@ -12,15 +12,6 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/culture/Tango_Cult
 
 # Argentine Tango Culture (Cultura del Tango Argentino)
 
-> 🇰🇷 **한국어 요약 (Korean Summary)**
-> - **핵심:** 아르헨티나 탱고는 춤·음악·문화 코드 통합 — 리오플라텐세(Rioplatense) 스페인어(부에노스아이레스 방언)의 핵심 매개체
-> - **한국어 학습자 팁:** 한국어에는 없는 "루나틱( lunfardo)" 탱고 속어 세계. milonga(파티), tango(춤), bandoneón(악기) 어휘가 문화 입문 키. 부에노스아이레스 카페·서클에서 입문 가능
-> - **구조:** 문화 콘텐츠 5축 — (1) 어휘 (lunfardo 속어) (2) 역사(이민·하시endas·1900년대) (3) 음악 구조 (4) 사회 규칙 (밀롱a 예절) (5) 비언어 소통(몸짓)
-> - **발음:** 리오플라텐세 특성 — "ll" [ʃ] (sheísmo), "y" [ʃ], "s" 끝음절 약화 [h]. 타 지역 스페인어와 명확히 다른 음운
-> - **다음 단계:** [Restaurant Ordering](/lessons/restaurant-ordering/) — 부에노스아이레스 식문화 어휘 / [Daily Routine](/lessons/daily-routine/) — 일상 스페인어 기반
-
-## Why Tango Matters in Language Learning
-
 
 
 ## Why Tango Matters in Language Learning
@@ -266,10 +257,10 @@ Pick one of these topics and find one fact in Spanish:
 
 ## Related Content
 
-- [Restaurant Ordering](/lessons/restaurant-ordering/) — Argentinian meal times (cena 21–23)
-- [Mexican Street Food](/culture/mexican-street-food/) — Other Latin American culture
-- [Gustar Verb](/concepts/gustar-verb/) — Useful for tango preferences
-- [Prepositions Spanish](/concepts/spanish-prepositions/) — For direction conversations at milongas
+- [[Restaurant_Ordering]] — Argentinian meal times (cena 21–23)
+- [[Mexican_Street_Food]] — Other Latin American culture
+- [[Gustar_Verb]] — Useful for tango preferences
+- [[Prepositions_Spanish]] — For direction conversations at milongas
 
 ---
 

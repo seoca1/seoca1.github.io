@@ -12,15 +12,6 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/concepts/spanish/Imperfect
 
 # Imperfect Tense (Pretérito Imperfecto)
 
-> 🇰🇷 **한국어 요약 (Korean Summary)**
-> - **핵심:** Pretérito Imperfecto는 과거의 **진행 중/습관적/배경 묘사** 동사 — 완료되지 않은 과거 ("하고 있었다", "했었다")
-> - **한국어 학습자 팁:** 한국어는 과거 시제 하나로 처리(-았다)하지만 스페인어는 2개로 나뉨. Imperfecto = 배경/습관, Indefinido = 단발성 완료. 회상·묘사 시 기본값
-> - **구조:** -AR(hablar→hablaba), -ER/-IR(comer→comía, vivir→vivía) — 인칭별 어미표 (-aba/-ía/-abas/-ías…). 불규칙 3개만(ir→iba, ser→era, ver→veía)
-> - **발음:** "-aba" [ˈaβa] — b는有声 양순 마찰음 / "-ía" [ˈi.a] — 강모음 i + a 연속
-> - **다음 단계:** [Preterite Tense](/concepts/preterite-tense/) — 두 과거 시제 대조 (완료 vs 배경)
-
-## What Is the Imperfect Tense?
-
 
 
 ## What Is the Imperfect Tense?
@@ -31,7 +22,7 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/concepts/spanish/Imperfect
 - "I used to eat" (habitual)
 - "I would eat" (repeated in the past)
 
-It does **not** describe a completed event — that's [Pretérito Indefinido](/concepts/preterite-tense/).
+It does **not** describe a completed event — that's [[Past_Tense_Spanish|Pretérito Indefinido]].
 
 ### When to use it
 
@@ -242,10 +233,10 @@ Use *ser*, *ir*, *ver* in Imperfecto in 10 conversational sentences.
 
 ## Related Concepts
 
-- [Past Tense Spanish](/concepts/preterite-tense/) — Pretérito Indefinido (completed past)
-- [Present Tense Spanish](/concepts/present-tense/) — Tense foundation
-- [Reflexive Verbs](/concepts/reflexive-verbs/) — Reflexive Imperfecto (me levantaba, te dormías)
-- [Gustar Verb](/concepts/gustar-verb/) — Works in Imperfecto too: *Me gustaba la paella.*
+- [[Past_Tense_Spanish]] — Pretérito Indefinido (completed past)
+- [[Present_Tense_Spanish]] — Tense foundation
+- [[Reflexive_Verbs]] — Reflexive Imperfecto (me levantaba, te dormías)
+- [[Gustar_Verb]] — Works in Imperfecto too: *Me gustaba la paella.*
 
 ---
 

@@ -12,15 +12,6 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/concepts/spanish/Gustar_Ve
 
 # Gustar Verb (Verbo Gustar)
 
-> 🇰🇷 **한국어 요약 (Korean Summary)**
-> - **핵심:** Gustar는 "좋아하다"가 아니라 "마음을 끌다/즐겁게 하다" — 주어가 대상, 좋아하는 사람이 간접목적격 대명사로 역전
-> - **한국어 학습자 팁:** 한국어 "나는 커피를 좋아한다" 와 어순 정반대. 스페인어는 "커피가 나를喜ば게 한다 = Me gusta el café". gustar-like 동사(encantar, molestar)도 동일 패턴
-> - **구조:** 간접목적격 대명사(me/te/le/nos/les) + gusta(n) + 주어(3인칭 단/복). 동사 변화는 주어 수에만 의존
-> - **발음:** "gusta" [ˈɡusta] — g는 항상 경구개성모음 [ɡ] / "encanta" [eŋˈkanta] — 강조는 두 번째 음절
-> - **다음 단계:** [Restaurant Ordering](/lessons/restaurant-ordering/) — 음식 선호 표현 / [Daily Routine](/lessons/daily-routine/) — 일과 묘사 시 gustar-like 활용
-
-## What Makes Gustar Special?
-
 
 
 ## What Makes Gustar Special?
@@ -160,11 +151,11 @@ Many Spanish verbs use this "pleasing" construction. They all describe *things a
 
 ## Related Concepts
 
-- [Reflexive Verbs](/concepts/reflexive-verbs/) — Same pronoun structure but for self-action
-- [Prepositions Spanish](/concepts/spanish-prepositions/) — The **a** before the clarifying pronoun
-- [Restaurant Ordering](/lessons/restaurant-ordering/) — Practical application in ordering
-- [Present Tense Spanish](/concepts/present-tense/) — Tense used with gustar
-- [Daily Routine](/lessons/daily-routine/) — Daily preferences and routines
+- [[Reflexive_Verbs]] — Same pronoun structure but for self-action
+- [[Prepositions_Spanish]] — The **a** before the clarifying pronoun
+- [[Restaurant_Ordering]] — Practical application in ordering
+- [[Present_Tense_Spanish]] — Tense used with gustar
+- [[Daily_Routine]] — Daily preferences and routines
 
 ---
 

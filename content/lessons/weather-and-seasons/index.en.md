@@ -12,15 +12,6 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Weather_an
 
 # Weather and Seasons (El Clima y las Estaciones)
 
-> 🇰🇷 **한국어 요약 (Korean Summary)**
-> - **핵심:** 날씨·계절 묘사 — hacer(일반 날씨), estar(상태+형용사), 전용 동사(llover/nevar) 3가지 패턴 혼동 주의
-> - **한국어 학습자 팁:** 한국어 "비가 온다" 와 달리 스페인어는 주어가 3인칭 단수 고정("Llueve", es형 "Hace frío"). 계절명 primavera/verano/otoño/invierno + el mes de + 월. 형용사 성별 일치(bonito/bonita)
-> - **구조:** Lesson 5단계 — hacer 표현 5개(Hace calor/frío/sol/viento/bien) → estar+형용사(Está soleado/nublado/lluvioso) → 전용 동사(Llueve/Nieva/Truena) → 계절명+월 → 형용사 성별 일치
-> - **발음:** "lluvia" [ˈʎuβja] (스페인, 전통) / [ˈʒuβja] (라틴아메리카, yeísmo) / "invierno" [imˈbjeɾno] — "nv"는 [mb] 연음
-> - **다음 단계:** [Present Tense](/concepts/present-tense/) — 동사 활용 정리 / [Daily Routine](/lessons/daily-routine/) — 일과+날씨 묘사
-
-## Lesson Overview
-
 
 
 ## Lesson Overview
@@ -357,10 +348,10 @@ These two verbs are typically used in the **3rd person singular** (only "it" rai
 
 ## Related Lessons
 
-- [Daily Routine](/lessons/daily-routine/) — Daily routines affected by weather
-- [Travel Directions](/lessons/travel-directions/) — Weather affects travel plans
-- [Restaurant Ordering](/lessons/restaurant-ordering/) — Indoor vs. outdoor dining
-- [Tango Culture](/culture/argentine-tango/) — Argentinian seasonal context
+- [[Daily_Routine]] — Daily routines affected by weather
+- [[Travel_Directions]] — Weather affects travel plans
+- [[Restaurant_Ordering]] — Indoor vs. outdoor dining
+- [[Tango_Culture]] — Argentinian seasonal context
 
 ---
 
