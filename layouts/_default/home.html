@@ -1,0 +1,26 @@
+{{ define "main" }}
+  <article class="pa3 pa4-ns nested-copy-line-height">
+    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}">
+      {{- .Content -}}
+      {{ if eq .Language.Lang "ko" }}
+        {{ $ko_content := readFile "content/ko/_index.md" }}
+        {{ $ko_content = replaceRE "^\\+\\+\\+[\\s\\S]*?\\+\\+\\+\\s*" "" $ko_content }}
+        {{ $ko_content | $.RenderString }}
+      {{ end }}
+    </section>
+    {{ if eq .Language.Lang "ko" }}
+      <section class="flex-ns mt5 flex-wrap justify-around">
+        <div class="w-100 w-30-l mb4 relative bg-white"><div class="ba b--black-10 br2 pa3"><a href="/ko/lessons/korean-alphabet-hangul/" class="link black dim"><h2 class="f4">Korean Alphabet (Hangul)</h2><p class="f6 gray">24 letters overview</p></a></div></div>
+        <div class="w-100 w-30-l mb4 relative bg-white"><div class="ba b--black-10 br2 pa3"><a href="/ko/lessons/korean-pronunciation/" class="link black dim"><h2 class="f4">Korean Pronunciation</h2><p class="f6 gray">받침, 연음, 경음화 rules</p></a></div></div>
+        <div class="w-100 w-30-l mb4 relative bg-white"><div class="ba b--black-10 br2 pa3"><a href="/ko/lessons/korean-greetings/" class="link black dim"><h2 class="f4">Korean Greetings</h2><p class="f6 gray">Casual + formal</p></a></div></div>
+        <div class="w-100 w-30-l mb4 relative bg-white"><div class="ba b--black-10 br2 pa3"><a href="/ko/lessons/korean-basic-phrases/" class="link black dim"><h2 class="f4">Korean Basic Phrases</h2><p class="f6 gray">Everyday expressions</p></a></div></div>
+        <div class="w-100 w-30-l mb4 relative bg-white"><div class="ba b--black-10 br2 pa3"><a href="/ko/lessons/korean-particles/" class="link black dim"><h2 class="f4">Korean Particles</h2><p class="f6 gray">은/는, 이/가, 을/를 markers</p></a></div></div>
+        <div class="w-100 w-30-l mb4 relative bg-white"><div class="ba b--black-10 br2 pa3"><a href="/ko/grammar/korean-sentence-order/" class="link black dim"><h2 class="f4">Sentence Order (SOV)</h2><p class="f6 gray">Subject-Object-Verb</p></a></div></div>
+        <div class="w-100 w-30-l mb4 relative bg-white"><div class="ba b--black-10 br2 pa3"><a href="/ko/grammar/korean-verb-conjugation/" class="link black dim"><h2 class="f4">Verb Conjugation</h2><p class="f6 gray">Polite forms</p></a></div></div>
+        <div class="w-100 w-30-l mb4 relative bg-white"><div class="ba b--black-10 br2 pa3"><a href="/ko/vocabulary/korean-numbers/" class="link black dim"><h2 class="f4">Numbers</h2><p class="f6 gray">Sino vs Native counting</p></a></div></div>
+        <div class="w-100 w-30-l mb4 relative bg-white"><div class="ba b--black-10 br2 pa3"><a href="/ko/vocabulary/korean-family/" class="link black dim"><h2 class="f4">Family Members</h2><p class="f6 gray">Kinship terms</p></a></div></div>
+        <div class="w-100 w-30-l mb4 relative bg-white"><div class="ba b--black-10 br2 pa3"><a href="/ko/vocabulary/korean-food/" class="link black dim"><h2 class="f4">Food &amp; Restaurant</h2><p class="f6 gray">Korean food culture</p></a></div></div>
+      </section>
+    {{ end }}
+  </article>
+{{ end }}

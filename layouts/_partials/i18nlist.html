@@ -1,15 +1,8 @@
-{{/*
-  i18nlist.html (override) — 2026-07-15
-  원본: themes/ananke/layouts/_partials/i18nlist.html
-  기능: 페이지 상단의 en/ko 언어 스위처 라벨을 표시.
-
-  비활성화 사유:
-    Hugo [[menu.main]]에 🇪🇸 🇷🇺 🇯🇵 🇨🇳 🇰🇷 메뉴가 있어
-    언어별 진입 경로는 이미 메뉴로 충분히 제공됨.
-    추가로 IsTranslated 기반 스위처 라벨이 표시되면
-    디자인이 중복되고 사용자(영어 학습자)에게 혼란을 줌.
-
-  동작: 비어있는 partial (렌더링 안 함).
-  원본 함수 ({{ if .IsTranslated }} ... {{ end }})를 의도적으로 제거.
-*/}}
-{{/* nothing — language switcher disabled */}}
+{{- /*
+  Disabled language switcher label (en/ko) in top nav.
+  Original Ananke theme's i18nlist.html displays translated pages via IsTranslated.
+  We override it as an empty partial because:
+    1. Top menu already has 🇪🇸/🇷🇺/🇯🇵/🇨🇳/🇰🇷 language entries
+    2. Language switcher label was redundant and confusing for English learners
+  See commit bc745ae for original implementation.
+*/ -}}
