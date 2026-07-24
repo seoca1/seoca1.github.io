@@ -12,7 +12,12 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Food_Resta
 
 # Food & Restaurant (Comida y Restaurante)
 
-
+> 🇰🇷 **한국어 요약 (Korean Summary)**
+> - **핵심:** 음식 어휘 + 식당 주문 표현 — 60+ 음식 단어 + 핵심 동사 (pedir, querer, probar, gustar)
+> - **한국어 학습자 팁:** 한국어와 달리 음식 단어에 관사(남성 el/여성 la) 필수. 가산/불가산 명사 구분 (arroz/blanco 불가산 vs manzana 가산). 식당 표현은 [[Restaurant_Ordering]] 의 심화 버전
+> - **구조:** 음식 분류 (과일/채소/고기/음료/디저트) → 핵심 동사 4개 → 식당 주문 회화 → 식사 시간 문화 (스페인 21-23시 vs 아르헨티나 22-24시)
+> - **발음:** "ñ" [ɲ] (champiñón, año) / "ce/ci" [θ] (Spain) / "r" 단타 (arroz) / "ll" [ʎ] 또는 [ʒ] (paella)
+> - **다음 단계:** [[Restaurant_Ordering]] — 정중한 주문 + 식당 문화 / [[Gustar_Verb]] — 음식 선호 표현 심화
 
 ## Lesson Overview
 

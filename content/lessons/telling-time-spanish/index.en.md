@@ -12,7 +12,12 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Telling_Ti
 
 # Telling Time (La Hora)
 
-
+> 🇰🇷 **한국어 요약 (Korean Summary)**
+> - **핵심:** 시간 표현 — Es la una / Son las dos… + 15분(y cuarto) / 30분(y media) / 45분(menos cuarto)
+> - **한국어 학습자 팁:** 한국어와 달리 1시만 Es la una (단수 여성), 나머지는 Son las + 복수. 한국 "15분" → 스페인 "y cuarto" / 한국 "30분" → "y media" (반)
+> - **구조:** 정시 (Es la/Son las + 숫자) → 30분 (y media) → 15/45분 (y cuarto / menos cuarto) → 오전/오후 (de la mañana/tarde/noche) → 빈도 (siempre/a veces/nunca)
+> - **발음:** "y" 단독으로 [i] 발음 / 숫자 연결 시 묶음 / "menos cuarto" [ˈmenos ˈkwaɾto] — 부드러운 d 안 나옴
+> - **다음 단계:** [[Daily_Routine]] — 시간 + 일상 동사 결합 / [[Restaurant_Ordering]] — 식당 예약 시간
 
 ## Lesson Overview
 

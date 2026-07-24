@@ -12,7 +12,12 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Family_Mem
 
 # Family Members (La Familia)
 
-
+> 🇰🇷 **한국어 요약 (Korean Summary)**
+> - **핵심:** 가족 호칭 — 부모/형제/친척 30개 단어 + 성별 일치 (el/la tío/tía)
+> - **한국어 학습자 팁:** 한국어와 달리 가족 호칭도 성별에 따라 형태가 변함. 친족명 자체가 성별을 내포 (tío ≠ tía)
+> - **구조:** 직계 가족 (padre/madre/hermano/hermana) → 배우자 (esposo/esposa) → 친척 (tío/primo/sobrino) → 소유형 (mi/tu/su/nuestro) + 호칭
+> - **발음:** "ñ" [ɲ] (niño, año) — 한국어 ㄴ + 이 반음 비슷 / "j" [x] 또는 [h] (hijo) — 강한 h
+> - **다음 단계:** [[Daily_Routine]] — 가족과의 일상 대화 / [[Gustar_Verb]] — 가족 선호 표현
 
 ## Lesson Overview
 

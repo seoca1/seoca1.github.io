@@ -12,7 +12,12 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Colors_Spa
 
 # Colors (Los Colores)
 
-
+> 🇰🇷 **한국어 요약 (Korean Summary)**
+> - **핵심:** 색깔 어휘 — 기본 11색 + 확장 12색 + 형용사 성별 일치
+> - **한국어 학습자 팁:** 한국어 "파란색" 처럼 명사화(-색) 안 함. 형용사가 명사 앞에 옴: "집은 빨갛다" = "la casa es roja" (형용사). 로/라/스 변화 필수
+> - **구조:** 기본색 11개 (rojo, azul, verde…) → 확장색 (claro/oscuro, oscuro/claro) → 형용사 일치 (el coche rojo / la casa roja)
+> - **발음:** "verde" [ˈbeɾðe] — 끝 d/e 사이 발음 부드럽게 / "gris" [ɡɾis] — r 단타
+> - **다음 단계:** [[Daily_Routine]] — 색깔 묘사 + 옷 / [[Restaurant_Ordering]] — 음식 색깔 묘사
 
 ## Lesson Overview
 

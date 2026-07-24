@@ -12,7 +12,12 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Numbers_1_
 
 # Numbers 1-100 (Los Números del 1 al 100)
 
-
+> 🇰🇷 **한국어 요약 (Korean Summary)**
+> - **핵심:** 스페인어 숫자 1-100 — 1-30은 고유 어휘, 30 이후는 패턴 조합 (decenas + y + unidades)
+> - **한국어 학습자 팁:** 스페인어는 "31 = treinta y uno" 처럼 끊어서 말함. 100 미만은 단수형, 100 이상은 복수형 (cientos)
+> - **구조:** 1-10 (고유) → 11-15 (특수) → 16-19 (dieciséis/diecisiete…) → 20-29 (veinti…) → 30, 40, 50… (decenas) → 31-99 (decena + y + unidad) → 100 (cien / ciento)
+> - **발음:** cinco [ˈθiŋko] / quince [ˈkiŋse] / cincuenta [θiŋˈkwenta] — z/c(e,i) = [θ] (스페인), [s] (라틴아메리카)
+> - **다음 단계:** [[Telling_Time_Spanish]] — 숫자 + 시간 표현 결합
 
 ## Lesson Overview
 
