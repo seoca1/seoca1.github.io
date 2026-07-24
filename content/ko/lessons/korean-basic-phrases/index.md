@@ -7,6 +7,10 @@ level = "A1"
 description = "Korean Basic Phrases (기초 표현) — Korean language resources for English-speaking learners"
 notion_page_id = "39ef643d-3530-8101-8ef6-d06841c77435"
 notion_url = "https://app.notion.com/p/Korean-Korean-Basic-Phrases-2026-07-15-39ef643d353081018ef6d06841c77435"
+categories = ["Korean", "lessons", "korean-basic-phrases"]
+tags = ["korean", "phrases", "expressions", "daily", "A1", "beginner"]
+wikilink = "obsidian://open?vault=workspace&file=wiki/korean/lessons/Korean_Basic_Phrases.md"
+language = "Korean"
 +++
 
 > 🇰🇷 **운영자용 한국어 요약**

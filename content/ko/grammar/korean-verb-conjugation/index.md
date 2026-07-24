@@ -7,6 +7,10 @@ level = "A1-A2"
 description = "Korean Verb Conjugation (동사 활용) — Korean language resources for English-speaking learners"
 notion_page_id = "39ef643d-3530-8153-8199-ddf66e320d12"
 notion_url = "https://app.notion.com/p/Korean-Korean-Verb-Conjugation-2026-07-15-39ef643d353081538199ddf66e320d12"
+categories = ["Korean", "grammar", "korean-verb-conjugation"]
+tags = ["korean", "verbs", "conjugation", "honorifics", "A1", "beginner"]
+wikilink = "obsidian://open?vault=workspace&file=wiki/korean/grammar/Korean_Verb_Conjugation.md"
+language = "Korean"
 +++
 
 > 🇰🇷 **운영자용 한국어 요약**

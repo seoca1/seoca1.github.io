@@ -7,6 +7,10 @@ level = "A1-A2"
 description = "Korean Food & Restaurant (음식 / 식당) — Korean language resources for English-speaking learners"
 notion_page_id = "39ef643d-3530-81d1-90f3-dad7bb8bc44d"
 notion_url = "https://app.notion.com/p/Korean-Korean-Food-Vocabulary-2026-07-15-39ef643d353081d190f3dad7bb8bc44d"
+categories = ["Korean", "vocabulary", "korean-food"]
+tags = ["korean", "food", "meals", "korean-food", "A1", "beginner"]
+wikilink = "obsidian://open?vault=workspace&file=wiki/korean/vocabulary/Korean_Food.md"
+language = "Korean"
 +++
 
 > 🇰🇷 **운영자용 한국어 요약**

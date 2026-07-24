@@ -7,6 +7,10 @@ level = "A0-A1"
 description = "Korean Greetings & Self-Introduction (인사 / 자기소개) — Korean language resources for English-speaking learners"
 notion_page_id = "39ef643d-3530-81fc-a960-d93f10cfa118"
 notion_url = "https://app.notion.com/p/Korean-Korean-Greetings-Self-Introduction-2026-07-15-39ef643d353081fca960d93f10cfa118"
+categories = ["Korean", "lessons", "korean-greetings"]
+tags = ["korean", "greetings", "self-introduction", "honorifics", "beginner", "A0-A1"]
+wikilink = "obsidian://open?vault=workspace&file=wiki/korean/lessons/Korean_Greetings.md"
+language = "Korean"
 +++
 
 > 🇰🇷 **운영자용 한국어 요약**

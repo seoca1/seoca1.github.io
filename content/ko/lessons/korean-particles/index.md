@@ -7,6 +7,10 @@ level = "A1-A2"
 description = "Korean Particles — 은/는, 이/가, 을/를 (조사) — Korean language resources for English-speaking learners"
 notion_page_id = "39ef643d-3530-8147-bc07-c9b180a1fbb1"
 notion_url = "https://app.notion.com/p/Korean-Korean-Particles-2026-07-15-39ef643d35308147bc07c9b180a1fbb1"
+categories = ["Korean", "lessons", "korean-particles"]
+tags = ["korean", "particles", "grammar", "postposition", "A1", "beginner"]
+wikilink = "obsidian://open?vault=workspace&file=wiki/korean/lessons/Korean_Particles.md"
+language = "Korean"
 +++
 
 > 🇰🇷 **운영자용 한국어 요약**

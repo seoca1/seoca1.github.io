@@ -7,6 +7,10 @@ level = "A0"
 description = "Korean Alphabet — Hangul (한글 자모) — Korean language resources for English-speaking learners"
 notion_page_id = "39ef643d-3530-81e5-92e2-f13455cb1ae2"
 notion_url = "https://app.notion.com/p/Korean-Korean-Alphabet-Hangul-2026-07-15-39ef643d353081e592e2f13455cb1ae2"
+categories = ["Korean", "lessons", "korean-alphabet-hangul"]
+tags = ["korean", "alphabet", "hangul", "jamo", "beginner", "A0-A1"]
+wikilink = "obsidian://open?vault=workspace&file=wiki/korean/lessons/Korean_Alphabet_Hangul.md"
+language = "Korean"
 +++
 
 > 🇰🇷 **운영자용 한국어 요약**

@@ -7,6 +7,10 @@ level = "A1-A2"
 description = "Korean Sentence Order — SOV (어순) — Korean language resources for English-speaking learners"
 notion_page_id = "39ef643d-3530-8187-81da-e7e05deabfa8"
 notion_url = "https://app.notion.com/p/Korean-Korean-Sentence-Order-2026-07-15-39ef643d3530818781dae7e05deabfa8"
+categories = ["Korean", "grammar", "korean-sentence-order"]
+tags = ["korean", "sentence-order", "SOV", "word-order", "A1", "beginner"]
+wikilink = "obsidian://open?vault=workspace&file=wiki/korean/grammar/Korean_Sentence_Order.md"
+language = "Korean"
 +++
 
 > 🇰🇷 **운영자용 한국어 요약**

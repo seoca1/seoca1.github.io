@@ -7,6 +7,10 @@ level = "A1-A2"
 description = "Korean Family Vocabulary (가족) — Korean language resources for English-speaking learners"
 notion_page_id = "39ef643d-3530-816f-b409-f3c2b74f9751"
 notion_url = "https://app.notion.com/p/Korean-Korean-Family-Vocabulary-2026-07-15-39ef643d3530816fb409f3c2b74f9751"
+categories = ["Korean", "vocabulary", "korean-family"]
+tags = ["korean", "family", "kinship", "relationships", "A1", "beginner"]
+wikilink = "obsidian://open?vault=workspace&file=wiki/korean/vocabulary/Korean_Family.md"
+language = "Korean"
 +++
 
 > 🇰🇷 **운영자용 한국어 요약**

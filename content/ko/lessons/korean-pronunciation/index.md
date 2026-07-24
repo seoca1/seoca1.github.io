@@ -7,6 +7,10 @@ level = "A1"
 description = "Korean Pronunciation Rules (발음 규칙) — Korean language resources for English-speaking learners"
 notion_page_id = "39ef643d-3530-8186-895c-d31547a0e100"
 notion_url = "https://app.notion.com/p/Korean-Korean-Pronunciation-Rules-2026-07-15-39ef643d35308186895cd31547a0e100"
+categories = ["Korean", "lessons", "korean-pronunciation"]
+tags = ["korean", "pronunciation", "phonology", "sound-changes", "A1", "beginner"]
+wikilink = "obsidian://open?vault=workspace&file=wiki/korean/lessons/Korean_Pronunciation.md"
+language = "Korean"
 +++
 
 > 🇰🇷 **운영자용 한국어 요약**

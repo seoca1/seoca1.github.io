@@ -7,6 +7,10 @@ level = "A1"
 description = "Korean Numbers — Two Counting Systems (숫자) — Korean language resources for English-speaking learners"
 notion_page_id = "39ef643d-3530-81df-b4a7-c5282b355b0e"
 notion_url = "https://app.notion.com/p/Korean-Korean-Numbers-Two-Systems-2026-07-15-39ef643d353081dfb4a7c5282b355b0e"
+categories = ["Korean", "vocabulary", "korean-numbers"]
+tags = ["korean", "numbers", "sino-korean", "native-korean", "A1", "beginner"]
+wikilink = "obsidian://open?vault=workspace&file=wiki/korean/vocabulary/Korean_Numbers.md"
+language = "Korean"
 +++
 
 > 🇰🇷 **운영자용 한국어 요약**
