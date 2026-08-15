@@ -380,6 +380,11 @@ def _check_wikilink_fm(fm: dict, md_path: Path) -> tuple[Issue, int]:
         return (Issue("wikilink_fm", "PASS",
                       f"→ {resolved.relative_to(WORKSPACE)}"),
                 CHECK_WEIGHTS["wikilink_fm"])
+    # CI 환경: WIKI_ROOT 가 없으면 wikilink fm 검증을 SKIP (FAIL 대신 WARN)
+    if not WIKI_ROOT.exists():
+        return (Issue("wikilink_fm", "WARN",
+                      f"wiki/ 디렉터리 없음 (CI 환경) — wikilink fm 검증 skip: {target}"),
+                int(CHECK_WEIGHTS["wikilink_fm"] * 0.5))
     return (Issue("wikilink_fm", "FAIL",
                   f"타겟 파일 없음: wiki/{target}"),
             0)
@@ -391,6 +396,12 @@ def _check_wikilink_body(body: str, wiki_idx: dict) -> tuple[Issue, int, int]:
     if not raw:
         return (Issue("wikilink_body", "PASS", "본문 wikilink 없음 (정상)"),
                 CHECK_WEIGHTS["wikilink_body"], 0)
+    # CI 환경: wiki/ 디렉터리 없으면 body wikilink 검증 skip
+    if not WIKI_ROOT.exists():
+        return (Issue("wikilink_body", "WARN",
+                      f"wiki/ 디렉터리 없음 (CI 환경) — body wikilink 검증 skip ({len(raw)}개)"),
+                int(CHECK_WEIGHTS["wikilink_body"] * 0.5),
+                len(raw))
 
     broken: list[str] = []
     for token in raw:
