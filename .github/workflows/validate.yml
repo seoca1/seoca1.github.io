@@ -40,12 +40,16 @@ jobs:
 
       - name: Run validator (default mode)
         # Hugo 콘텐츠 전체 검증 — WARN 허용 (info-only)
+        env:
+          VALIDATE_WORKSPACE: ${{ github.workspace }}
         run: |
           python3 validate_lesson.py --no-color
 
       - name: Run validator (strict mode, PR only)
         # PR/푸시에서 strict 모드로 한번 더 — 깨지면 빌드 실패
         if: github.event_name == 'pull_request'
+        env:
+          VALIDATE_WORKSPACE: ${{ github.workspace }}
         run: |
           python3 validate_lesson.py --strict --no-color --quiet || {
             echo "::error::validate_lesson.py --strict failed. 자세한 로그는 위 출력 참고."
@@ -58,6 +62,6 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: validation-report-${{ github.run_id }}
-          path: ../logs/validation_*.json
+          path: logs/validation_*.json
           retention-days: 30
           if-no-files-found: ignore

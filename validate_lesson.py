@@ -26,6 +26,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import re
 import sys
 import tomllib
@@ -37,10 +38,49 @@ from typing import Optional
 # ─────────────────────────────────────────────────────────────────────────────
 # Paths & constants
 # ─────────────────────────────────────────────────────────────────────────────
-WORKSPACE = Path("/Users/emilio/.openclaw/workspace")
-HUGO_ROOT = WORKSPACE / "multilingual-blog" / "content"
-WIKI_ROOT = WORKSPACE / "wiki"
-LOG_DIR = WORKSPACE / "logs"
+# Resolve workspace dynamically so the script works in CI (any path) and locally.
+# Supports three layouts:
+#   A) workspace-rooted (local dev): <ws>/multilingual-blog/  + <ws>/wiki
+#   B) repo-rooted (CI seoca1): this script in <repo>/multilingual-blog/  → content/ is sibling, no wiki/ at repo root → workspace = _HERE
+#   C) hybrid (hypothetical): this script lives at <ws>/multilingual-blog/<other>/  → walk up
+_HERE = Path(__file__).resolve().parent
+_LAYOUT: str = ""  # "A" (workspace-rooted) or "B" (repo-rooted) or "fallback"
+
+def _find_workspace() -> tuple[Path, str]:
+    """Return (workspace_path, layout). layout is 'A' (workspace-rooted), 'B' (repo-rooted), or 'fallback'."""
+    env_ws = os.environ.get("VALIDATE_WORKSPACE")
+    if env_ws:
+        ws = Path(env_ws).resolve()
+        # Detect layout from env-provided workspace
+        if (ws / "content").is_dir() and not (ws / "wiki").is_dir():
+            return ws, "B"
+        return ws, "A"
+    # Layout B (CI seoca1.github.io): multilingual-blog/ IS the workspace root
+    if _HERE.name == "multilingual-blog" and (_HERE / "content").is_dir():
+        cand = _HERE.parent
+        for _ in range(5):
+            if (cand / "wiki").is_dir():
+                return cand, "A"
+            cand = cand.parent
+        return _HERE, "B"
+    # Layout A: walk up
+    cand = _HERE
+    for _ in range(5):
+        if (cand / "multilingual-blog" / "content").is_dir() and (cand / "wiki").is_dir():
+            return cand, "A"
+        cand = cand.parent
+    return Path("/Users/emilio/.openclaw/workspace"), "fallback"
+
+WORKSPACE, _LAYOUT = _find_workspace()
+if _LAYOUT == "B":
+    # CI repo-rooted: this dir IS the multilingual-blog root
+    HUGO_ROOT = WORKSPACE / "content"
+    WIKI_ROOT = WORKSPACE / "wiki"  # may not exist; callers handle gracefully
+    LOG_DIR = WORKSPACE / "logs"
+else:
+    HUGO_ROOT = WORKSPACE / "multilingual-blog" / "content"
+    WIKI_ROOT = WORKSPACE / "wiki"
+    LOG_DIR = WORKSPACE / "logs"
 
 ALLOWED_LANGUAGES = {
     "Spanish",
