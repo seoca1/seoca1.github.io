@@ -25,7 +25,7 @@ Welcome! This blog provides **multilingual language learning resources** for Eng
 
 ## 📚 Recent Lessons
 
-This site is **updated daily** with new cards and lessons. Each lesson focuses on:
+This site is **updated regularly** with new cards and lessons (auto-deployed whenever new content is added). Each lesson focuses on:
 - Practical, real-world vocabulary
 - Grammar rules explained in plain English
 - Cultural context that textbooks miss
