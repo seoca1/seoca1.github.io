@@ -1,0 +1,19 @@
+{{/*
+  Single page (kind=page) — for individual lessons, concepts, etc.
+  Uses our baseof.html's site-header by NOT defining the "header" block.
+*/}}
+{{ define "main" }}
+<article class="lb-container nested-copy-line-height lh-copy f4 nested-links mid-gray">
+  <header class="lb-section__header" style="padding-top:var(--space-7);">
+    <span class="lb-section__eyebrow">
+      <a href="/learn/{{ .Section }}/" style="color:inherit;">{{ .Section | humanize }}</a>
+    </span>
+    <h1 class="lb-section__title">{{ .Title }}</h1>
+    {{ with .Params.description }}<p class="lb-section__subtitle">{{ . }}</p>{{ end }}
+    {{ if .Date }}<p class="f6 gray mv3"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time> · {{ .ReadingTime }} min read</p>{{ end }}
+  </header>
+  <div class="lb-section pb5">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}
