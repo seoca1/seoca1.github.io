@@ -1,6 +1,10 @@
 {{/*
-  Site header — Sticky, backdrop-blur, with theme toggle
+  Site header — Sticky, backdrop-blur, theme toggle, active-page indicator.
   Replaces themes/ananke/layouts/partials/site-header.html
+
+  Hugo's RelPermalink doubles the baseURL prefix (/learn/learn/<section>/),
+  but menu URLs come back with a single /learn/ prefix. Strip both to "/<section>"
+  for fair comparison; "" maps to "/" (the home).
 */}}
 <header class="lb-header">
   <div class="lb-header__inner">
@@ -13,8 +17,18 @@
     </a>
     {{ if .Site.Menus.main }}
     <nav class="lb-header__nav" aria-label="Main">
+      {{ $currentURL := strings.TrimSuffix "/" .RelPermalink }}
+      {{ $currentURL = strings.TrimPrefix "/learn/learn" $currentURL }}
+      {{ if eq $currentURL "" }}{{ $currentURL = "/" }}{{ end }}
       {{ range .Site.Menus.main }}
-      <a href="{{ .URL }}">{{ .Name }}</a>
+        {{ $menuURL := strings.TrimSuffix "/" .URL }}
+        {{ $menuURL = strings.TrimPrefix "/learn" $menuURL }}
+        {{ if eq $menuURL "" }}{{ $menuURL = "/" }}{{ end }}
+        {{ if eq $currentURL $menuURL }}
+          <a href="{{ .URL }}" aria-current="page">{{ .Name }}</a>
+        {{ else }}
+          <a href="{{ .URL }}">{{ .Name }}</a>
+        {{ end }}
       {{ end }}
     </nav>
     {{ end }}

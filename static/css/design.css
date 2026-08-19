@@ -577,6 +577,32 @@ html[data-section="learn"] .lb-hero__inner::before { display: none; }
   color: var(--accent-default);
   background: var(--color-bg-soft);
 }
+.lb-header__nav a[aria-current="page"] {
+  color: var(--accent-default);
+  background: var(--color-bg-soft);
+  font-weight: 600;
+}
+.lb-header__nav a[aria-current="page"]::after {
+  content: '';
+  position: absolute;
+  left: 10px;
+  right: 10px;
+  bottom: -2px;
+  height: 2px;
+  border-radius: 1px;
+  background: var(--grad-default);
+  opacity: 0.85;
+}
+
+/* Focus-visible: keyboard accessibility, respects user preference */
+:where(a, button, input, [tabindex]):focus-visible {
+  outline: 2px solid var(--accent-default);
+  outline-offset: 2px;
+  border-radius: var(--radius-sm);
+}
+.lb-theme-toggle:focus-visible {
+  outline-offset: 4px;
+}
 
 /* Inline content links: accent on hover, default remains readable */
 .nested-links a,
