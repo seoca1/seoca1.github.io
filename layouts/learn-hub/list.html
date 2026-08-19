@@ -12,10 +12,11 @@
 
       <div class="lb-search">
         <svg class="lb-search__icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-        <input class="lb-search__input" type="search" placeholder="Search lessons, grammar, vocabulary…" aria-label="Search">
+        <input class="lb-search__input" type=search placeholder="Search lessons, grammar, vocabulary…" aria-label=Search>
       </div>
 
       <div class="lb-hero__languages">
+        <a href="/learn/spanish/" class="lb-pill" data-lang="es">🇪🇸 Español</a>
         <a href="/learn/russian/" class="lb-pill" data-lang="ru">🇷🇺 Русский</a>
         <a href="/learn/japanese/" class="lb-pill" data-lang="ja">🇯🇵 日本語</a>
         <a href="/learn/chinese/" class="lb-pill" data-lang="zh">🇨🇳 中文</a>
@@ -32,8 +33,25 @@
       <h2 class="lb-section__title">Browse by Language</h2>
       <p class="lb-section__subtitle">Each section has lessons, grammar explanations, vocabulary, and culture notes — all written for English-speaking learners.</p>
     </header>
-
     <div class="lb-grid">
+      <a href="/learn/spanish/" class="lb-card lb-fade-in" data-lang="es">
+        <span class="lb-card__icon">🇪🇸</span>
+        <h3 class="lb-card__title">Spanish</h3>
+        <p class="lb-card__description">Romance language — 500M+ speakers. Pronunciation, grammar, practical vocabulary.</p>
+        <div class="lb-card__meta">
+          {{/* Spanish content lives across /learn/lessons/, /learn/concepts/, /learn/culture/, /learn/posts/
+                (not just /learn/spanish/), so count by matching per-page path. */}}
+          {{ $count := 0 }}
+          {{ range .Site.RegularPages }}
+            {{ $link := lower .RelPermalink }}
+            {{ $title := lower .Title }}
+            {{ if or (eq .Section "spanish") (in $link "spanish") (in $title "español") (in $link "argentine-tango") (in $link "mexican-street-food") (in $link "reflexive-verbs") (in $link "gustar-verb") (in $link "present-tense") (in $link "preterite-tense") (in $link "imperfect-tense") (in $link "spanish-prepositions") (in $link "master-vocabulary") (in $link "daily-routine") (in $link "restaurant-ordering") (in $link "travel-directions") (in $link "weather-and-seasons") (in $link "colors-spanish") (in $link "family-members-spanish") (in $link "food-restaurant-spanish") (in $link "numbers-1-to-100-spanish") (in $link "telling-time-spanish") }}
+              {{ $count = add $count 1 }}
+            {{ end }}
+          {{ end }}
+          <span class="lb-card__count">{{ $count }} pages</span>
+        </div>
+      </a>
       <a href="/learn/russian/" class="lb-card lb-fade-in" data-lang="ru">
         <span class="lb-card__icon">🇷🇺</span>
         <h3 class="lb-card__title">Russian</h3>
@@ -56,12 +74,20 @@
         <span class="lb-card__icon">🇰🇷</span>
         <h3 class="lb-card__title">Korean</h3>
         <p class="lb-card__description">Hangul, sentence structure (SOV), particles, and basic conversations.</p>
-        <div class="lb-card__meta"><span class="lb-card__count">{{ len (where .Site.RegularPages "Section" "korean") }} lessons</span></div>
+        <div class="lb-card__meta"><span class="lb-card__count">{{ len (where .Site.RegularPages "Section" "ko") }} lessons</span></div>
       </a>
     </div>
   </div>
 </section>
 
+{{/* Topics grid */}}
+{{ $topic_sections := slice "lessons" "concepts" "culture" "posts" }}
+{{ $topic_meta := dict
+  "lessons" (dict "icon" "📚" "title" "Lessons" "desc" "Practical, real-world vocabulary and expressions.")
+  "concepts" (dict "icon" "🧠" "title" "Concepts" "desc" "Grammar rules explained in plain English.")
+  "culture" (dict "icon" "🏛️" "title" "Culture" "desc" "Cultural context that textbooks miss.")
+  "posts" (dict "icon" "📝" "title" "Posts" "desc" "Standalone articles on language and learning.")
+}}
 <section class="lb-section">
   <div class="lb-container">
     <header class="lb-section__header">
@@ -69,42 +95,23 @@
       <h2 class="lb-section__title">Browse by Topic</h2>
       <p class="lb-section__subtitle">Cross-language resources grouped by topic — for when you want to compare or focus on a specific skill.</p>
     </header>
-
     <div class="lb-grid">
-      <a href="/learn/lessons/" class="lb-card lb-fade-in">
-        <span class="lb-card__icon">📚</span>
-        <h3 class="lb-card__title">Lessons</h3>
-        <p class="lb-card__description">Practical, real-world vocabulary and expressions.</p>
-        <div class="lb-card__meta"><span class="lb-card__count">{{ len (where .Site.RegularPages "Section" "lessons") }} lessons</span></div>
-      </a>
-      <a href="/learn/concepts/" class="lb-card lb-fade-in">
-        <span class="lb-card__icon">🧠</span>
-        <h3 class="lb-card__title">Concepts</h3>
-        <p class="lb-card__description">Grammar rules explained in plain English.</p>
-        <div class="lb-card__meta"><span class="lb-card__count">{{ len (where .Site.RegularPages "Section" "concepts") }} articles</span></div>
-      </a>
-      <a href="/learn/culture/" class="lb-card lb-fade-in">
-        <span class="lb-card__icon">🏛️</span>
-        <h3 class="lb-card__title">Culture</h3>
-        <p class="lb-card__description">Cultural context that textbooks miss.</p>
-        <div class="lb-card__meta"><span class="lb-card__count">{{ len (where .Site.RegularPages "Section" "culture") }} articles</span></div>
-      </a>
-      <a href="/learn/posts/" class="lb-card lb-fade-in">
-        <span class="lb-card__icon">📝</span>
-        <h3 class="lb-card__title">Posts</h3>
-        <p class="lb-card__description">Standalone articles on language and learning.</p>
-        <div class="lb-card__meta"><span class="lb-card__count">{{ len (where .Site.RegularPages "Section" "posts") }} posts</span></div>
-      </a>
+      {{ range $topic_sections }}
+        {{ $meta := index $topic_meta . }}
+        <a href="/learn/{{ . }}/" class="lb-card lb-fade-in">
+          <span class="lb-card__icon">{{ $meta.icon }}</span>
+          <h3 class="lb-card__title">{{ $meta.title }}</h3>
+          <p class="lb-card__description">{{ $meta.desc }}</p>
+          <div class="lb-card__meta"><span class="lb-card__count">{{ len (where $.Site.RegularPages "Section" .) }} {{ if eq . "concepts" }}articles{{ else if eq . "culture" }}articles{{ else if eq . "posts" }}posts{{ else }}lessons{{ end }}</span></div>
+        </a>
+      {{ end }}
     </div>
   </div>
 </section>
 
-{{ if .Content }}
 <section class="lb-section">
   <div class="lb-container nested-copy-line-height">
     {{ .Content }}
   </div>
 </section>
-{{ end }}
-
 {{ end }}

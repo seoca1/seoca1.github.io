@@ -21,7 +21,7 @@ paginate = 10
     label = "English"
     title = "🌍 Multilingual Daily Blog"
     [languages.en.params]
-      description = "Multilingual grammar, vocabulary, and culture for English-speaking learners (Spanish, Japanese, Chinese, Russian)"
+      description = "Multilingual grammar, vocabulary, and culture for English-speaking learners (Spanish, Japanese, Chinese, Russian, Korean)"
 
 # Menu (top nav)
 [[menu.main]]
@@ -46,7 +46,7 @@ paginate = 10
 
 [[menu.main]]
   name = "Languages"
-  url = "/russian/"
+  url = "/spanish/"
   weight = 5
 
 [[menu.main]]
