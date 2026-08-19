@@ -1,0 +1,5 @@
+{{- $debug := false -}}
+{{- if $debug -}}
+<!-- HOOK: dest={{ .Destination }} url={{ .URL }} relURL={{ .Destination | relURL }} absURL={{ .Destination | absURL }} -->
+{{- end -}}
+<a href="{{ .Destination | relURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>

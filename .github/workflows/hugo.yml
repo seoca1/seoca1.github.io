@@ -35,6 +35,9 @@ jobs:
       - name: Build with Hugo
         run: hugo --minify
 
+      - name: Fix sub-path URLs
+        run: python3 scripts/fix_subpath_urls.py public/
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 

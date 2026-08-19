@@ -1,4 +1,4 @@
-baseURL = "https://seoca1.github.io/"
+baseURL = "https://seoca1.github.io/learn/"
 locale = "en-US"
 defaultContentLanguage = "en"
 title = "🌍 Multilingual Daily Blog"
@@ -36,49 +36,29 @@ paginate = 10
   weight = 1
 
 [[menu.main]]
-  name = "Grammar"
-  url = "/categories/grammar/"
+  name = "Lessons"
+  url = "/lessons/"
   weight = 2
 
 [[menu.main]]
-  name = "Lessons"
-  url = "/categories/lessons/"
+  name = "Concepts"
+  url = "/concepts/"
   weight = 3
 
 [[menu.main]]
   name = "Culture"
-  url = "/categories/culture/"
+  url = "/culture/"
   weight = 4
 
 [[menu.main]]
-  name = "Vocabulary"
-  url = "/categories/vocabulary/"
+  name = "Languages"
+  url = "/russian/"
   weight = 5
 
 [[menu.main]]
-  name = "🇪🇸 Spanish"
-  url = "/spanish/"
+  name = "About"
+  url = "/about/"
   weight = 6
-
-[[menu.main]]
-  name = "🇷🇺 Russian"
-  url = "/russian/"
-  weight = 7
-
-[[menu.main]]
-  name = "🇯🇵 Japanese"
-  url = "/japanese/"
-  weight = 8
-
-[[menu.main]]
-  name = "🇨🇳 Chinese"
-  url = "/chinese/"
-  weight = 9
-
-[[menu.main]]
-  name = "🇰🇷 Korean"
-  url = "/ko/"
-  weight = 10
 
 # Markup - goldmark (default) with table support
 [markup]
