@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.Locale }}" {{- if eq site.Language.Direction "rtl" }} dir="rtl" {{- end }}>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+    {{ hugo.Generator }}
+    {{ $production := hugo.IsProduction }}
+    {{ $public := not .Params.private }}
+    {{ if and $production $public }}
+      <meta name="robots" content="index, follow">
+    {{ else }}
+      <meta name="robots" content="noindex, nofollow">
+    {{ end }}
+    {{ with .Params.author | compare.Default .Site.Params.author }}
+      {{- $author := . -}}
+      {{- if reflect.IsSlice . -}}
+        {{- $author = collections.Delimit . ", " | transform.Plainify -}}
+      {{- end -}}
+      <meta name="author" content="{{ $author }}">
+    {{ end }}
+
+    {{/* Google Fonts (CDN) with preconnect for performance */}}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@500;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+    {{/* Ananke theme styles (core) */}}
+    {{ partials.Include "site-style.html" . }}
+    {{ partials.Include "site-scripts.html" . }}
+
+    {{ block "favicon" . }}
+      {{ partials.IncludeCached "site-favicon.html" . }}
+    {{ end }}
+
+    {{ if .OutputFormats.Get "RSS" }}
+    {{ with .OutputFormats.Get "RSS" }}
+      <link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
+      <link href="{{ .RelPermalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
+      {{ end }}
+    {{ end }}
+
+    {{ if .Params.canonicalUrl }}
+      <link rel="canonical" href="{{ .Params.canonicalUrl }}">
+    {{ else }}
+      <link rel="canonical" href="{{ .Permalink }}">
+    {{ end }}
+
+    {{/* former internal templates */}}
+    {{ partial "opengraph.html" . -}}
+    {{ partial "schema.html" . -}}
+    {{ partial "twitter_cards.html" . -}}
+
+    {{ if hugo.IsProduction }}
+      {{ partial "google_analytics.html" . }}
+    {{ end }}
+
+    {{/* Custom Design System v2.0 (loaded after theme to override) */}}
+    <link rel="stylesheet" href="{{ "css/design.css" | relURL }}">
+
+    {{ block "head" . }}{{ partials.Include "head-additions.html" . }}{{ end }}
+
+    {{/* Theme initialization — runs before paint to avoid flash of wrong theme */}}
+    <script>
+      (function() {
+        try {
+          var t = localStorage.getItem("lb-theme");
+          var s = window.matchMedia("(prefers-color-scheme: dark)").matches;
+          if (t === "dark" || (t === null && s)) {
+            document.documentElement.setAttribute("data-theme", "dark");
+          }
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+
+  {{- $environment := hugo.Environment | default "production" -}}
+
+  {{- $body_classes := slice "ma0" ($.Param "body_classes" | default "avenir bg-near-white") $environment -}}
+  {{- $body_classes = $body_classes | append (printf "is-%s" .Kind) -}}
+
+  {{- if .IsPage -}}
+    {{- $body_classes = $body_classes | append "is-page" -}}
+    {{- with .File -}}
+      {{- $body_classes = $body_classes | append (printf "page-%s" .ContentBaseName) -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- if .IsSection -}}{{- $body_classes = $body_classes | append "is-section" -}}{{- end -}}
+
+  <body class="{{ delimit $body_classes " " }}">
+    {{- partials.Include "hook.html" (dict "hook" "body-start" "context" .) -}}
+    {{- partials.Include "hook.html" (dict "hook" "header-before" "context" .) -}}
+    {{ block "header" . }}{{ partials.Include "site-header.html" .}}{{ end }}
+    {{- partials.Include "hook.html" (dict "hook" "header-after" "context" .) -}}
+    <main class="pb7" role="main">
+      {{- partials.Include "hook.html" (dict "hook" "main-before" "context" .) -}}
+      {{ block "main" . }}{{ end }}
+      {{- partials.Include "hook.html" (dict "hook" "main-after" "context" .) -}}
+    </main>
+    {{- partials.Include "hook.html" (dict "hook" "footer-before" "context" .) -}}
+    {{ block "footer" . }}{{ partials.IncludeCached "site-footer.html" . }}{{ end }}
+    {{- partials.Include "hook.html" (dict "hook" "footer-after" "context" .) -}}
+    {{- partials.Include "hook.html" (dict "hook" "body-end" "context" .) -}}
+    {{/* Theme toggle + scroll animation scripts (deferred) */}}
+    <script src="{{ "js/theme-toggle.js" | relURL }}" defer></script>
+    <script src="{{ "js/scroll-animate.js" | relURL }}" defer></script>
+  </body>
+</html>
+{{- with (templates.Defer (dict "key" "hooks-collector")) -}}
+  {{- partials.Include "func/hooks/collector-dump.html" . }}
+{{ end -}}

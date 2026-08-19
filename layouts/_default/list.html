@@ -1,0 +1,56 @@
+{{/*
+  Section listing — card grid with language-aware accents.
+  Used for /lessons/, /concepts/, /culture/, /posts/, /<lang>/, etc.
+*/}}
+{{ define "main" }}
+<section class="lb-section">
+  <div class="lb-container">
+    <header class="lb-section__header">
+      <span class="lb-section__eyebrow">{{ .Section | default "Section" | humanize }}</span>
+      <h1 class="lb-section__title">{{ .Title }}</h1>
+      {{ with .Description }}<p class="lb-section__subtitle">{{ . }}</p>{{ end }}
+      {{ with .Content }}<div class="lb-section__intro nested-copy-line-height">{{ . }}</div>{{ end }}
+    </header>
+
+    {{ $pages := where .Pages "Kind" "page" }}
+    {{ if $pages }}
+      <div class="lb-grid">
+        {{ range $pages.ByTitle }}
+          {{ $lang := "" }}
+          {{ if eq .Section "russian" }}{{ $lang = "ru" }}
+          {{ else if eq .Section "japanese" }}{{ $lang = "ja" }}
+          {{ else if eq .Section "chinese" }}{{ $lang = "zh" }}
+          {{ else if eq .Section "korean" }}{{ $lang = "ko" }}
+          {{ else if or (eq .Section "lessons") (eq .Section "concepts") (eq .Section "culture") (eq .Section "posts") }}
+            {{ if in (lower .Title) "spanish" }}{{ $lang = "es" }}
+            {{ else if in (lower .Title) "russian" }}{{ $lang = "ru" }}
+            {{ else if in (lower .Title) "japanese" }}{{ $lang = "ja" }}
+            {{ else if in (lower .Title) "chinese" }}{{ $lang = "zh" }}
+            {{ else if in (lower .Title) "korean" }}{{ $lang = "ko" }}
+            {{ end }}
+          {{ end }}
+          <a href="{{ .RelPermalink }}" class="lb-card lb-fade-in"{{ with $lang }} data-lang="{{ . }}"{{ end }}>
+            <span class="lb-card__icon">
+              {{ if eq $lang "es" }}🇪🇸
+              {{ else if eq $lang "ja" }}🇯🇵
+              {{ else if eq $lang "zh" }}🇨🇳
+              {{ else if eq $lang "ru" }}🇷🇺
+              {{ else if eq $lang "ko" }}🇰🇷
+              {{ else }}📚{{ end }}
+            </span>
+            <h2 class="lb-card__title">{{ .Title }}</h2>
+            {{ with .Description }}<p class="lb-card__description">{{ . }}</p>{{ end }}
+            <div class="lb-card__meta">
+              {{ if .Date }}<span>📅 {{ .Date.Format "2006-01-02" }}</span>{{ end }}
+              {{ $words := .ReadingTime }}
+              <span>⏱ {{ $words }} min</span>
+            </div>
+          </a>
+        {{ end }}
+      </div>
+    {{ else }}
+      <p class="tc mid-gray f5 pv5">No content yet in this section.</p>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
