@@ -133,6 +133,24 @@ def fix_html_urls(html_path):
         new_html
     )
 
+    # Asset references inside <link> and <script> tags must NOT be prefixed
+    # with /learn/ because the GH Pages deployment places static assets at
+    # the site root (e.g. /css/design.css) — not under /learn/css/. Strip the
+    # /learn/ prefix from these asset paths. Without this fix the design
+    # system CSS does not load (404) and pages render unstyled.
+    # Quoted form: href="/learn/css/design.css"  → href="/css/design.css"
+    new_html = re.sub(
+        r'(href|src)=([\"\\\'])/learn/((?:css|js|images|fonts|ananke|static)/[^\"\\\']*)\\2',
+        lambda m: f'{m.group(1)}={m.group(2)}/{m.group(3)}{m.group(2)}',
+        new_html,
+    )
+    # Unquoted form: href=/learn/css/design.css  → href=/css/design.css
+    new_html = re.sub(
+        r'(href|src)=(/learn/((?:css|js|images|fonts|ananke|static)/[^\s\"\\\'>]+))',
+        lambda m: f'{m.group(1)}=/{m.group(3)}',
+        new_html,
+    )
+
     if new_html != original:
         with open(html_path, 'w') as f:
             f.write(new_html)

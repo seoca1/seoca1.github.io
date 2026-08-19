@@ -88,7 +88,10 @@
       {{ partial "google_analytics.html" . }}
     {{ end }}
 
-    {{/* Custom Design System v2.0 (loaded after theme to override) */}}
+    {{/* Custom Design System v2.1 (loaded after theme to override).
+        Use `relURL` because GH Pages deploys this site at the root
+        (despite baseURL=/learn/), and assets must be at /css/design.css
+        not /learn/css/design.css for the deployed file structure. */}}
     <link rel="stylesheet" href="{{ "css/design.css" | relURL }}">
 
     {{ block "head" . }}{{ partials.Include "head-additions.html" . }}{{ end }}
