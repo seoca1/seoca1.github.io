@@ -76,6 +76,48 @@ body {
   --grad-ko: linear-gradient(135deg, var(--accent-ko) 0%, var(--accent-ko-2) 100%);
 }
 
+/* ---------------------------------------------------------------------------
+   Per-section accent override (v2.1)
+   When <html data-section="..."> is set (via Hugo baseof), these rules
+   swap --accent-default / --grad-default so the WHOLE page (not just card
+   borders) inherits the language palette: eyebrow text, search focus ring,
+   hero accent bar, link hover, etc.
+   --------------------------------------------------------------------------- */
+html[data-section="learn"]         { --accent-default: #6366f1; --grad-default: linear-gradient(135deg, #6366f1, #8b5cf6); }
+html[data-section="japanese"]      { --accent-default: #dc2626; --grad-default: linear-gradient(135deg, #dc2626 0%, #f87171 100%); }
+html[data-section="chinese"]       { --accent-default: #de2910; --grad-default: linear-gradient(135deg, #de2910, #ffde00); }
+html[data-section="russian"]       { --accent-default: #0033a0; --grad-default: linear-gradient(135deg, #0033a0 0%, #d52b1e 100%); }
+html[data-section="ko"],
+html[data-section="korean"]         { --accent-default: #cd2e3a; --grad-default: linear-gradient(135deg, #cd2e3a 0%, #0047a0 100%); }
+html[data-section="spanish"]       { --accent-default: #aa151b; --grad-default: linear-gradient(135deg, #aa151b, #f1bf00); }
+
+/* ---------------------------------------------------------------------------
+   Dark-mode per-section: re-tint accents for visual contrast on dark bg.
+   Note: data-theme lives on <html>, so :root[data-theme="dark"] matches it.
+   --------------------------------------------------------------------------- */
+:root[data-theme="dark"] html[data-section="japanese"],
+html[data-theme="dark"][data-section="japanese"] {
+  --accent-default: #f87171;
+}
+:root[data-theme="dark"] html[data-section="chinese"],
+html[data-theme="dark"][data-section="chinese"] {
+  --accent-default: #fb923c;
+}
+:root[data-theme="dark"] html[data-section="russian"],
+html[data-theme="dark"][data-section="russian"] {
+  --accent-default: #60a5fa;
+}
+:root[data-theme="dark"] html[data-section="ko"],
+:root[data-theme="dark"] html[data-section="korean"],
+html[data-theme="dark"][data-section="ko"],
+html[data-theme="dark"][data-section="korean"] {
+  --accent-default: #f87171;
+}
+:root[data-theme="dark"] html[data-section="learn"],
+html[data-theme="dark"][data-section="learn"] {
+  --accent-default: #818cf8;
+}
+
 /* Dark theme (auto via prefers-color-scheme, toggle via [data-theme="dark"]) */
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
@@ -486,6 +528,122 @@ code, pre, .code, .korean-summary-callout code {
 .lb-fade-in.lb-visible {
   opacity: 1;
   transform: translateY(0);
+}
+
+/* ---------------------------------------------------------------------------
+   13.5 Hero accent bar (v2.1)
+   Section title gets a leading vertical gradient bar in the page accent.
+   --------------------------------------------------------------------------- */
+.lb-hero__title,
+.lb-section__title,
+h1.lb-section__title {
+  position: relative;
+}
+.lb-section__title::before {
+  content: '';
+  display: inline-block;
+  width: 6px;
+  height: 0.85em;
+  margin-right: var(--space-3);
+  vertical-align: -0.05em;
+  border-radius: var(--radius-pill);
+  background: var(--grad-default);
+  box-shadow: 0 0 24px -4px var(--accent-default);
+}
+.lb-hero__inner {
+  position: relative;
+}
+.lb-hero__inner::before {
+  content: '';
+  position: absolute;
+  left: -16px;
+  top: -8px;
+  bottom: -8px;
+  width: 4px;
+  border-radius: var(--radius-pill);
+  background: var(--grad-default);
+  opacity: 0.85;
+}
+html[data-section="learn"] .lb-hero__inner::before { display: none; }
+
+/* Active nav state: language accent */
+.lb-header__nav a {
+  position: relative;
+  padding: 4px 10px;
+  border-radius: var(--radius-sm);
+  transition: color var(--t-fast), background var(--t-fast);
+}
+.lb-header__nav a:hover {
+  color: var(--accent-default);
+  background: var(--color-bg-soft);
+}
+
+/* Inline content links: accent on hover, default remains readable */
+.nested-links a,
+.lb-section a:not(.lb-card):not(.lb-pill):not(.lb-header__brand):not(.lb-header__nav a) {
+  color: var(--color-text);
+  border-bottom: 1px solid var(--color-border);
+  transition: color var(--t-fast), border-color var(--t-fast);
+}
+.nested-links a:hover,
+.lb-section a:not(.lb-card):not(.lb-pill):not(.lb-header__brand):not(.lb-header__nav a):hover {
+  color: var(--accent-default);
+  border-bottom-color: var(--accent-default);
+}
+
+/* ---------------------------------------------------------------------------
+   13.6 Dark-mode coverage sweep (v2.1)
+   Ananke's pre/code blockquote table styling still leaks light defaults
+   through. Force them onto our token palette.
+   --------------------------------------------------------------------------- */
+:root[data-theme="dark"] pre,
+html[data-theme="dark"] pre {
+  background: #0b1220;
+  color: #e2e8f0;
+  border: 1px solid var(--color-border);
+}
+:root[data-theme="dark"] code,
+html[data-theme="dark"] code {
+  background: var(--color-bg-soft);
+  color: #fca5a5;
+}
+:root[data-theme="dark"] blockquote,
+html[data-theme="dark"] blockquote {
+  border-left: 4px solid var(--accent-default);
+  background: var(--color-bg-soft);
+  color: var(--color-text-soft);
+}
+:root[data-theme="dark"] table,
+html[data-theme="dark"] table {
+  background: var(--color-card);
+  color: var(--color-text);
+  border-color: var(--color-border);
+}
+:root[data-theme="dark"] table th,
+:root[data-theme="dark"] table td,
+html[data-theme="dark"] table th,
+html[data-theme="dark"] table td {
+  border-color: var(--color-border);
+}
+:root[data-theme="dark"] hr,
+html[data-theme="dark"] hr {
+  border: 0;
+  border-top: 1px solid var(--color-border);
+}
+:root[data-theme="dark"] figure,
+html[data-theme="dark"] figure {
+  background: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+}
+:root[data-theme="dark"] .lb-card,
+html[data-theme="dark"] .lb-card {
+  background: var(--color-card);
+  border-color: var(--color-border);
+}
+:root[data-theme="dark"] img,
+html[data-theme="dark"] img {
+  opacity: 0.95;
 }
 
 /* ---------------------------------------------------------------------------
