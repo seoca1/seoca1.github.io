@@ -1,0 +1,35 @@
+{{ define "main" }}
+  {{/* Root redirect: site lives at /learn/, send visitors there */}}
+  <meta http-equiv="refresh" content="0; url={{ .Site.BaseURL }}">
+  <link rel="canonical" href="{{ .Site.BaseURL }}">
+  <title>Redirecting… | {{ .Site.Title }}</title>
+  <style>
+    body { font-family: -apple-system, system-ui, sans-serif; display: grid; place-items: center; min-height: 100vh; margin: 0; background: #fafafa; }
+    .box { text-align: center; padding: 2rem; }
+    h1 { margin: 0 0 1rem; font-size: 1.5rem; }
+    a { color: #0066cc; }
+  </style>
+  <div class="box">
+    <h1>🌍 Multilingual Daily Blog has moved</h1>
+    <p>Redirecting to <a href="{{ .Site.BaseURL }}">{{ .Site.BaseURL }}</a></p>
+    <p><a href="{{ .Site.BaseURL }}">Click here</a> if not redirected automatically.</p>
+  </div>
+  <script>window.location.replace("{{ .Site.BaseURL }}");</script>
+{{ end }}
+
+{{/* Wrap with baseof for full HTML structure */}}
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en" }}">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="refresh" content="0; url={{ .Site.BaseURL }}">
+<link rel="canonical" href="{{ .Site.BaseURL }}">
+<title>Redirecting… | {{ .Site.Title }}</title>
+<meta name="robots" content="index, follow">
+<script>window.location.replace("{{ .Site.BaseURL }}");</script>
+</head>
+<body>
+<p>🌍 Multilingual Daily Blog has moved.</p>
+<p>Redirecting to <a href="{{ .Site.BaseURL }}">{{ .Site.BaseURL }}</a>…</p>
+</body>
+</html>

@@ -22,12 +22,6 @@ paginate = 10
     title = "🌍 Multilingual Daily Blog"
     [languages.en.params]
       description = "Multilingual grammar, vocabulary, and culture for English-speaking learners (Spanish, Japanese, Chinese, Russian)"
-  [languages.ko]
-    weight = 2
-    label = "한국어"
-    title = "🌏 다국어 일일 블로그"
-    [languages.ko.params]
-      description = "Korean language resources for English-speaking learners — Hangul, grammar, vocabulary, culture"
 
 # Menu (top nav)
 [[menu.main]]
