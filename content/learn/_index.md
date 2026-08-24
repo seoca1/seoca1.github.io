@@ -1,6 +1,8 @@
 +++
 title = "🌍 Multilingual Daily Blog"
 type = "learn-hub"
+date = 2026-08-24
+draft = false
 description = "Practical grammar, vocabulary, and culture for English-speaking learners of Spanish, Japanese, Chinese, Russian, and Korean."
 +++
 
