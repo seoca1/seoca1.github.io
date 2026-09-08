@@ -1,5 +1,5 @@
 +++
-title = "🌍 Multilingual Daily Blog"
+title = "🌍 Multilingual Blog"
 type = "learn-hub"
 date = 2026-08-24
 draft = false

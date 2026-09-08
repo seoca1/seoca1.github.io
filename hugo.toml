@@ -1,7 +1,7 @@
 baseURL = "https://seoca1.github.io/learn/"
 locale = "en-US"
 defaultContentLanguage = "en"
-title = "🌍 Multilingual Daily Blog"
+title = "🌍 Multilingual Blog"
 theme = "ananke"
 
 # Pagination
@@ -19,7 +19,7 @@ paginate = 10
   [languages.en]
     weight = 1
     label = "English"
-    title = "🌍 Multilingual Daily Blog"
+    title = "🌍 Multilingual Blog"
     [languages.en.params]
       description = "Multilingual grammar, vocabulary, and culture for English-speaking learners (Spanish, Japanese, Chinese, Russian, Korean)"
 

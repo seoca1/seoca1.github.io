@@ -1,11 +1,11 @@
 +++
-title = "🌍 Multilingual Daily Blog"
+title = "🌍 Multilingual Blog"
 date = 2026-07-15
 draft = false
 description = "Multilingual grammar, vocabulary, and culture for English-speaking learners (Spanish, Japanese, Chinese, Russian, Korean)"
 +++
 
-# 🌍 Multilingual Daily Blog
+# 🌍 Multilingual Blog
 
 Welcome! This blog provides **multilingual language learning resources** for English-speaking learners — Spanish, Japanese, Chinese, Russian, and Korean.
 
