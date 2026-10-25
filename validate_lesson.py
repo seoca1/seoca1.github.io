@@ -370,12 +370,13 @@ def _check_wikilink_fm(fm: dict, md_path: Path) -> tuple[Issue, int]:
                 int(CHECK_WEIGHTS["wikilink_fm"] * 0.5))
 
     # target은 'wiki/.../File.md' 형태 → WIKI_ROOT 와 결합
-    resolved = WIKI_ROOT / target.replace("wiki/", "", 1) if target.startswith("wiki/") else WIKI_ROOT / target
-    # 위는 target='wiki/...' 라서 strip, 다른 형태도 시도
-    if not resolved.exists():
-        alt = WIKI_ROOT / target
-        if alt.exists():
-            resolved = alt
+    rel = target.replace("wiki/", "", 1) if target.startswith("wiki/") else target
+    candidates = [WIKI_ROOT / rel, WIKI_ROOT / target]
+    # 2026-10-25: 언어별 wiki 자산이 wiki/languages/<lang>/ 하위로 이전됨
+    # (health check LANG_DIRS 수정과 동일 원인) → languages/ 하위도 후보로 탐색
+    if not rel.startswith("languages/"):
+        candidates.append(WIKI_ROOT / "languages" / rel)
+    resolved = next((c for c in candidates if c.exists()), candidates[0])
     if resolved.exists():
         return (Issue("wikilink_fm", "PASS",
                       f"→ {resolved.relative_to(WORKSPACE)}"),
@@ -386,7 +387,7 @@ def _check_wikilink_fm(fm: dict, md_path: Path) -> tuple[Issue, int]:
                       f"wiki/ 디렉터리 없음 (CI 환경) — wikilink fm 검증 skip: {target}"),
                 int(CHECK_WEIGHTS["wikilink_fm"] * 0.5))
     return (Issue("wikilink_fm", "FAIL",
-                  f"타겟 파일 없음: wiki/{target}"),
+                  f"타겟 파일 없음: {target}"),
             0)
 
 
