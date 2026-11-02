@@ -2,14 +2,13 @@
 title = "Numbers 1-100 (Los Números del 1 al 100)"
 date = 2026-07-14
 draft = false
-description = "Numbers 1-100 (Los Números del 1 al 100) - Spanish Lesson for A1 (Beginner) learners"
-categories = ["Lesson"]
+description = "Numbers 1-100 (Los Números)"
+categories = ["Spanish"]
 tags = []
 level = "A1 (Beginner)"
-type = "Lesson"
-wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Numbers_1_to_100_Spanish.md"
+type = "Spanish Lesson"
+wikilink = "obsidian://open?vault=workspace&file=wiki/languages/spanish/lessons/Numbers_1_to_100_Spanish.md"
 +++
-
 # Numbers 1-100 (Los Números del 1 al 100)
 
 > 🇰🇷 **한국어 요약 (Korean Summary)**
@@ -18,6 +17,8 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Numbers_1_
 > - **구조:** 1-10 (고유) → 11-15 (특수) → 16-19 (dieciséis/diecisiete…) → 20-29 (veinti…) → 30, 40, 50… (decenas) → 31-99 (decena + y + unidad) → 100 (cien / ciento)
 > - **발음:** cinco [ˈθiŋko] / quince [ˈkiŋse] / cincuenta [θiŋˈkwenta] — z/c(e,i) = [θ] (스페인), [s] (라틴아메리카)
 > - **다음 단계:** [[Telling_Time_Spanish]] — 숫자 + 시간 표현 결합
+
+---
 
 ## Lesson Overview
 

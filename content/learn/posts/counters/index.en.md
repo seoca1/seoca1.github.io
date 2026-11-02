@@ -1,15 +1,14 @@
 +++
-title = "助数詞, Counters"
+title = "일본어 양사 (助数詞, Counters)"
 date = 2026-07-13
 draft = false
-description = "助数詞, Counters - Spanish Vocabulary for N5 (Beginner) learners"
-categories = ["Vocabulary"]
+description = "양사 (助数詞)"
+categories = ["Japanese"]
 tags = []
 level = "N5 (Beginner)"
-type = "Vocabulary"
-wikilink = "obsidian://open?vault=workspace&file=wiki/japanese/vocabulary/Counters.md"
+type = "Japanese Vocabulary"
+wikilink = "obsidian://open?vault=workspace&file=wiki/languages/japanese/vocabulary/Counters.md"
 +++
-
 # 일본어 양사 (助数詞, Counters)
 
 > 🇰🇷 **한국어 요약 (Korean Summary)**
@@ -18,6 +17,8 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/japanese/vocabulary/Counte
 > - **한국어 차이:** 한국어 "사람 한 명" / "고양이 한 마리" / "연필 한 자루" — 구분 명확. 일본어도 비슷.
 > - **기본:** 個 (general) + 人 (사람) + 本 (가늘고 긴 것) + 枚 (평평한 것) + 冊 (책) + 匹 (동물) + 回 (횟수) + 時 (시) + 月 (월) + 日 (일)
 > - **다음 단계:** 숫자 100+ + 고급 양사
+
+---
 
 ## 양사란?
 

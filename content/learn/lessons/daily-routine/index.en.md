@@ -7,9 +7,8 @@ categories = ["Lesson"]
 tags = []
 level = "Beginner (A1-A2)"
 type = "Lesson"
-wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Daily_Routine.md"
+wikilink = "obsidian://open?vault=workspace&file=wiki/languages/spanish/lessons/Daily_Routine.md"
 +++
-
 # Daily Routine (Rutina Diaria)
 
 > 🇰🇷 **한국어 요약 (Korean Summary)**
@@ -19,6 +18,8 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Daily_Rout
 > - **목표:** 자신의 하루 일과를 스페인어로 5-10문장 묘사 가능
 > - **한국어 학습자 주의:** 한국어에 없는 반사 동사 개념 + 시제 변화 (현재형 6인칭)
 > - **다음 단계:** [[Travel_Directions]] — 일상 외 장소/방향 표현
+
+---
 
 ## Lesson Overview
 

@@ -2,14 +2,13 @@
 title = "Weather and Seasons (El Clima y las Estaciones)"
 date = 2026-06-13
 draft = false
-description = "Weather and Seasons (El Clima y las Estaciones) - Spanish Lesson for Beginner (A1-A2) learners"
-categories = ["Lesson"]
+description = "Weather and Seasons"
+categories = ["Spanish"]
 tags = []
 level = "Beginner (A1-A2)"
-type = "Lesson"
-wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Weather_and_Seasons.md"
+type = "Spanish Lesson"
+wikilink = "obsidian://open?vault=workspace&file=wiki/languages/spanish/lessons/Weather_and_Seasons.md"
 +++
-
 # Weather and Seasons (El Clima y las Estaciones)
 
 > 🇰🇷 **한국어 요약 (Korean Summary)**
@@ -19,6 +18,8 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Weather_an
 > - **핵심 패턴:** Hace calor/frío/sol / Está lloviendo / Llueve/Nieva
 > - **한국어 학습자 주의:** "It is hot" = **Hace** calor (not Es caliente). hacer/estar/llover 3그룹 구분 필수
 > - **활용:** 여행 시 옷차림 계획, 일상 대화
+
+---
 
 ## Lesson Overview
 

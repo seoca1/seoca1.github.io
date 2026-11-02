@@ -2,14 +2,13 @@
 title = "Travel & Directions (Viajes y Direcciones)"
 date = 2026-05-17
 draft = false
-description = "Travel & Directions (Viajes y Direcciones) - Spanish Lesson for Beginner-Intermediate (A2-B1) learners"
-categories = ["Lesson"]
+description = "Travel & Directions"
+categories = ["Spanish"]
 tags = []
 level = "Beginner-Intermediate (A2-B1)"
-type = "Lesson"
-wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Travel_Directions.md"
+type = "Spanish Lesson"
+wikilink = "obsidian://open?vault=workspace&file=wiki/languages/spanish/lessons/Travel_Directions.md"
 +++
-
 # Travel & Directions (Viajes y Direcciones)
 
 > 🇰🇷 **한국어 요약 (Korean Summary)**
@@ -19,6 +18,8 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Travel_Dir
 > - **회화 패턴:** ¿Cómo llego a…? / Gire a la derecha / Siga todo recto
 > - **한국어 학습자 주의:** 명령형 동사 (Ud.) 변화와 전치사 위치 엄격
 > - **활용:** 아르헨티나/멕시코 여행 전 필수
+
+---
 
 ## Lesson Overview
 

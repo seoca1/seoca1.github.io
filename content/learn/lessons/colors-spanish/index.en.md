@@ -7,9 +7,8 @@ categories = ["Lesson"]
 tags = []
 level = "A1 (Beginner)"
 type = "Lesson"
-wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Colors_Spanish.md"
+wikilink = "obsidian://open?vault=workspace&file=wiki/languages/spanish/lessons/Colors_Spanish.md"
 +++
-
 # Colors (Los Colores)
 
 > 🇰🇷 **한국어 요약 (Korean Summary)**
@@ -18,6 +17,8 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Colors_Spa
 > - **구조:** 기본색 11개 (rojo, azul, verde…) → 확장색 (claro/oscuro, oscuro/claro) → 형용사 일치 (el coche rojo / la casa roja)
 > - **발음:** "verde" [ˈbeɾðe] — 끝 d/e 사이 발음 부드럽게 / "gris" [ɡɾis] — r 단타
 > - **다음 단계:** [[Daily_Routine]] — 색깔 묘사 + 옷 / [[Restaurant_Ordering]] — 음식 색깔 묘사
+
+---
 
 ## Lesson Overview
 

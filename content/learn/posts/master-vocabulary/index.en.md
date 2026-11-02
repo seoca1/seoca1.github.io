@@ -2,14 +2,13 @@
 title = "Spanish Master Vocabulary List (Vocabulario Español)"
 date = 2026-06-16
 draft = false
-description = "Spanish Master Vocabulary List (Vocabulario Español) - Spanish Vocabulary for A1-B1 learners"
+description = "Spanish Master Vocabulary List (Vocabulario Español) - A1-B1 learners"
 categories = ["Vocabulary"]
 tags = ["vocabulary", "master-list", "daily", "transport", "food", "weather"]
 level = "A1-B1"
-type = "Vocabulary"
-wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/vocabulary/Master_Vocabulary_List.md"
+type = "Vocabulary Master"
+wikilink = "obsidian://open?vault=workspace&file=wiki/languages/spanish/vocabulary/Master_Vocabulary_List.md"
 +++
-
 # Spanish Master Vocabulary List (Vocabulario Español)
 
 > 🇰🇷 **한국어 요약 (Korean Summary)**
@@ -18,6 +17,8 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/vocabulary/Master_
 > - **매일 복습 가능:** 단어 묶음 단위로 5-7개씩 노출
 > - **회전 풀 ID:** `vocab:reflexive_daily`, `vocab:meals`, `vocab:transportation`, `vocab:directions`, `vocab:restaurant`, `vocab:weather`, `vocab:body`, `vocab:family`, `vocab:colors`, `vocab:numbers`, `vocab:courtesy`, `vocab:time_expressions`, `vocab:adjectives`
 > - **학습 원칙:** 매일 5개 신규 + 5개 복습 (간격 반복)
+
+---
 
 ## How to Use This List
 

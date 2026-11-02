@@ -2,14 +2,13 @@
 title = "Mexican Street Food (Comida Callejera Mexicana)"
 date = 2026-07-13
 draft = false
-description = "Mexican Street Food (Comida Callejera Mexicana) - Spanish Culture for A2 learners"
-categories = ["Culture", "mexico"]
+description = "Mexican Street Food (Comida Callejera Mexicana) - A2 learners"
+categories = ["Culture"]
 tags = ["culture", "mexico", "food", "street-food", "tacos", "vocabulary"]
 level = "A2"
-type = "Culture"
-wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/culture/Mexican_Street_Food.md"
+type = "Culture Note"
+wikilink = "obsidian://open?vault=workspace&file=wiki/languages/spanish/culture/Mexican_Street_Food.md"
 +++
-
 # Mexican Street Food (Comida Callejera Mexicana)
 
 > 🇰🇷 **한국어 요약 (Korean Summary)**
@@ -20,6 +19,8 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/culture/Mexican_St
 > - **한국-멕시코 식문화 비교:** 둘 다 길거리 음식 강국, 매운 음식 사랑, 큰 접시 공유
 > - **회화 표현:** *¡Está riquísimo!* · *Sin chile, por favor* · *Tres tacos, por favor*
 > - **언어 포인트:** 멕시코 스페인어 (Mexican Spanish) — 멕시코 고유 어휘 일부 (tlapalería, chamaco)
+
+---
 
 ## Why Mexico in Your Spanish Studies?
 

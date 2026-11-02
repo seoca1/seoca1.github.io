@@ -173,12 +173,23 @@ def parse_frontmatter(text: str) -> tuple[dict, str]:
 
 
 def classify_asset(md_path: Path, fm: dict) -> str:
-    """자산 타입 분류: 'full' / 'ko_summary' / 'section_index'."""
+    """자산 타입 분류: 'full' / 'ko_summary' / 'section_index' / 'concept'.
+
+    2026-11-02: 원자적 개념 노트(learn/concepts/) 는 설계상 짧은 단일 개념 설명이므로
+    lesson 과 같은 100단어 최소 기준을 적용하면 정상 자산이 FAIL 로 판정된다.
+    concept 는 별도 기준(권장 150 / 최소 50)을 사용한다.
+    """
     name = md_path.name
     if name == "_index.md":
         return "section_index"
     if name.endswith(".ko.md"):
         return "ko_summary"
+    if "concepts" in md_path.parts:
+        return "concept"
+    # 2026-11-02: 어휘 목록(vocabulary) 은 표 중심이라 본문 단어수가 적게 계산된다.
+    # 표 제외 후 100단어 기준을 적용하면 정상 어휘 자산이 FAIL 이 된다.
+    if "vocabulary" in md_path.parts or str(fm.get("type", "")).lower() == "vocabulary":
+        return "vocabulary"
     return "full"
 
 
@@ -253,11 +264,40 @@ def _looks_english(text: str) -> bool:
     return en > ko
 
 
+def strip_code_blocks(body: str) -> str:
+    """코드블록(```) 내부를 제거.
+
+    2026-11-02: 음절 목록처럼 구분자 행 없이 이어지는 파이프 블록을 코드블록으로
+    감싸면 표로 오인하지 않는다. 코드블록 안의 파이프 라인은 표가 아니므로 제외.
+    """
+    out: list[str] = []
+    in_code = False
+    fence = ""
+    for line in body.splitlines():
+        stripped = line.strip()
+        if stripped.startswith("```"):
+            if not in_code:
+                in_code = True
+                fence = stripped
+            elif stripped.startswith(fence) or fence.startswith(stripped):
+                in_code = False
+            out.append("")
+            continue
+        if in_code:
+            out.append("")
+            continue
+        out.append(line)
+    return "\n".join(out)
+
+
 def collect_tables(body: str) -> list[list[str]]:
-    """마크다운 표를 분리 행(row) 단위로 반환. 빈 행 기준 분할."""
+    """마크다운 표를 분리 행(row) 단위로 반환. 빈 행 기준 분할.
+
+    코드블록 내부의 파이프 라인은 표가 아니므로 먼저 제거한다.
+    """
     tables: list[list[str]] = []
     current: list[str] = []
-    for line in body.splitlines():
+    for line in strip_code_blocks(body).splitlines():
         if re.match(r"^\s*\|.*\|\s*$", line):
             current.append(line)
         else:
@@ -457,6 +497,12 @@ def _check_word_count(body: str, asset_type: str, lang: Optional[str], asset_pat
         threshold_warn, threshold_fail = 30, 15
     elif asset_type == "ko_summary":
         threshold_warn, threshold_fail = 150, 50
+    elif asset_type == "concept":
+        # 2026-11-02: 원자적 개념 노트는 짧은 게 정상
+        threshold_warn, threshold_fail = 150, 50
+    elif asset_type == "vocabulary":
+        # 2026-11-02: 어휘 목록은 표 중심 — 표 제외 후 단어수 적음
+        threshold_warn, threshold_fail = 80, 40
     else:  # full
         threshold_warn, threshold_fail = 400, 100
 

@@ -2,14 +2,13 @@
 title = "Restaurant Ordering (Pedir Comida)"
 date = 2026-06-16
 draft = false
-description = "Restaurant Ordering (Pedir Comida) - Spanish Lesson for Beginner-Intermediate (A2) learners"
-categories = ["Lesson"]
+description = "Restaurant Ordering"
+categories = ["Spanish"]
 tags = []
 level = "Beginner-Intermediate (A2)"
-type = "Lesson"
-wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Restaurant_Ordering.md"
+type = "Spanish Lesson"
+wikilink = "obsidian://open?vault=workspace&file=wiki/languages/spanish/lessons/Restaurant_Ordering.md"
 +++
-
 # Restaurant Ordering (Pedir Comida)
 
 > 🇰🇷 **한국어 요약 (Korean Summary)**
@@ -19,6 +18,8 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Restaurant
 > - **핵심 표현:** Quisiera… / La cuenta, por favor / Para mí…
 > - **문화 차이:** 스페인 21-23시 식사, 아르헨티나 21-23시 늦은 저녁
 > - **한국어 학습자 주의:** 정중 표현 quisiera (querer 의 의문법/과거형 활용)
+
+---
 
 ## Lesson Overview
 

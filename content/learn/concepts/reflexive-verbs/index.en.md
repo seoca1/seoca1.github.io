@@ -2,14 +2,13 @@
 title = "Reflexive Verbs (Verbos Reflexivos)"
 date = 2026-06-16
 draft = false
-description = "Reflexive Verbs (Verbos Reflexivos) - Spanish Grammar for A1 learners"
-categories = ["Grammar", "reflexive-verbs"]
+description = "Reflexive Verbs (Verbos Reflexivos) - A1 learners"
+categories = []
 tags = ["grammar", "verbs", "reflexive", "daily-routine", "present-tense"]
 level = "A1"
-type = "Grammar"
+type = ""
 wikilink = "obsidian://open?vault=workspace&file=wiki/concepts/spanish/Reflexive_Verbs.md"
 +++
-
 # Reflexive Verbs (Verbos Reflexivos)
 
 > 🇰🇷 **한국어 요약 (Korean Summary)**
@@ -18,6 +17,8 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/concepts/spanish/Reflexive
 > - **활용 시점:** 일상 루틴, 감정 표현, 신체 동작. **20선 필수 동사** (levantarse, ducharse, vestirse, acostarse 등).
 > - **한국어 학습자 주의:** 한국어에 없는 개념. "Me levanto" = "나는 [나를] 일으킨다" 로 생각.
 > - **관련 레슨:** [[Daily_Routine]] — 이 문법의 주 활용처.
+
+---
 
 ## What Are Reflexive Verbs?
 

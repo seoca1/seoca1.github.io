@@ -2,14 +2,13 @@
 title = "Telling Time (La Hora)"
 date = 2026-07-14
 draft = false
-description = "Telling Time (La Hora) - Spanish Lesson for A1 (Beginner) learners"
-categories = ["Lesson"]
+description = "Telling Time (La Hora)"
+categories = ["Spanish"]
 tags = []
 level = "A1 (Beginner)"
-type = "Lesson"
-wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Telling_Time_Spanish.md"
+type = "Spanish Lesson"
+wikilink = "obsidian://open?vault=workspace&file=wiki/languages/spanish/lessons/Telling_Time_Spanish.md"
 +++
-
 # Telling Time (La Hora)
 
 > 🇰🇷 **한국어 요약 (Korean Summary)**
@@ -18,6 +17,8 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Telling_Ti
 > - **구조:** 정시 (Es la/Son las + 숫자) → 30분 (y media) → 15/45분 (y cuarto / menos cuarto) → 오전/오후 (de la mañana/tarde/noche) → 빈도 (siempre/a veces/nunca)
 > - **발음:** "y" 단독으로 [i] 발음 / 숫자 연결 시 묶음 / "menos cuarto" [ˈmenos ˈkwaɾto] — 부드러운 d 안 나옴
 > - **다음 단계:** [[Daily_Routine]] — 시간 + 일상 동사 결합 / [[Restaurant_Ordering]] — 식당 예약 시간
+
+---
 
 ## Lesson Overview
 

@@ -2,14 +2,13 @@
 title = "Food & Restaurant (Comida y Restaurante)"
 date = 2026-07-14
 draft = false
-description = "Food & Restaurant (Comida y Restaurante) - Spanish Lesson for A1-A2 (Beginner-Elementary) learners"
-categories = ["Lesson"]
+description = "Food & Restaurant (Comida y Restaurante)"
+categories = ["Spanish"]
 tags = []
 level = "A1-A2 (Beginner-Elementary)"
-type = "Lesson"
-wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Food_Restaurant_Spanish.md"
+type = "Spanish Lesson"
+wikilink = "obsidian://open?vault=workspace&file=wiki/languages/spanish/lessons/Food_Restaurant_Spanish.md"
 +++
-
 # Food & Restaurant (Comida y Restaurante)
 
 > 🇰🇷 **한국어 요약 (Korean Summary)**
@@ -18,6 +17,8 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Food_Resta
 > - **구조:** 음식 분류 (과일/채소/고기/음료/디저트) → 핵심 동사 4개 → 식당 주문 회화 → 식사 시간 문화 (스페인 21-23시 vs 아르헨티나 22-24시)
 > - **발음:** "ñ" [ɲ] (champiñón, año) / "ce/ci" [θ] (Spain) / "r" 단타 (arroz) / "ll" [ʎ] 또는 [ʒ] (paella)
 > - **다음 단계:** [[Restaurant_Ordering]] — 정중한 주문 + 식당 문화 / [[Gustar_Verb]] — 음식 선호 표현 심화
+
+---
 
 ## Lesson Overview
 

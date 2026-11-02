@@ -2,14 +2,13 @@
 title = "Argentine Tango Culture (Cultura del Tango Argentino)"
 date = 2026-06-13
 draft = false
-description = "Argentine Tango Culture (Cultura del Tango Argentino) - Spanish Culture for A2 learners"
-categories = ["Culture", "argentina"]
+description = "Argentine Tango Culture (Cultura del Tango Argentino) - A2 learners"
+categories = ["Culture"]
 tags = ["culture", "argentina", "tango", "dance", "music", "buenos-aires"]
 level = "A2"
-type = "Culture"
-wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/culture/Tango_Culture.md"
+type = "Culture Note"
+wikilink = "obsidian://open?vault=workspace&file=wiki/languages/spanish/culture/Tango_Culture.md"
 +++
-
 # Argentine Tango Culture (Cultura del Tango Argentino)
 
 > 🇰🇷 **한국어 요약 (Korean Summary)**
@@ -19,6 +18,8 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/culture/Tango_Cult
 > - **언어 포인트:** Río de la Plata 스페인어 변형 (Argentina/Uruguay 고유 억양·어휘 — *vos*, *sh* 발음)
 > - **회화 표현:** *¿Quieres bailar un tango conmigo?* (나랑 탱고 한 곡 출래?)
 > - **한국인 학습 가치:** 서양 무용의 신체어휘 학습 + 라틴 아메리카 문화 이해
+
+---
 
 ## Why Tango Matters in Language Learning
 

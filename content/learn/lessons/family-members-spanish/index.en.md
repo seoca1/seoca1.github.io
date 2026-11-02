@@ -2,14 +2,13 @@
 title = "Family Members (La Familia)"
 date = 2026-07-14
 draft = false
-description = "Family Members (La Familia) - Spanish Lesson for A1 (Beginner) learners"
-categories = ["Lesson"]
+description = "Family Members (La Familia)"
+categories = ["Spanish"]
 tags = []
 level = "A1 (Beginner)"
-type = "Lesson"
-wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Family_Members_Spanish.md"
+type = "Spanish Lesson"
+wikilink = "obsidian://open?vault=workspace&file=wiki/languages/spanish/lessons/Family_Members_Spanish.md"
 +++
-
 # Family Members (La Familia)
 
 > 🇰🇷 **한국어 요약 (Korean Summary)**
@@ -18,6 +17,8 @@ wikilink = "obsidian://open?vault=workspace&file=wiki/spanish/lessons/Family_Mem
 > - **구조:** 직계 가족 (padre/madre/hermano/hermana) → 배우자 (esposo/esposa) → 친척 (tío/primo/sobrino) → 소유형 (mi/tu/su/nuestro) + 호칭
 > - **발음:** "ñ" [ɲ] (niño, año) — 한국어 ㄴ + 이 반음 비슷 / "j" [x] 또는 [h] (hijo) — 강한 h
 > - **다음 단계:** [[Daily_Routine]] — 가족과의 일상 대화 / [[Gustar_Verb]] — 가족 선호 표현
+
+---
 
 ## Lesson Overview
 
