@@ -2,7 +2,7 @@
 title = "일일 뉴스 브리핑 — 2026-11-04"
 date = 2026-11-04
 draft = false
-description = "뉴스레터에서 수집한 28건의 기사 요약"
+description = "뉴스레터에서 수집한 13건의 기사 요약"
 categories = ["News"]
 tags = ["news", "daily", "briefing"]
 level = "Daily"
@@ -11,7 +11,7 @@ type = "News Digest"
 
 # 📰 일일 뉴스 브리핑 — 2026-11-04
 
-총 **28**건의 주요 기사입니다.
+총 **13**건의 주요 기사입니다.
 
 ## The Scientist
 
@@ -24,25 +24,13 @@ type = "News Digest"
 - [Melanoma mRNA Vaccine Trial Sparks Personalized Medicine Hope](https://www.the-scientist.com/positive-melanoma-mrna-vaccine-trial-data-sparks-personalized-medicine-hope-75191)
 - [Understanding AAV Gene Therapy Development](https://www.the-scientist.com/understanding-aav-gene-therapy-development-75012)
 - [Top Innovations Startup Winners: Interactomics, Cell Therapy Analysis, and Drug Risk](https://www.the-scientist.com/top-innovations-startup-winners-interactomics-cell-therapy-analysis-and-drug-risk-75132)
-- [Squeezing Cells Loosens DNA, Boosts CRISPR Efficiency](https://www.the-scientist.com/squeezing-cells-loosens-dna-boosts-crispr-efficiency-75211)
-- [Build the DNA that AI Tools Design](https://www.the-scientist.com/build-the-dna-that-ai-tools-design-74795)
-- [Then and Now: Emmeline Hill Gallops Through Horse Genetics and Beyond](https://www.the-scientist.com/then-and-now-emmeline-hill-gallops-through-horse-genetics-and-beyond-75159)
-- [Postdoc Portrait: Monir Shayestehfar Studies Axon Survival Mechanisms](https://www.the-scientist.com/postdoc-portrait-monir-shayestehfar-studies-axon-survival-mechanisms-75202)
-- [A Molecular Typewriter Maps Cell Lineages in Mice](https://www.the-scientist.com/a-molecular-typewriter-maps-cell-lineages-in-mice-75133)
-- [What Are You Thankful For?](https://share.hsforms.com/19L51ozODQxCstMa2a83ytAbqeu)
-- [Find better biologics faster with Stunner and the AI Developability Workcell](https://www.the-scientist.com/find-better-biologics-faster-with-stunner-and-the-ai-developability-workcell-75084)
-- [Squeezing Cells Loosens DNA, Boosts CRISPR Efficiency](https://www.the-scientist.com/squeezing-cells-loosens-dna-boosts-crispr-efficiency-75211)
-- [Build the DNA that AI Tools Design](https://www.the-scientist.com/build-the-dna-that-ai-tools-design-74795)
-- [Then and Now: Emmeline Hill Gallops Through Horse Genetics and Beyond](https://www.the-scientist.com/then-and-now-emmeline-hill-gallops-through-horse-genetics-and-beyond-75159)
-- [Axygen MaxRecovery+](https://www.the-scientist.com/axygen-maxrecovery-low-retention-pipette-tips-because-every-drop-counts-74623)
-- [Axygen MaxRecovery+](https://www.the-scientist.com/axygen-maxrecovery-low-retention-pipette-tips-because-every-drop-counts-74623)
-- [Chemistry Meets Arcade Combat in “Reaction Rumble” Game](https://www.the-scientist.com/chemistry-meets-arcade-combat-in-reaction-rumble-game-75101)
-- [Article: Lab Gloves Become a Formal Ball Gown for Advocacy](https://www.the-scientist.com/lab-gloves-become-a-formal-ball-gown-for-advocacy-75102)
-- [Article: MARLIN App Helps Indian Fishers Document Marine Biodiversity](https://www.the-scientist.com/marlin-app-helps-indian-fishers-document-marine-biodiversity-75065)
-- [Article: Best Practices for Blood-Based Amyloid Pathology Testing](https://www.the-scientist.com/best-practices-for-blood-based-amyloid-pathology-testing-74929)
-- [Science Snapshot: Ultrasound Reveals the Brain’s Waste Removal System](https://www.the-scientist.com/ultrasound-reveals-the-brain-s-waste-removal-system-74739)
-- [Article: A Microbiologist Dissects the Science of Infection in Movies](https://www.the-scientist.com/a-microbiologist-dissects-the-science-of-infection-in-movies-75075)
-- [**Read the TS Digest**](https://www.the-scientist.com/series-entry/chemistry-meets-arcade-combat-in-reaction-rumble-game)
+
+## Washington Post
+
+- [Election sale. US$3 every four weeks.](https://links.washingtonpost.com/s/c/uN-MAVzqQZSb5m1ENbLfzv_SxhbHQpc2LH4_vCXfhIpJU-aH0At7xmxAIgl20Pp7iKuY483kDpmE8J3q44Anu3m8ezwpaiLlgIVBo6juAvs_6QULxaXH-aU8zB7m1hjYc9H3Xk5tWoNqa4dSEVRNbqSjmROpASHrrwDHVaOjaEyMGUmwQSQBXwZMBlnU337IJDoTKEoRqEp0vgYGDRwUCUwN-cTItWacy-V_skLDuAQ5QLHWWeVcGQQ1I-F6UI5OJ0ggkGko4niY2cd_TX65ugNgf1ioamaH5sIfCeoZ6TDeNP3H9vfDfMx8VyiKME4lC5Al-qiMRj1555cuBA4R_D4fgbGNCiWvqji-xIT_IshmyTmArOacFTbGBkPdHvOHnsFio9Na0q0h5WWIA-BPs2kupfT84rK3y3PnviHaFRVd-ygiLnnLWdTs8KXK31SsvJE8r5gqHtuxOrB-iGtLwFSUKyZdO4mPrYLQN2xnTIMy75iixMx_ddkn5ZQ11iJY1EfZW21zIBzx8jovWcu34io6ZZt0KXjhx7oGctt_y73--7Lo1GJFnZG6ZTv6n9519abUlI9gwX84mg118_i--cPHKb_m7MG0kGpTOK0/X80x0KuZcPlf-7Rx7Tw7uYV_1LePvb7b/26)
+- [Billed as US$3/four weeks for the first year, then US$12/four weeks. Pricing subject to change. Cancel anytime. →](https://links.washingtonpost.com/s/c/fdx2Mzgtw5Ta6XrXERZpKpdS4UgkcxkhjjTlxQst869lyDQ4HGpkL-QD2BJZDRxPafZPquwcJpcbMafv_nxsPXD8c96lhUZ7NT6jtgTCFtqn_x51LIAv-qvt3ktagEgyKcUeJCa0fyLoTG_4_NZqEU5WcU6B7c3FkyZGihFiPmkl0sA3mcON7NT3DBJAws-OJSBHYyRtIbdoDzvbpCiMWYC9DxzAoOJX-RIxDIYTNARGm-tRaUNHR-KFLMrv-2COgAq41onqE_bn1kYip7AMWDJK-kr2gXGy_AAl6aOLYn63dshIo11WenE8xgiIsT4iNdfaWb4C9NEO6iDwA4F-X-_Y--CuBABPtcOaPVBODtEWlA686ulAWsMVkHAoTCSa5buAKcf7GTfhSm0L4yC_1qmK5Njo5j79TWlw3KtWNm1n4vTsKiF_FMoqSkq8AjYsvEd6KO-QKGv7XeMlJJyaoddK2j3em-WN03LoYkNuMgTjNtWdljuI7GXNr-inMQxTtA950G9KJXniB3DNPwmJ-xdJIf9YRlZwNdfFfEAEujD3xT9ZQ2EtwldBQpv2RBdeCUOaLbvBYkddAJSpS5jCLCgoqn1_uF5xT3arsnM/E1NTglpmx4gP0XOx67QmM1ZA4oB7BLPd/26)
+- [READ ONLINE](https://links.washingtonpost.com/s/vb/JJ5SG49ZqTft599rxpdu8pHelBFF93YiX3sfDfq-0HsMLfSM_wNmOUulZx2pOU1AGiKajlvkr1ujs_2TWC7iCaebS44hvVFmB5tFJoz7xr2eJuSkj-2zObsJ2mzOW0YXN86y_4xaLLPAvZAKa_jbKWHCbs2trrEe0bFiCA/OQyX286UHKM0QLfFF3Hsq7U_a_SBsIaa/26)
+- [## Vance breaks sharply with Trump, blaming midterm losses on administration’s handling of Iran war](https://links.washingtonpost.com/a/sc/zpTbuZRmZbo-FLnGevTaQiBWNDeKN7kq8UUgMP4eBOK0bKQriyCvk9NfIKeTZcf95eaoTd-Ws9RBcj53jqKS27wS4yVoVgcVexOVTdUc9hLEKlJWhDiVbXLfJSqcY630fswQAoyIIHXOhALCw09cnHbGmvgFh0sXJFT3DqWHtyKsRpyON3ND9lPWd59JfvCXiQrkmOtMatu3fN2DR9QBPFzSfLSSIABHar8eeEXS-jbENL7RlVKAA2mkgjlNhf4YYZlO7Eo1UX_6HT4sUv4qBOa-wAY_G-cKAlwWUCdBv0WGsz8gVjzmqT0bywhXWiEpbTdgsrqm1ZRi2L9waWX3gqnA6r9YF2Cnb0kKtvCehVEUN0kMkT_jqiuZYOipDQL_9VGzciM3XxwRfKov7EixNS7QaQIt80on7qU_8vBRvEc1BM-KBxgtP2YA3KChtyAYwiIdRD7F_OXucVAhv_uZD6pRE7vUYs3rGHd-frAg3svI9riqBjMDkRJRG8sxFXJEWqQXhggPG3B5a_k9Ni-ljvxq/d1Wo4vVYo_QQC6s8u14peDfeklZNlErl/26)
 
 ---
 

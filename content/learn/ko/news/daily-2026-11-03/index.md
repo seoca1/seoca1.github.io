@@ -2,7 +2,7 @@
 title = "일일 뉴스 브리핑 — 2026-11-03"
 date = 2026-11-03
 draft = false
-description = "뉴스레터에서 수집한 28건의 기사 요약"
+description = "뉴스레터에서 수집한 16건의 기사 요약"
 categories = ["News"]
 tags = ["news", "daily", "briefing"]
 level = "Daily"
@@ -11,7 +11,7 @@ type = "News Digest"
 
 # 📰 일일 뉴스 브리핑 — 2026-11-03
 
-총 **28**건의 주요 기사입니다.
+총 **16**건의 주요 기사입니다.
 
 ## The Scientist
 
@@ -27,22 +27,13 @@ type = "News Digest"
 - [Then and Now: Emmeline Hill Gallops Through Horse Genetics and Beyond](https://www.the-scientist.com/then-and-now-emmeline-hill-gallops-through-horse-genetics-and-beyond-75159)
 - [Axygen MaxRecovery+](https://www.the-scientist.com/axygen-maxrecovery-low-retention-pipette-tips-because-every-drop-counts-74623)
 - [Axygen MaxRecovery+](https://www.the-scientist.com/axygen-maxrecovery-low-retention-pipette-tips-because-every-drop-counts-74623)
-- [Chemistry Meets Arcade Combat in “Reaction Rumble” Game](https://www.the-scientist.com/chemistry-meets-arcade-combat-in-reaction-rumble-game-75101)
-- [Article: Lab Gloves Become a Formal Ball Gown for Advocacy](https://www.the-scientist.com/lab-gloves-become-a-formal-ball-gown-for-advocacy-75102)
-- [Article: MARLIN App Helps Indian Fishers Document Marine Biodiversity](https://www.the-scientist.com/marlin-app-helps-indian-fishers-document-marine-biodiversity-75065)
-- [Article: Best Practices for Blood-Based Amyloid Pathology Testing](https://www.the-scientist.com/best-practices-for-blood-based-amyloid-pathology-testing-74929)
-- [Science Snapshot: Ultrasound Reveals the Brain’s Waste Removal System](https://www.the-scientist.com/ultrasound-reveals-the-brain-s-waste-removal-system-74739)
-- [Article: A Microbiologist Dissects the Science of Infection in Movies](https://www.the-scientist.com/a-microbiologist-dissects-the-science-of-infection-in-movies-75075)
-- [**Read the TS Digest**](https://www.the-scientist.com/series-entry/chemistry-meets-arcade-combat-in-reaction-rumble-game)
-- [Enzyme Engineering Speeds Up With an Ultra-High-Throughput Screening Platform](https://www.the-scientist.com/enzyme-engineering-speeds-up-with-an-ultra-high-throughput-screening-platform-75131)
-- [Improving Laboratory Workflows with Precision Balances](https://www.the-scientist.com/mx-analytical-and-precision-balances-effortless-weighing-and-secure-data-handling-75081)
-- [A New Initiative Bridges the Gap Between Discovery and Drug Development](https://www.the-scientist.com/a-new-course-bridges-the-gap-between-discovery-and-drug-development-75003)
-- [What are the Biggest Challenges in Neuroscience?](https://share.hsforms.com/1puC1H0alRSq0xB9kjUwIIwbqeu)
-- [A Non-Opioid Pain Receptor Has Renewed Potential for Pain Treatment](https://www.the-scientist.com/a-non-opioid-pain-receptor-has-renewed-potential-for-pain-treatment-75164)
-- [Words for Nerds](https://www.the-scientist.com/game/words-for-nerds)
-- [From Data to Discovery: Multiomics for Therapeutic Innovation](https://www.the-scientist.com/from-data-to-discovery-omics-in-therapeutic-innovation-74034)
-- [Enzyme Engineering Speeds Up With an Ultra-High-Throughput Screening Platform](https://www.the-scientist.com/enzyme-engineering-speeds-up-with-an-ultra-high-throughput-screening-platform-75131)
-- [Improving Laboratory Workflows with Precision Balances](https://www.the-scientist.com/mx-analytical-and-precision-balances-effortless-weighing-and-secure-data-handling-75081)
+
+## Washington Post
+
+- [Election sale. US$3 every four weeks.](https://links.washingtonpost.com/s/c/tBPmA2jKXMTHbttxLBqnrKO8h5z65-mC0C6PWIwP-P28B9rpG38ZeLifsDFhzdg4T6eSnCJqH_VsXRat4Uck_m2IyV2G7ZA6bxXHbUQ67cz8JE-1TP-Ct8PiFRwNlw3PlHI0Vws8RMfAJlKJ1mbqfgSU-kgnUR51mwiubWzTLcn0trDTR9l8GOBk8IpAfhQ4BoVm6BX2OP9Nor3TahtKxYNznsua9De1K1V7vMxkSOo3SZG3T2I9B42y67c0puaVPW8zST3ICWYtei9gnIZPPSeH828xXHTMee6sWgO85exjmotUay9fSt0mWfI9RaeFD52hyZO1P7D8ykN_m8lEaaeRpzXxegT1hPLofearlHSdohiKUF6QVMGO5eQCKUlGI6wrgPJnX-qdtBg5c8aLNC09F7QibPfVdWIL7M5d_lLwQm1MhWZOGiRNryvAyUCaT5C6MTklQoC1Odz1nXtGN9eWIa-cQEuHff3R9yTPclc0IUALRSrjdnaEBByx2jL2zzxt1mPS2fjuqIDaWlJpB-7JBKe5OKO5E_XmwNQkTc9E97Kz3oNld1q23s_4SZf31SNs39RwgJEtJ1_Z7exPRaRPVITc_MamvRA2MG4/wRhx0oOfzZq1xknB4Rll4GhnOjo4Jf24/26)
+- [Billed as US$3/four weeks for the first year, then US$12/four weeks. Pricing subject to change. Cancel anytime. →](https://links.washingtonpost.com/s/c/MfkpNieEYgU1xqT8WdNKymut7Yh5J7fzdyWhu_D3OOCzG917G_-V13AiVW8e88tQkHQIpPbftlG0XCOEHPpInftBFPaWMMLt3xjPwHmOuXny4O7XlWm9D_r_JEM0RgDcJS7eB_uzJN0tJz3aobZv7hB43DsSjwrJZhvysJD7tt48fg6YNVePXeIWdkQVKqZeSChhKVhYbnHTncLWwi86lONlYtH_AMetXNzBzF9Oew4h3UTxPwbJrd-kR-4ME551nkclKsyWIH4uI8VA6dLbwt84520nU5zv-SmYXl1IEkHEPUyso4cO8RbMCaw2OnBZxAP_XXFXF1P7b4tonFn-NynBCSdDTCEovH6d_PxHN_Bs1jjzJS-CPGrMxNj5A1CiQMgDAe--NK7TTlBQFx7KMLiIbzUzFMs62LLmBSC00SyRgerIFzOJmw13Lzhx88SKjUmclf09cuJU1TPVpNGYboplWure5ZjAm9Ahen0SQTqAN_UPVD9VQCKJiVdLZypienL6cIUH0e3IUyZoIQvQLbVCx2-oGEwYQP8LtolnIMxY-urJc7FQV3IYlC9Tt6AX4NR-k98KIZcREl4wNYfrU4GMK8wfz69OCxXGMCg/pwccU6s9GN7nEuK3DDz2APDxImNTlaRP/26)
+- [READ ONLINE](https://links.washingtonpost.com/s/vb/Fop_k9TRM7LElXH7tvvB6uIedUaAHyGvhfU5EB6a7rkime4Z4IpqMUsGD-8TerkopN2sBI7oJyd3CWoLw2UFvMjecQnujt1R9kSm0Wl1VgiMhcCkvOKr5WlvXLpb2abgoZJzGs1FdsQ2wPA4pX8AJw62g24iv0lQOZXaOA/KxL9nyOTgWhJ2AGvwEqotfT3YVoQfnin/26)
+- [## The unlikely player in contentious Michigan Senate race: Stevens’s fiancé](https://links.washingtonpost.com/a/sc/txUnJG-oUf6dyPsUq4N6DhwEgT0ZooUGy9Kdej3UAa39__j2bIUapiIcocW65xCmsIKlSk27ldQcTMZffObjdMyTV6cZmhlVK5oVK5W9h8hDnqC_JVI5rPyae_yNrUyPFsm4eYqo1wJjDhyH0VQ8Fd3TbSfx5-g-ctVpsAWj2eslPMvLQ5IRC0uStbphApH_ABbIVHy5gKfZY0l-LMJ8A5ZC_Ejqeg2z8l4MpboCzC4IuiXS_rVHpir_iTVnur9LFKYjbObUtm3Tmtjwgiezfx2yaQyWlUKI4G1xheIMH1EJDsasVl7fN-uQ7giOjde65L3Nn9RiJiuCwBswJI--0pbWo2LDi7rRKqjPDdmUBsfKe-4OEQ2QqIxiIg7VlkAiELiH9M16q6aIOC2Y1g-9Rv0QO66UOV9fFgfIUm)
 
 ---
 

@@ -2,7 +2,7 @@
 title = "일일 뉴스 브리핑 — 2026-11-01"
 date = 2026-11-01
 draft = false
-description = "뉴스레터에서 수집한 26건의 기사 요약"
+description = "뉴스레터에서 수집한 5건의 기사 요약"
 categories = ["News"]
 tags = ["news", "daily", "briefing"]
 level = "Daily"
@@ -11,36 +11,15 @@ type = "News Digest"
 
 # 📰 일일 뉴스 브리핑 — 2026-11-01
 
-총 **26**건의 주요 기사입니다.
+총 **5**건의 주요 기사입니다.
 
-## The Scientist
+## Washington Post
 
-- [Axygen MaxRecovery+](https://www.the-scientist.com/axygen-maxrecovery-low-retention-pipette-tips-because-every-drop-counts-74623)
-- [Axygen MaxRecovery+](https://www.the-scientist.com/axygen-maxrecovery-low-retention-pipette-tips-because-every-drop-counts-74623)
-- [Chemistry Meets Arcade Combat in “Reaction Rumble” Game](https://www.the-scientist.com/chemistry-meets-arcade-combat-in-reaction-rumble-game-75101)
-- [Article: Lab Gloves Become a Formal Ball Gown for Advocacy](https://www.the-scientist.com/lab-gloves-become-a-formal-ball-gown-for-advocacy-75102)
-- [Article: MARLIN App Helps Indian Fishers Document Marine Biodiversity](https://www.the-scientist.com/marlin-app-helps-indian-fishers-document-marine-biodiversity-75065)
-- [Article: Best Practices for Blood-Based Amyloid Pathology Testing](https://www.the-scientist.com/best-practices-for-blood-based-amyloid-pathology-testing-74929)
-- [Science Snapshot: Ultrasound Reveals the Brain’s Waste Removal System](https://www.the-scientist.com/ultrasound-reveals-the-brain-s-waste-removal-system-74739)
-- [Article: A Microbiologist Dissects the Science of Infection in Movies](https://www.the-scientist.com/a-microbiologist-dissects-the-science-of-infection-in-movies-75075)
-- [**Read the TS Digest**](https://www.the-scientist.com/series-entry/chemistry-meets-arcade-combat-in-reaction-rumble-game)
-- [Enzyme Engineering Speeds Up With an Ultra-High-Throughput Screening Platform](https://www.the-scientist.com/enzyme-engineering-speeds-up-with-an-ultra-high-throughput-screening-platform-75131)
-- [Improving Laboratory Workflows with Precision Balances](https://www.the-scientist.com/mx-analytical-and-precision-balances-effortless-weighing-and-secure-data-handling-75081)
-- [A New Initiative Bridges the Gap Between Discovery and Drug Development](https://www.the-scientist.com/a-new-course-bridges-the-gap-between-discovery-and-drug-development-75003)
-- [What are the Biggest Challenges in Neuroscience?](https://share.hsforms.com/1puC1H0alRSq0xB9kjUwIIwbqeu)
-- [A Non-Opioid Pain Receptor Has Renewed Potential for Pain Treatment](https://www.the-scientist.com/a-non-opioid-pain-receptor-has-renewed-potential-for-pain-treatment-75164)
-- [Words for Nerds](https://www.the-scientist.com/game/words-for-nerds)
-- [From Data to Discovery: Multiomics for Therapeutic Innovation](https://www.the-scientist.com/from-data-to-discovery-omics-in-therapeutic-innovation-74034)
-- [Enzyme Engineering Speeds Up With an Ultra-High-Throughput Screening Platform](https://www.the-scientist.com/enzyme-engineering-speeds-up-with-an-ultra-high-throughput-screening-platform-75131)
-- [Improving Laboratory Workflows with Precision Balances](https://www.the-scientist.com/mx-analytical-and-precision-balances-effortless-weighing-and-secure-data-handling-75081)
-- [Bats’ Viral Immunity May Have Driven Their Long Lifespans](https://www.the-scientist.com/bats-viral-immunity-may-have-driven-their-long-lifespans-75153)
-- [Profiling Cancer at Single Cell Resolution: What It Takes](https://www.the-scientist.com/profiling-cancer-at-single-cell-resolution-what-it-takes-74895)
-- [The Chemistry Behind the Corpse Flower’s Deathly Stench](https://www.the-scientist.com/the-chemistry-behind-the-corpse-flower-s-deathly-stench-75185)
-- [Rare "Werewolf Syndrome" Condition Reveals Hair Growth Secrets](https://www.the-scientist.com/rare-werewolf-syndrome-condition-reveals-hair-growth-secrets-75188)
-- [How Forensic Scientists Decode The Scent of Human Decay](https://www.the-scientist.com/how-forensic-scientists-decode-the-scent-of-human-decay-75196)
-- [The Growing Threat of Vector-Borne Viruses](https://www.the-scientist.com/showcasing-the-importance-of-molecular-testing-for-vector-borne-diseases-73298)
-- [Beyond the Nikon AI Controversy: What Does PCD Really Look Like?](https://www.the-scientist.com/beyond-the-nikon-ai-controversy-what-does-pcd-really-look-like-75201)
-- [Tell Us, What Determines Scientific Impact?](https://share.hsforms.com/1CWAZPt01QkmPQ-X73fRcnQbqeu)
+- [Election sale. Share access with three extra accounts.](https://links.washingtonpost.com/s/c/aDTuXfYBABjvcLLv_-TPpwtKOOODqKO7cNxeStMM7YNiK4aia5bwl5XY3GOU6L3IdQbaC3gSbt0U2wr6vZk__nVhlpCP-IUTr2CRDPwaa2pAWqEJhJuPNLFEFDTbNh6qpmTHnaZL39O_MnnQJ5BCp3Ivs4EmErzNSSqpb_fKwWaj9Mla4FFl0BpdRmoXf8sEqaZ5W3Af3T3Zag8fCNNdR3M3vdmm8kNZNsuXz5NsMi1tuHlNzAJfWZtnQsQmTuKNJk0_3WxGW3jB-62qAHZEnRojrqDqOto5hWgXby3B7vJcBUtXDjalIY-sKxndej6DIoxR30OPCCiMHLGxIvatcvtniBYU2V3Ddww65i_vQtZDzaxItNhmwFFZZMa30aHKpAUPPI8650df_foc0sSC0oYa_5DlAPLyjn71Y-Idq6QXFWM3lIfnhiZulKR_7HgcENzPuY-pSr8ARabE3RXyx89RtJKAjW6S2-7t0aRqBU_xQY_ckv_MXsXgYddiUE-jIWoySfiw3MPJ7j0Hmz6kbjn0U6WMwsnRtL7rC5Kk4UsmpBCvwE-hJUTUDi5s2O9Fd-Tzb5pW68c0aCok9nwwmGjYlT_FWn5m2b6uXys/k-3Rk95gV-RsKYi-Le_dIHjJQKl8msHZ/26)
+- [Billed as US$3/four weeks for the first year, then US$12/four weeks. Pricing subject to change. Cancel anytime. →](https://links.washingtonpost.com/s/c/phE298Z3bj9GRsCMnE4oNPiBO9p2M_7eStLYifucaJYze70tNRWwyGU1G5llfLd0INmdMMvUtXlyWg5XE_mcz394BJAL_r-sODat8Ffhw9d3Q86I5WVtkKNmxNVx85BWAOZSP9Jny5_vdvJey54ZrKEyw17Z625bKRFlstohDQlAID1f1skERmW5bLOZwebMWlceg_NSUq-TdSxW_9nRKiaos5O7TG27Ahr8WozL-zB0PfXJdyxPNVogRsnQB5bxeoczJ_XOzOBU-fACpLoBrv5J1W0Blvh_Q0HuRGYkFv0CZ7a9UBClpZuO64924N18zTtU2roH0cT8DHH-CLLAr5nwO3Q5-lg5B93OJdmbqOjTwb-skraJRh7oTiAhn96XQpITeLsJTtVTpKlsV9t-UK835GOhpIEqi-BEps-s0NjEE8fkpXff4x5cwOhUInNl-F67OwVZE93LdxJDsdSAfS683HcU2LyvtRaZL_XEKf7_7HtmUvT4iwh3n1qsinJsn35x5q_SDwCmmdflOAblhrrYjmkJO_J_XmffOOOUjx81rL_aKpQI3V3qRehlsAle1Xzvrpdkxfg1Ynw0Ph4bj-TRd5eRZrenAStwj5g/a-SrtLhvY5jRX2_SPWKWeDTcdnCTkB6R/26)
+- [READ ONLINE](https://links.washingtonpost.com/s/vb/Sv98KqRsqaPjrGMfoDG5tnS39m_UJUExgxe8eozTO_d9Gl8KzpKoW867hpE4WwWjLYKpw7gGavBOZOfZJk17l9CtPpTQ7-Z0OH8BIuMDPARzYSk4aU8v60WcclzduJNfFT9_lWflVu1CiGq2Q6sZ82cWi1KC5zZm6Kk0mA/MWnJ87TwVWAOJ86vzDeQ3h_c2YsyW6Ck/26)
+- [## Here’s what to do every day to boost your immune system](https://links.washingtonpost.com/a/sc/MvLuUeEPQqaWESJAqODixgoPKPAevY4BIwn1yZwj3CwvBKaeYHi5MrXjf7tA3PUuoGO4MSbNQfSKdZ0e9UvFEfFkpgTgq3OLD4_MDqRLbYjUWSLZkQ2d94nDLXKWXHRN8ahsquJQE7XXPoYIfidGyHBexrLaBeR2GVN45CdRbl6hl5pR9HhejPJLKWAc9s_qPwiCM1kmPVlvfjNXrmOHenJiKRCTwqJGpwt3p-sgdg2suP9_5lqeMah-aHrqBbAzmduJ-GWIf2P8HiKeAcXc-mcxIlGTzJfGRwT5dgTNmMGkTez-MTmahLFFA0g57B0qRZhQKnVB3WpQTVfIYgCwkR5IScN4uWNDbH6mGiUzsUv41cX58YRR4fDit0otXutuO3G1XgXznPOHWd4NW925MbyonICAkwgItcf6Qg_UdK7eXfekx6XrmGG3C487jfAGOb064CaueK9yzn5tAo_KjSdXcAXEnWt5kGo3Qmetd06GoXhsbuTMWHXxPuQ2MkPmzbNe1Sw/NQ3XWDmSEdz21A-dYV9uoTR5kCAGIeWE/26)
+- [## The corruption election: Democrats link Trump’s wealth to voters’ economic pain](https://links.washingtonpost.com/a/sc/3XG7lMWnQ7g_SY5lCRem8pterxlcQxNLLOWk01jDUkfc0nqVswxQvCy-sqaLSExdKiORRvNQ0E5VkyYFZJruqYlZZiMkGFVmRYbMNNdHPzVIELhsPDMSWU7YzgQ_-WId82V)
 
 ---
 
