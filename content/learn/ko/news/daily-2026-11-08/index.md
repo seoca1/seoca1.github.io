@@ -1,0 +1,26 @@
++++
+title = "일일 뉴스 브리핑 — 2026-11-08"
+date = 2026-11-08
+draft = false
+description = "뉴스레터에서 수집한 5건의 기사 요약"
+categories = ["News"]
+tags = ["news", "daily", "briefing"]
+level = "Daily"
+type = "News Digest"
++++
+
+# 📰 일일 뉴스 브리핑 — 2026-11-08
+
+총 **5**건의 주요 기사입니다.
+
+## Washington Post
+
+- [Election sale. US$3 every four weeks.](https://links.washingtonpost.com/s/c/BtoKAOg6U0gWi6OoiyEJ_aXKLVmomvSF5SyY66gnIwW99vSbCHThfGp0RK3OODP6AC0i_bslHM11etkR_1rRmbo6PGQkmLiE4mkcsGgvfHralb39BhuHmaXpgRmn_s4smjVm1uaPdicLc2ZD6ntL5oaH8MUw2XOW5OnKJ1HsEASszloK9-RVwQ2L2HGFQmn8aUp9RXKOohodUrTwLaoRnAEx-BMGL3IwR8xUt1DMLmpV-7fGeKPq-bXsE4XiEF41hCDgrk8vrJdt9gKhPx48IZAmAG6seto7-k0AbXAtEakamurSW7gR2Yd5MN5i7DaEuEaj6LpHr7HJF8WwdM8mgrS_bu22NQRI5GKkryb58q4cFKqhMOdqnCZHs4Rq9Az-l8YKiZlVKjAI6LHJ46RLQ7fmwpVIgSIkm-6_ui2WiNjRFbHtzRMExHH3KnzZY3xIiNAXZIgJGXyd4OJWiyACz025-yA6zD2-1YK9LPxKr8ECaF3jclGc8UqVqMQnYG1DL5m8JXkVMPpmiZiwzKgm21Y2HFiErZ52rCy6fxqIs0kuHuNAVrJzqZu9rci4bFcN5eFm-vuw47R4XLoI3qNP7rf_cSyUOVJUtXL_ttk/3zc7lnaAr7X5CePg53SDUu7b-EIAMUD3/26)
+- [Billed as US$3/four weeks for the first year, then US$12/four weeks. Pricing subject to change. Cancel anytime. →](https://links.washingtonpost.com/s/c/y59IotvRzJkMFnduiciR8PVzWjnTs4Eu3ugnpegjEIPhT4pRHAAqG-7h-wf7YCqJVHXkdcA2SAzTAfvCV68TVbZfCXoJ2yvoyaLrPwkafgaltZjsUWtTJrLn7q3ce53_DkqckjaDbvp-390NJotMGIPDK8X9HC3slthan-bCZZ38gpQihTldUyILHi-NPV5TXDtyzC5tRvvtjhy717yfPqeaufxDEtWDtCIWm9fRrLDGauVJZ1gjr-cicCclzRdicZMjyyMH67I9BrvFk9jysu5nehyEJMjJsyC_2wLrTIcgolSRwnUlZdY3fii2tAAV0RL9tef7U-KzHfzqbnpVh8OrNkkB99vpaahcys6htejZ8ZP8rspeLAJhAv1JSM66vkbzL77rS-caq9bXlr7tljqEAK1TK0mOa5ME1F3eg2BGqhJW8Mql_n5iqrz5l0UIT3K612t64FbHGIRzBP0aI2sVO2dDwg2MOVHPEY2xboC-Bh6oj_q--4p3UWDXunnex9JQKDWllCIvok0UnxlPW2A6X84tbpRUZjG0sUNshHdkORjhlacvf049DJDR_aHsLcf47-fwVUw6553NVopz51rMM59V3ryx7EYdZ9A/NS9abGzMYh_J1Izn4_nvUdnvf8OMmZUR/26)
+- [READ ONLINE](https://links.washingtonpost.com/s/vb/CYperjDqzieKhj-I_ZFr5hepCT0IS8N_OZcuoBcxMtU-rZDL6x4PTYjIY3OCjp4_tKzl63VVLHHqi2KqzE11PTc8hAR8dIt1_JS5LMoIUPF6QEkn-o6Ws_h_g-Hls6ga8OcEzOinwAxN64PUj9OMS59ZtUcr9DZE7_deng/ytfStJfcEI9E5B6l6dXwM3sKqT5Zu3Cg/26)
+- [## Historic voter turnout powered Democrats’ blue wave](https://links.washingtonpost.com/a/sc/fUS193RzjIKg0yZepoPrvF9iEgQIQy6ehnu1GpIOTDbdn0hoii1B7jL2Io9CpcYCyr5rMTfiH4IEwxbQt5UxBKXhgkDPP2Puozu0ha81touwMfDs0CU5UF_651CP5YKfHxmeZ0ggJ7_CQeOL9h5lxO94JrzQDegW-d0RJEAXS1Pf8ZNQo_GeHg_o8D0oMCZ6Ej0Y1K8MBZ9ClrHoJB4hDa1eokU3FlJcaJ5rRXf0OS_5rXYsGVc1vHNMOG6cEovPd90npNvR3DerBadJFoczo-VpTMYllRrtK7C3G8H0hhcRQlSnPKNm_Ye6gBew2UiFLSw6r9bSWikzp_AYn6qrzqD0kBrJFbOCkhbHBD7I4cViMHIiHZJ-ZodpMHWAaI6IxltrXFsFe5upxksSyMxcVXVlMlActZgC__qfKL6A6PGHGM-D5ubGNTibKNVxCcuEsPtrzbHzbjF5yr0DsmgtL8rwOPpSvXUKAUjqhV5FlFVWAgUl5dieAadIHgv0tjgjMyHiIeICHLE/vimYXAqPZET1lzZ_SLUV9QuNQ0Degh1G/26)
+- [## In home design, cold is out and warm is in. Here’s how to raise the temp.](https://links.washingtonpost.com/a/sc/EtfW6bZkgCPq3bd_omdzhR5giBHuw5EVINN4iXIMQnroMwGvdeT2HE0U5Fa3p9JK2zPdFEkGEa2vigsl-Kj5yQx53vXkjB6S8)
+
+---
+
+*OpenClaw 뉴스 수집 시스템이 자동 생성한 일일 브리핑입니다.*
