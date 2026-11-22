@@ -1,0 +1,29 @@
++++
+title = "일일 뉴스 브리핑 — 2026-11-21"
+date = 2026-11-21
+draft = false
+description = "뉴스레터에서 수집한 5건의 기사 요약"
+categories = ["News"]
+tags = ["news", "daily", "briefing"]
+level = "Daily"
+type = "News Digest"
++++
+
+# 📰 일일 뉴스 브리핑 — 2026-11-21
+
+총 **5**건의 주요 기사입니다.
+
+## The Scientist
+
+- [Register now >](https://www.the-scientist.com/reducing-aav-sample-consumption-with-multiwavelength-sv-auc-75239)
+
+## Washington Post
+
+- [Billed as US99¢/four weeks for the first six months, then US$9/four weeks. Pricing subject to change. Cancel anytime. →](https://links.washingtonpost.com/s/c/t7hsvs7DfQ_CD_naMKjCmj6uMEanAONWvUAnvCzpo6boYenESI71suorwsQJg1EfQ3giv5rAS-DxsBp6Z-N2sFx8qLvFDpfC96eOoc3E5hsOYiJ89wf0ID9YQzi4rHUsb8id0mXsp_Af9B_8bvj9MLvQLWRxIn1cWZKwlrhUlbV9tiVo4yHsg4S1mcWbMSyaCRcqKy4VG4FKqoG6yhdPh67slZborgLzNNqrOz8yLK4jSn-CmLMPds4kCmyCO9bd69XAFJbauuH3P-Ez_IRSAaxfivcAFDObGVB42rVjKq0zz1X19NvHhaRq8XO-ERnxEboPfBcCsTvdZKgO2aQFNGyOKH3CyH3vea7A3gKzFuDyQAz4yGnQOEMslTHXCNW7U6BSX_mGKSM8g6BxvqAD2CP8oDqt-FOLIFOW6npaEiu8OOrJfmaUSvFGy9on9bUNl7cF6E4fTvLSdJHGmdEtwB1iyYXTNeVt0Ae84vr-ZoufIr9UEC2urooGj9YC6pEX4YmJETRPxhsnpJ2Rau1fI_Y1Jp8jX1_rnHcVQxaAWpyLBlWG-wNWBlpwIB8Sr8CxXCmZBnKScuPMVSdKgNXRWo6oCsrJ99h89Io/-_EyMS09Ch0u4bpjZMD-oNACJohwLO4z/26)
+- [READ ONLINE](https://links.washingtonpost.com/s/vb/IXtchGn0f-MiWL9Qsd7vuOEH9gMMiFN3J6k0OHQkz78qWttyjlGG8D5sPyNZ78SsdAc_2GXxH3v-wM667738UgkjCNJvQ_RDni6XZjePGbH3olY1IFuJm1PU1zqiG6tRuz3B8BqXtCOPY4YTl6vENxweONs2igisi_5Hlw/TP1bSqz7dPj5LbSfN6RWNPTGQFZYmBre/26)
+- [## Welcome to the age of endless digital breakdowns](https://links.washingtonpost.com/a/sc/PgkdYGJ4fxLSrCRvWHizF9cfCscolP0bdrxWh1sFYixCSbvxZZOrT2UYpGPisaa96UKx4OfI0vSiq1wXIfw1trUy72iZhsjDXlTmfB5EH4E75GmPNLULbFM-6wNDK7XkMnz3AU1VnD3XtNzABzkJj-8cvyAdHAteUD5A5vIUuj8J6LPw_d9ViRF72sd_2kpeJRqKQ3FEKDk5Qgj3cKkiWLKC6pTvAYzmmt3L9s2lOiY8JTWv0lKg_SHYWdyR4SW9t-C_Re-Q7SmG19kOtPUkgT2eV2WFY4HAGcCI0UB8DHHO-m4cfj2aEBNvjGdNgVRjvwvUpVKmA9Ik-AMSV8N0LYA8LpCJnKtGs0jormrK9bE8G4R7FccX1qu8QGG5q0-LTOKteayARTEnbhdZc1SADqJb1UoMiZLoxsR72Ohy8pJ2tJ8pR20cuC_uPFszvbd31ChhAApzHm2_tSeYsrOL5M3kuZBg5Ti2ZhWkUeT7Sy1bovwbDlgTfOb3ciIdQA/CPVdvxM4lBmMQCaAHHqiLBSqb0i1FH3W/26)
+- [## His Alabama district was redrawn so that he’d lose. He won anyway.](https://links.washingtonpost.com/a/sc/o4FgCV5rSvdY_GqbECfndsIC_lSztwXOo-iwzKfhLhNNrMLJwqt8_M-1pqOx6uYhxA45nGn0PubtVLX4DWGDlHwWzOx6KLY_a8JKbgyAq3xEHWg9_eAECs05ASI6VYIF65SfSb-JlETHZXa3MH3aSKrvhJCG7Qwonyu1MejF1OrNn4foW7AdrHhlWsatf8aBmZowFl8qJR-sf9CMtffESsHAdPc8C-w3d6evsjezlRbQlwEGJQa4zkWlrqkzu0w7z1-f_DJ8KMrPKKc7nLRyWcLHjoVgTSIqkf242v77vnbnrfSk290fNRvIWMv9IUJaqptczSp9_prvL4RmgYNg96mC4H7Hxf8LokhaNFecYRfyzeOY4ICK2sBjAYQye-8)
+
+---
+
+*OpenClaw 뉴스 수집 시스템이 자동 생성한 일일 브리핑입니다.*
