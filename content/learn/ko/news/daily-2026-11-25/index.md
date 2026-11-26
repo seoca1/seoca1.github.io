@@ -1,0 +1,31 @@
++++
+title = "일일 뉴스 브리핑 — 2026-11-25"
+date = 2026-11-25
+draft = false
+description = "뉴스레터에서 수집한 7건의 기사 요약"
+categories = ["News"]
+tags = ["news", "daily", "briefing"]
+level = "Daily"
+type = "News Digest"
++++
+
+# 📰 일일 뉴스 브리핑 — 2026-11-25
+
+총 **7**건의 주요 기사입니다.
+
+## The Scientist
+
+- [The guide](https://www.the-scientist.com/measuring-methylation-without-erasing-it-74888)
+- [Read the guide](https://www.the-scientist.com/measuring-methylation-without-erasing-it-74888)
+- [**Download the Guide**](https://www.the-scientist.com/measuring-methylation-without-erasing-it-74888)
+
+## Washington Post
+
+- [Billed as US99¢/four weeks for the first six months, then US$9/four weeks. Pricing subject to change. Cancel anytime. →](https://links.washingtonpost.com/s/c/K66ImQI4IEG38zb-OuX1wpQ4cBmQdE80oBAJa5SaH9YeKHSRgLG1LWsTsQ8H17ZnlQf1By5IYe4NytxGjOW-m0ED-6r036VHx6BdFWv86TGNk5ZMPoXciYtPVAAeGwENv6iRxAQpQ4xl8lwPj2XaVrcKfS2JH0nJbBr6lR0rJdfz_NADUJVE2IXyLNbrQveicYtmext_eDSIojY-t9mj9B0Avkr8FuxTxWio4npW-7LKpMtaSrOXe6XOj21WpmmJu3g_EG9tDwFMy0chOtMxP3_SUK7GlYsN6A5WUy9R1dXN2x4uQq-EIo0LQDeYbVTW_kdb-aaABwK0fXBcxgUyYvDrfjJEojuGIa5PdUGFyyANAkjDgIttDtMTloxsZSp-IWkT5H1V_CrHEBLshvbHaFORhrQEbzrZjLJw6K6LcNC_-bJeoxMZpM6t2P2OctAVxwtau_DVseF0VLQIDhsAvfhMPJZ-_NAjh3b-4YPUDMNavsaV-dnyp7KKavpabzXDDPVUAmRr4BpdboQquGTr0W07S4oySpXD7kwyMd9iyQbDxZr3EkFG4WlXbZkkCkrPkb4kogcQzQJIYCupvG_xlTqkrsLc22iRMtM/JxqSbdy1w_103pYPNcZnLCQFDN4xLh1W/26)
+- [READ ONLINE](https://links.washingtonpost.com/s/vb/-zLpFVWjAifY5_3wI1HlNhhUMM8knVSQl0eufvA_9y4QSkDorV794iaKPLCmFS6keF8Tx05fV8vhSKxRjR2ZU_wl_fP7ffTiVFbURRRGJr7nFaAaIVIq-8MHIyao4I7O3Lmuu2vxbqfJejq9CUYb2J6imwNgh3lL6FeZqQ/W7VC3GXUdrospfOF5aWMXnJLhxbrJN2T/26)
+- [## White House insiders criticize DHS chief Mullin as Trump says he backs him](https://links.washingtonpost.com/a/sc/9WysO6YeXWt2-p9euTSG4uy0QteJ6_XcjdhL4Ga56CjngQxqWP2CfquyIA9fLI9oE4J1mKaedkkjl1aXaYPenlBW-KTQTp7A1OQt0aI36808K7THezBQdhPUc4FsMxhMdafyXxe7e7a7ooJ1njoLAt_SO8mva5DUJxM1k2-gCJaa3tgFTzwrUK8Li5gVEDWCQLQJe2YMc6g1p4LSVtiEszfMaR1qY_pls4JDP_CvxAa6u1arlssmxrP7bHg3XZ_ImPRX5GYLRPdqpgQt9YN6S_omv3YfSgZUHAoKaM19e1WS3y8n3rwu5lSOblrElBP9Jg9ymoahnfxKX888pozpuGugANLJ8WQPav_OyixBlrTjKiwpUY3yEcOPNKaxiCNVcQ1Z7XBbEe8ij3cRc41U5nOkSBAye2jAl0fCpNt6_fkCq1JM3KxHaa-5SgnoAbv_37veeoanksROsICk9-5i7nYEipSnU3G-soaPUly-cJvpJb0AC4Ev97bnyPxkejOlVU1RRTT552s2knqv-yNc8xkPMlg-hPahAhmkA51oJOpMJPbk_Q/e8k0qel_kAsl9K476m6QK3YsKjhasTY-/26)
+- [## Army detonates lead-based explosives in Iowa](https://links.washingtonpost.com/a/sc/I_gBmFvE_ZuONec18pYAqeaNvXKltzxOKWyI4fwQ_Y7HJzNAUC_qv4WpxMMqGrhgUJV5GoOPD0Dn-7nMf5nXF1WGCM0XwDnTSFthTQ5ImJ7LBd-Y1K_bxTuWgAifjZHxgaVki7w65Wl6m_Izd-969L5My7b2zimFs7YUq2eqmRb1FTZLs6V3XiBWpPtcv9XaNJIeCURv4qklU0lWk5Owe7dIVyJ5Jq4yB)
+
+---
+
+*OpenClaw 뉴스 수집 시스템이 자동 생성한 일일 브리핑입니다.*
