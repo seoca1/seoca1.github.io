@@ -1,0 +1,31 @@
++++
+title = "일일 뉴스 브리핑 — 2026-11-27"
+date = 2026-11-27
+draft = false
+description = "뉴스레터에서 수집한 7건의 기사 요약"
+categories = ["News"]
+tags = ["news", "daily", "briefing"]
+level = "Daily"
+type = "News Digest"
++++
+
+# 📰 일일 뉴스 브리핑 — 2026-11-27
+
+총 **7**건의 주요 기사입니다.
+
+## The Scientist
+
+- [**Get the free Case Study**](https://www.the-scientist.com/ai-compresses-a-decade-of-crop-engineering-into-one-year-74969)
+- [Read the case study](https://www.the-scientist.com/ai-compresses-a-decade-of-crop-engineering-into-one-year-74969)
+- [**Access the Case Study**](https://www.the-scientist.com/ai-compresses-a-decade-of-crop-engineering-into-one-year-74969)
+
+## Washington Post
+
+- [Billed as US99¢/four weeks for the first six months, then US$9/four weeks. Pricing subject to change. Cancel anytime. →](https://links.washingtonpost.com/s/c/AZQ9rnyoKKZ-gI_bz3799IaMip3gnFLWGsZIrfOyyW1JTmrKnjKbwmV8QE0XRy28ttBPLSwqS7gjV7zqHd1Llgw2PxopkqyCXvYIeDuJ_68_AzrdmnvZOgtDgJ1K665vy-CX6VSw4Q1mqLqwo7csKxdC_GplrUdfXj-Zogr0BV1vrsbX3lE1v8p-es59QZQgJGscSBPl44VlOdMwnCLGieQ2hg2VXInboSCkQqI96hTm42_0bp4kUCHEqBD3wgFoxBG8KU5usgS5C9Jkr2Zoa9B4ksZMiPtsuKcKWnEXIfmiEmLQvcN6UWxtBM8zikg6M01uxoh8oh8ErHNQl_w8bEKtIiuBPLMMVpfeoD3SO6YOIANg5hd4y9FPgX8eIFw6LTwZDPaSg3PnaOyIOKx3brQkyeLkN5ftWI01ycPV1_T6ToxIh7ICdUN3JdNbWK02gZwyo9PxcRc00AuP-KcLklp3qYFeSrpFsqxCUS_YPB1rvO3w3-pZtxeNjKezmkU-0aHwRO7aJNitf8sCGKkV70S0Wa1hX1pFDhK22RiHm_rWxEifOSMQZeds3M_QLJzGx1OxP3-eHGnnqP9RTtnYjY4uMfvt2J6Uuj0/P6sLdetj0cMER3kfLJOlQJWN7cxwZ_sd/27)
+- [READ ONLINE](https://links.washingtonpost.com/s/vb/gSbIDOrYS8D2D_95H_6Ba2zepVtZKqCUbDF8sEHDGTP33FoFKseUIydWfnOogi6au9mXgOAjI70BADPb54V8F0fkonH2IOneky4eBN_uVH-BpfPN1-RdxYrzCNbKOeTznfRB0HBg70t4FCDWN1I_FeUGK-SHzM1TXGYeFQ/set6ovIuwuowG12Js43nFD5quhD3IXJD/27)
+- [## Denials soar for ‘extraordinary ability’ visa in program once used by Melania Trump](https://links.washingtonpost.com/a/sc/OW57a_gXSX27i1yXZ2bdxk4PW5pwfKQddXBz8QN82KnrYmzG5UqOybIPNw0MGk8j1mKvz5QW678YoRjma0uRBB2n_vCYzog2r4oplM5VqmwWHO4Mfi76SwgEzC5JQbeorKaHmtyBEX4Pnu2DreKG8vj7-SmsMBP7TaS63ZANd4j_xrbZe2qoPpFpAs4w5UlucI8cGcrp97rfqxJETycpuuf_vf_6AqIBm73YYgLAxnw7pEMw5Sv0YJz9WW9PmApgpciDzgh0sqMUfZYfqXrPoz_FRZxSTQo9Tr531PbdwLR_BtnyOYu9_ZSGyjYhTmEKJLX2ZBQcQum0c5_JSsSCwsan9dhXKSc78046QJPRwEesKdoyvwT2-E1gBrq0Ay5nVerifRRedwQaFah4gIp4zdvA7Fkxk5KzQvR3nDjVD3tPhUzKpNb7nXDd6RnsMV3JN092TD0dJRybawQpLn_fUoIsrX--FjaOEst0yXD7rm_py3FqENQukpWuNajdlbKjuTNo-6spMfm1Qts4mhM/73-Yidln8_Jnjt426_aTtqDWDLlS4DYg/27)
+- [## The surprising reason some people sleep better than others](https://links.washingtonpost.com/a/sc/26FmL18LdMr6h9inhj-B-RfY-Sp_5rN1DtAV3AlJ1WYcYfbIqrwBn6_a5Uj1wmMmeyOrF3_rhkIe3QKqiM2IKGPZnrYRvN7lxtmgWpKqtCzNQ6uzCKaAfMi6RZwNn8mlKAwKNv2EKAWWZSfeVSk3VuUk_QKpwoWvTEO5W7kSGNCDVefHkRNGwdISM4sMT3__9Fkbrb8deD2tlbRmezC4oicY-FKTUxvjTZ4yye7osnJOy80L-XfINCoaGzNUsekap9fROjfN5FB0lJdQNXNVPlt4wcn3_DkMAc26OBB3VagzTxGoy-UQeq20bxaCoAd7IbDcKCrW-1)
+
+---
+
+*OpenClaw 뉴스 수집 시스템이 자동 생성한 일일 브리핑입니다.*
